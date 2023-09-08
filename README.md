@@ -21,7 +21,7 @@
 5. **Run The Script:**
     - Replace `<Link>` with the link to the reddit thread you want to scrape, for example,
      'https://www.reddit.com/r/funny/comments/16brnzb/self_aware/'.
-     `python3 Reddit-Destroyer.py <Link>`
+    - `python3 Reddit-Destroyer.py <Link>`
 
 ## Dependencies
 - Python v3.11.4
