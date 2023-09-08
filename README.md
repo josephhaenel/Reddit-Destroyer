@@ -1,17 +1,27 @@
 # Reddit Thread Scraper
 
+## Prerequisites
+- [git](https://git-scm.com/downloads)
+- [miniconda](https://docs.conda.io/projects/miniconda/en/latest/)
 ## How to use:
-1. Install [git](https://git-scm.com/downloads)
-2. Install [miniconda](https://docs.conda.io/projects/miniconda/en/latest/)
-3. Open the Anaconda prompt(miniconda3), and cd into the project directory ~/Reddit-Destroyer `cd Reddit-Destroyer`
-4. Create a new environment from the yaml file `conda create --name RedditDestroyerEnv --file requirements.yaml`
-5. Actiate the environment `conda activate RedditDestroyerEnv`
-6. Clone the repository `git clone https://github.com/josephhaenel/Reddit-Destroyer.git`
-7. From your command line or integrated terminal, cd into the directory ~/Reddit-Destroyer `cd Reddit-Destroyer`
+1. **Clone the repository:**
+    - `git clone https://github.com/josephhaenel/Reddit-Destroyer.git`
+2. **Navigate to the project Directory:**
+    - Open the Anaconda prompt(miniconda3).
+    - `cd Reddit-Destroyer`
+3. **Set Up the Conda Environment:**
+    - Create a new environment from the provided yaml file:
+        - `conda create --name RedditDestroyerEnv --file requirements.yaml`
+    - Actiate the environment:
+        - `conda activate RedditDestroyerEnv`
+4. **Navigate to the Project Directory via Command Line or Integrated Terminal:**
     - On Windows: Press Windows + R, type *cmd*, and press Enter
     - On macOS: Press Cmd + Space, type *Terminal*, and press Enter
     - On Linux: Open a terminal from the application menu or use a shortcut, often Ctrl + Alt + T
-8. Run the script: Type into the terminal `python3 Reddit-Destroyer.py <Link>` and press enter, where Link is a link to a reddit thread, ex: 'https://www.reddit.com/r/funny/comments/16brnzb/self_aware/'
+5. **Run The Script:**
+    - Replace `<Link>` with the link to the reddit thread you want to scrape, for example,
+     'https://www.reddit.com/r/funny/comments/16brnzb/self_aware/'.
+     `python3 Reddit-Destroyer.py <Link>`
 
 ## Dependencies
 - Python v3.11.4
