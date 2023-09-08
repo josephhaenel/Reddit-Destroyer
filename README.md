@@ -4,7 +4,7 @@
 - [git](https://git-scm.com/downloads)
 - [miniconda](https://docs.conda.io/projects/miniconda/en/latest/)
 ## How to use:
-1. **Clone the repository:**
+1. **Clone the Repository:**
     - `git clone https://github.com/josephhaenel/Reddit-Destroyer.git`
 2. **Navigate to the Project Directory:**
     - Open the Anaconda prompt(miniconda3).
