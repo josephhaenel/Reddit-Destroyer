@@ -4,7 +4,7 @@
 '''
 
 import time
-from resources import Scraper
+from resources.Scraper import ScraperClass
 import os
 import argparse
 
@@ -16,7 +16,7 @@ def getTerminalArgs() -> str:
     return args.url
 
 if __name__ == '__main__':
-    reddit_url = getTerminalArgs()
-    scraper = Scraper(reddit_url)
+    reddit_url = 'https://www.reddit.com/r/funny/comments/16brnzb/self_aware/'
+    scraper = ScraperClass(reddit_url)
     scraper.scrape()
     
