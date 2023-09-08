@@ -1,9 +1,23 @@
+'''
+    Filename:       Scraper.py
+    By:             Joseph Haenel
+    Date:           09-08-2023
+    Dependencies:   Selenium, BeautifulSoup4, Webdriver-Manager
+    Using Python 3.11.4
+'''
+__all__ = ['Scraper', 'scrape'] # Public Functions/Variables
+
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 from bs4 import BeautifulSoup
 import time
+import sys
+
+class SoupObjectError(Exception):
+    def __init__(self, message = "Soup Object could not be retrieved"):
+        super().__init__(message)
 
 class Scraper:
     
@@ -34,7 +48,12 @@ class Scraper:
         driver.quit()
         return soup
         
-    def Scrape():
-        pass
+    def scrape(self):
+        try:
+            soupObj = self.getSoupObject()
+        except SoupObjectError as e:
+            print(e)
+            sys.exit(1) # Exit the program with an error code 1
+        # TODO: Call Scraping Functions
     
     
