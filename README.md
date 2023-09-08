@@ -27,6 +27,6 @@
 - Python v3.11.4
 - Selenium v3.141
 - BeautifulSoup4 v4.12.2
-- Webdriver-manager v4.0.0
+- Webdriver-Manager v4.0.0
 
 *Made by **Joseph Haenel** for CS 325 @SIUE*
