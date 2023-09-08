@@ -18,4 +18,5 @@ def getTerminalArgs() -> str:
 if __name__ == '__main__':
     reddit_url = getTerminalArgs()
     scraper = Scraper(reddit_url)
+    scraper.scrape()
     
