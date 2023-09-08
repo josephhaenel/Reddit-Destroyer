@@ -6,7 +6,7 @@
 ## How to use:
 1. **Clone the repository:**
     - `git clone https://github.com/josephhaenel/Reddit-Destroyer.git`
-2. **Navigate to the project Directory:**
+2. **Navigate to the Project Directory:**
     - Open the Anaconda prompt(miniconda3).
     - `cd Reddit-Destroyer`
 3. **Set Up the Conda Environment:**
@@ -21,7 +21,7 @@
 5. **Run The Script:**
     - Replace `<Link>` with the link to the reddit thread you want to scrape, for example,
      'https://www.reddit.com/r/funny/comments/16brnzb/self_aware/'.
-    - `python3 Reddit-Destroyer.py <Link>`
+        - `python3 Reddit-Destroyer.py <Link>`
 
 ## Dependencies
 - Python v3.11.4
