@@ -32,6 +32,6 @@
 - BeautifulSoup4 v4.12.2
 - Webdriver-Manager v4.0.0
 
-** Do not close the Firefox window until it closes itself**
+**Do not close the Firefox window until it closes itself**
 
 *Made by **Joseph Haenel** for CS 325 @SIUE*
