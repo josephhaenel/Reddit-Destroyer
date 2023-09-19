@@ -13,7 +13,7 @@
     - `cd Reddit-Destroyer`
 3. **Set Up the Conda Environment:**
     - Create a new environment from the provided yaml file:
-        - `conda create --name RedditDestroyerEnv --file requirements.yaml`
+        - `conda env create -f requirement.yaml`
     - Actiate the environment:
         - `conda activate RedditDestroyerEnv`
 4. **Navigate to the Project Directory via Command Line or Integrated Terminal:**
