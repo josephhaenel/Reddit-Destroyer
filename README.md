@@ -3,6 +3,8 @@
 ## Prerequisites
 - [git](https://git-scm.com/downloads)
 - [miniconda](https://docs.conda.io/projects/miniconda/en/latest/)
+- [firefox](https://www.mozilla.org/en-US/firefox/new/)
+
 ## How to use:
 1. **Clone the Repository:**
     - `git clone https://github.com/josephhaenel/Reddit-Destroyer.git`
