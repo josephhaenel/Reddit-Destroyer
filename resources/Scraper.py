@@ -2,8 +2,8 @@
     Filename:       Scraper.py
     By:             Joseph Haenel
     Date:           09-08-2023
-    Dependencies:   Selenium, BeautifulSoup4, Webdriver-Manager
-    Using Python 3.11.4
+    Dependencies:   Selenium, BeautifulSoup4, Webdriver-Manager, Firefox Browser
+    Using Python 3.11.0
 '''
 
 __all__ = ['ScraperClass']  # Public Classes
