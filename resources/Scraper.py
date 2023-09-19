@@ -21,7 +21,6 @@ from bs4 import BeautifulSoup
 import time
 import sys
 import json
-import os
 
 # Custom exception to handle scenarios where BeautifulSoup object retrieval fails.
 class SoupObjectError(Exception):

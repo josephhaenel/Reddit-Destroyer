@@ -5,9 +5,7 @@
     Date:           09-08-2023
 '''
 
-import time
 from resources.Scraper import ScraperClass
-import os
 import argparse
 
 def getTerminalArgs() -> str:
