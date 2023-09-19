@@ -21,12 +21,15 @@
 5. **Run The Script:**
     - Replace `<Link>` with the link to the reddit thread you want to scrape, for example,
      'https://www.reddit.com/r/funny/comments/16brnzb/self_aware/'.
-        - `python3 Reddit-Destroyer.py <Link>`
+        - `python Reddit-Destroyer.py <Link>`
 
 ## Dependencies
-- Python v3.11.4
+- Firefox
+- Python v3.11.0
 - Selenium v3.141
 - BeautifulSoup4 v4.12.2
 - Webdriver-Manager v4.0.0
+
+** Do not close the Firefox window until it closes itself**
 
 *Made by **Joseph Haenel** for CS 325 @SIUE*

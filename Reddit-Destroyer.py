@@ -16,7 +16,6 @@ def getTerminalArgs() -> str:
     return args.url
 
 if __name__ == '__main__':
-    reddit_url = 'https://www.reddit.com/r/funny/comments/16brnzb/self_aware/'
-    scraper = ScraperClass(reddit_url)
+    scraper = ScraperClass(getTerminalArgs())
     scraper.scrape()
     

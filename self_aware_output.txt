@@ -1,0 +1,1664 @@
+[
+    {
+        "Text": "✨⭐ Don't miss our 50-million-subscriber-mark celebration! ⭐✨      This is a friendly reminder to read our rules.      Memes, social media, hate-speech, and pornography are not allowed.      Screenshots of Reddit are expressly forbidden, as are TikTok videos.  Rule-breaking posts may result in bans.    Please also be wary of spam.  I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.",
+        "Username": "AutoModerator",
+        "Date": "Wednesday, September 6, 2023 at 1:20:57 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "He has the least threatening voice, similar to Bob Ross.",
+        "Username": "SeniorDiscount",
+        "Date": "Wednesday, September 6, 2023 at 1:39:20 PM CDT",
+        "Score": 2123
+    },
+    {
+        "Text": "Right? He should do audiobooks.",
+        "Username": "Elle_se_sent_seul",
+        "Date": "Wednesday, September 6, 2023 at 4:20:32 PM CDT",
+        "Score": 324
+    },
+    {
+        "Text": "Or narrate documentaries",
+        "Username": "serviceadvisorshay",
+        "Date": "Wednesday, September 6, 2023 at 7:48:50 PM CDT",
+        "Score": 74
+    },
+    {
+        "Text": "Or sell exercise machines and home gyms",
+        "Username": "UnremarkabklyUseless",
+        "Date": "Wednesday, September 6, 2023 at 9:26:33 PM CDT",
+        "Score": 59
+    },
+    {
+        "Text": "Nah, he should just stick to making racist comments on podcasts in the background.",
+        "Username": "SusanForeman",
+        "Date": "Wednesday, September 6, 2023 at 7:32:37 PM CDT",
+        "Score": 81
+    },
+    {
+        "Text": "I'm sad about this information :(",
+        "Username": "JuliButt",
+        "Date": "Wednesday, September 6, 2023 at 7:49:48 PM CDT",
+        "Score": 40
+    },
+    {
+        "Text": "What what? Chuck Norris is racist? What I miss?",
+        "Username": "throwawayformobile78",
+        "Date": "Wednesday, September 6, 2023 at 7:54:23 PM CDT",
+        "Score": 27
+    },
+    {
+        "Text": "https://youtu.be/7ud3pK5Wa90?feature=shared",
+        "Username": "CaptOblivious",
+        "Date": "Wednesday, September 6, 2023 at 8:46:27 PM CDT",
+        "Score": 5
+    },
+    {
+        "Text": "What comment did he make? Link?",
+        "Username": "Sentient-Exocomp",
+        "Date": "Wednesday, September 6, 2023 at 8:41:44 PM CDT",
+        "Score": -1
+    },
+    {
+        "Text": "Chuck Norris doesn't need the pass 😎",
+        "Username": "MeMySelfAndI456",
+        "Date": "Wednesday, September 6, 2023 at 8:56:33 PM CDT",
+        "Score": -1
+    },
+    {
+        "Text": "I think he should actually stop doing that",
+        "Username": "bluebluebluebluexmas",
+        "Date": "Wednesday, September 6, 2023 at 8:28:53 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Doesn't it suck? I grew up watching martial arts movies and loved his roles like many others. But his bigotry was full front and center and it makes me sad I can't enjoy most things involving him.",
+        "Username": "EbonyEngineer",
+        "Date": "Thursday, September 7, 2023 at 10:59:44 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Except that he's a terrible person.  Dude could have been Trump back then if it had occurred to him.",
+        "Username": "gsfgf",
+        "Date": "Wednesday, September 6, 2023 at 8:56:36 PM CDT",
+        "Score": 9
+    },
+    {
+        "Text": "Stfu dumbass white boi. Blacks love trump",
+        "Username": "Former_Actuator3832",
+        "Date": "Thursday, September 7, 2023 at 2:12:14 PM CDT",
+        "Score": -2
+    },
+    {
+        "Text": "You mean Mr Rogers? I’d pay good money to see Chuck Norris play Mr Rogers.",
+        "Username": "Kooky_Alien",
+        "Date": "Wednesday, September 6, 2023 at 9:36:54 PM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "Chuck Norris is an awful actor though, and would make a terrible Mr. Rogers.",
+        "Username": "zherok",
+        "Date": "Wednesday, September 6, 2023 at 10:20:03 PM CDT",
+        "Score": 4
+    },
+    {
+        "Text": "Hard disagree",
+        "Username": "Kooky_Alien",
+        "Date": "Wednesday, September 6, 2023 at 10:51:49 PM CDT",
+        "Score": -2
+    },
+    {
+        "Text": "I don't think it's a particularly hot take to say he's more noteworthy for the memes around him than for his acting. His filmography is mostly forgettable other than a couple Canon film highlights, and he probably trended towards more flattering roles (Walker, Texas Ranger certainly fits that) that didn't exactly stretch his range that far. And if you've seen Firewalker, you know he's got basically zero comedic timing.      I'm not comparing him to like Daniel Day Lewis or anything, just as 80s action stars go there's no shortage of alternatives that have more interesting highs or are better \"so bad its good\" fodder or are just plain better actors than he is.",
+        "Username": "zherok",
+        "Date": "Wednesday, September 6, 2023 at 11:10:04 PM CDT",
+        "Score": 4
+    },
+    {
+        "Text": "\"No such thing as mistakes, just happy little accidents. Except challenging me. That's a mistake that'll get you turned into a happy little accident.\"",
+        "Username": "Aegillade",
+        "Date": "Wednesday, September 6, 2023 at 8:50:17 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Damn, til. Chuck Norris is 2 years older than Bob Ross",
+        "Username": "Obvious_Sea2014",
+        "Date": "Wednesday, September 6, 2023 at 9:11:55 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "The most downright scary and intimidating people I have met have been very soft spoken. A full throated whisper was their speaking voice.",
+        "Username": "omnithorpe",
+        "Date": "Wednesday, September 6, 2023 at 9:12:16 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "It's always the quiet ones you have to watch out for.      Especially this one, he has a habit of kicking people. lol",
+        "Username": "ItsmeMr_E",
+        "Date": "Wednesday, September 6, 2023 at 11:49:10 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "That’s because if he’s speaks in a loud voice, the earth will shatter.",
+        "Username": "Gullible_Bar_9165",
+        "Date": "Thursday, September 7, 2023 at 1:25:57 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "That tiger didn't make a mistake just a happy accident.",
+        "Username": "marshman82",
+        "Date": "Thursday, September 7, 2023 at 8:02:14 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "His bank PIN is the last four digits of pi.",
+        "Username": "Clazzo524",
+        "Date": "Wednesday, September 6, 2023 at 3:57:51 PM CDT",
+        "Score": 2102
+    },
+    {
+        "Text": "But every time he needs to enter his pin he says all the digits of pi in his head until he gets to the last four",
+        "Username": "goj1ra",
+        "Date": "Wednesday, September 6, 2023 at 5:35:25 PM CDT",
+        "Score": 374
+    },
+    {
+        "Text": "Huh, guess I was stuck behind Chunk in disguise at the ATM last week.",
+        "Username": "Blackboard_Monitor",
+        "Date": "Wednesday, September 6, 2023 at 5:46:38 PM CDT",
+        "Score": 141
+    },
+    {
+        "Text": "Wonder where Sloth was? Probably getting a Baby Ruth.",
+        "Username": "GeneralLeeRetarded",
+        "Date": "Wednesday, September 6, 2023 at 6:28:52 PM CDT",
+        "Score": 38
+    },
+    {
+        "Text": "Damn. That must have been me. In my defense, I was high af and didn't know which way the card goes in.",
+        "Username": "grandboyman",
+        "Date": "Wednesday, September 6, 2023 at 9:12:01 PM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "ATMs don't charge chuck extra if they don't belong to the bank he uses",
+        "Username": "MeMySelfAndI456",
+        "Date": "Wednesday, September 6, 2023 at 8:55:08 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "i mean how else is he supposed to remember 🤦",
+        "Username": "Darth-Adomis",
+        "Date": "Thursday, September 7, 2023 at 5:47:05 AM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "Chuck does not have a pin, atm card or even bank account, no ATM ever refused to giving him money.",
+        "Username": "just_thisGuy",
+        "Date": "Thursday, September 7, 2023 at 4:30:24 PM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "The ATAM has to give its pin to Chuck to be allowed to be his ATM B*tch",
+        "Username": "0OOO00000OO00O0O0OOO",
+        "Date": "Thursday, September 7, 2023 at 2:45:17 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "And he's counted to infinity... twice.",
+        "Username": "Swyping-EditOptional",
+        "Date": "Wednesday, September 6, 2023 at 5:46:11 PM CDT",
+        "Score": 54
+    },
+    {
+        "Text": "Whenever you try to divide by zero and you can't, that's Chuck Norris stopping you.",
+        "Username": "wafflesareforever",
+        "Date": "Wednesday, September 6, 2023 at 9:59:54 PM CDT",
+        "Score": 15
+    },
+    {
+        "Text": "I just can't forgive him for shilling for Mike Huckabee.      Behind Chuck Norris' beard is another chin.      Chuck Norris killed 2 birds with 1 stone. But Bruce Lee killed 2 stones with 1 bird.      Chuck Norris once surrendered to France.      Chuck Norris doesn't eat food. He's already too full of himself.      Why there are more Chuck Norris jokes than Bruce Lee? Because Bruce Lee is no joke.",
+        "Username": "blarch",
+        "Date": "Wednesday, September 6, 2023 at 7:48:54 PM CDT",
+        "Score": 23
+    },
+    {
+        "Text": "You must be fun at parties.",
+        "Username": "PM_ME_UR_XIPHOID",
+        "Date": "Wednesday, September 6, 2023 at 8:15:46 PM CDT",
+        "Score": -12
+    },
+    {
+        "Text": "I mean yeah if we start bustin' out reverse Chuck Norris jokes, this guy has a bunch!",
+        "Username": "runonandonandonanon",
+        "Date": "Wednesday, September 6, 2023 at 9:12:42 PM CDT",
+        "Score": 17
+    },
+    {
+        "Text": "The upvotes share your opinion. As do I.No more supporting racist shitheads.",
+        "Username": "MyPetGoomba",
+        "Date": "Thursday, September 7, 2023 at 8:07:56 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Check the age scoreboard.",
+        "Username": "CrappyMSPaintPics",
+        "Date": "Wednesday, September 6, 2023 at 8:03:52 PM CDT",
+        "Score": -3
+    },
+    {
+        "Text": "Chuck Norris is so old that when Alexander Graham Bell invented the telephone, the first call he got was Chuck Norris phoning in another movie performance.",
+        "Username": "blarch",
+        "Date": "Wednesday, September 6, 2023 at 8:12:06 PM CDT",
+        "Score": 29
+    },
+    {
+        "Text": "Chuck Norris is so tough he can strangle you with a cordless phone",
+        "Username": "ScrotumScratching",
+        "Date": "Thursday, September 7, 2023 at 5:11:37 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "In one of the Expendables movies, he tells another joke similar to this. Something like \"I was bit by a rattle snake, and after 3 days of agonizing pain, the snake died.\"",
+        "Username": "NinjaBuddha13",
+        "Date": "Wednesday, September 6, 2023 at 4:07:45 PM CDT",
+        "Score": 1042
+    },
+    {
+        "Text": "Hey man, I heard you were bit by a king cobra      Yeah, I was. After 3 days of agonizing pain, the cobra died",
+        "Username": "Shadow07655",
+        "Date": "Wednesday, September 6, 2023 at 8:07:08 PM CDT",
+        "Score": 173
+    },
+    {
+        "Text": "It was five days, but yeah.",
+        "Username": "redpandaeater",
+        "Date": "Wednesday, September 6, 2023 at 8:21:22 PM CDT",
+        "Score": 27
+    },
+    {
+        "Text": "There's a Monty Python joke in here somewhere.",
+        "Username": "steven6868",
+        "Date": "Wednesday, September 6, 2023 at 8:54:47 PM CDT",
+        "Score": 9
+    },
+    {
+        "Text": "“Consult the Book of Armaments!”",
+        "Username": "BackBlast0351",
+        "Date": "Wednesday, September 6, 2023 at 10:56:33 PM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "Tis’ but a scratch!",
+        "Username": "WSOutlaw",
+        "Date": "Wednesday, September 6, 2023 at 9:59:16 PM CDT",
+        "Score": -1
+    },
+    {
+        "Text": "According to the behind the scenes (or in an interview or so), that is his wife favorite Chuck Norris joke, that's why that one was included.",
+        "Username": "jg_a",
+        "Date": "Wednesday, September 6, 2023 at 8:47:06 PM CDT",
+        "Score": 35
+    },
+    {
+        "Text": "I remember the opening night of that movie. The entire theater was packed with 17-25 year old guys. We lost our shit at that joke. The entire theater was jumping out of our seats hugging and high fiving like it was a baseball game. Good times.",
+        "Username": "3Dring",
+        "Date": "Wednesday, September 6, 2023 at 10:52:48 PM CDT",
+        "Score": 15
+    },
+    {
+        "Text": "I'm glad he finally embraced it and stopped pursuing that silly lawsuit.",
+        "Username": "Geronimo0",
+        "Date": "Wednesday, September 6, 2023 at 2:26:30 PM CDT",
+        "Score": 494
+    },
+    {
+        "Text": "It only took him 20 years.",
+        "Username": "Stifu",
+        "Date": "Wednesday, September 6, 2023 at 3:25:01 PM CDT",
+        "Score": 158
+    },
+    {
+        "Text": "I'm out of the loop. What was the lawsuit?",
+        "Username": "Media_Offline",
+        "Date": "Wednesday, September 6, 2023 at 3:35:17 PM CDT",
+        "Score": 108
+    },
+    {
+        "Text": "I think there were many but there was one in particular aimed.at the guy who wrote the book filled with chuck Norris jokes. Originally he hated it and thought that it was some form of defamation.  For almost 20 years he was truly angry about the whole thing and even did interviews where he was asked about it. Eventually he came to realise that he'd been wrong this entire time and that people were idolising him and not only that, he was even more famous now because of it.",
+        "Username": "Geronimo0",
+        "Date": "Wednesday, September 6, 2023 at 4:10:41 PM CDT",
+        "Score": 452
+    },
+    {
+        "Text": "I owned that book \"Chuck Norris Facts\" one edition had a drawing of Chuck driving a ice cream truck covered in human skulls.",
+        "Username": "Scrumpy-Steve",
+        "Date": "Wednesday, September 6, 2023 at 5:31:17 PM CDT",
+        "Score": 152
+    },
+    {
+        "Text": "I mean, there was that one about him fucking a truck…",
+        "Username": "Ok-Permission-2687",
+        "Date": "Wednesday, September 6, 2023 at 7:43:10 PM CDT",
+        "Score": 18
+    },
+    {
+        "Text": "Thank God he was too stupid to realize how popular he was.  Otherwise he would have been president.",
+        "Username": "gsfgf",
+        "Date": "Wednesday, September 6, 2023 at 8:59:49 PM CDT",
+        "Score": 5
+    },
+    {
+        "Text": "he was just one of those greedy short sighted conservatives that couldn't handle the idea that he wasn't getting a piece of the action. if he stopped to think about it for half a second he would have realized that not even the best PR company in the world could have done that for him and he got it all for free.",
+        "Username": "PutsOnOil",
+        "Date": "Wednesday, September 6, 2023 at 6:37:56 PM CDT",
+        "Score": 6
+    },
+    {
+        "Text": "Wow what a dick lol.",
+        "Username": "ChillySummerMist",
+        "Date": "Wednesday, September 6, 2023 at 9:30:34 PM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "this information should ruin him but it won’t?",
+        "Username": "generaltsao",
+        "Date": "Wednesday, September 6, 2023 at 8:57:57 PM CDT",
+        "Score": -1
+    },
+    {
+        "Text": "Lol, I'm definitely not idolizing him when I make those jokes",
+        "Username": "imtoooldforreddit",
+        "Date": "Thursday, September 7, 2023 at 8:10:04 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Or is self awareness becoming Chuck aware?  I don’t know, that doesn’t make any sense.",
+        "Username": "mallik803",
+        "Date": "Wednesday, September 6, 2023 at 2:10:50 PM CDT",
+        "Score": 343
+    },
+    {
+        "Text": "Chuck Norris doesn’t make sense, sense makes Chuck Norris",
+        "Username": "Brave-Butterscotch76",
+        "Date": "Wednesday, September 6, 2023 at 7:51:47 PM CDT",
+        "Score": 76
+    },
+    {
+        "Text": "Chuck Norris doesn’t own a watch, he tells time exactly when it it should be.",
+        "Username": "AmericanoWsugar",
+        "Date": "Wednesday, September 6, 2023 at 8:19:59 PM CDT",
+        "Score": 25
+    },
+    {
+        "Text": "Chuck Norris can punch two pennies cents-less.",
+        "Username": "grafxguy1",
+        "Date": "Wednesday, September 6, 2023 at 8:08:13 PM CDT",
+        "Score": 6
+    },
+    {
+        "Text": "That doesn't make any Chuck Norris...",
+        "Username": "Isra_Alien",
+        "Date": "Wednesday, September 6, 2023 at 10:26:50 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "I'll allow it!",
+        "Username": "StrangeWhiteVan",
+        "Date": "Wednesday, September 6, 2023 at 9:45:28 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Chuck Norris once visited the Virgin Islands. They are now called The Islands.",
+        "Username": "Xx6SiC6xX",
+        "Date": "Wednesday, September 6, 2023 at 3:51:04 PM CDT",
+        "Score": 536
+    },
+    {
+        "Text": "Chuck once got into a fight with Superman. Loser had to wear their underwear on the outside.",
+        "Username": "ipeenpoop",
+        "Date": "Wednesday, September 6, 2023 at 4:55:12 PM CDT",
+        "Score": 216
+    },
+    {
+        "Text": "Chuck doesn't do push-ups. He pushes the Earth down.",
+        "Username": "grafxguy1",
+        "Date": "Wednesday, September 6, 2023 at 5:11:17 PM CDT",
+        "Score": 118
+    },
+    {
+        "Text": "Chuck Norris once touched a hot stove and the stove got burnt.",
+        "Username": "ElmertheAwesome",
+        "Date": "Wednesday, September 6, 2023 at 5:27:46 PM CDT",
+        "Score": 82
+    },
+    {
+        "Text": "Technically everyone does this to a very small degree",
+        "Username": "Kiyasa",
+        "Date": "Wednesday, September 6, 2023 at 9:40:11 PM CDT",
+        "Score": 4
+    },
+    {
+        "Text": "Chuck Norris can dribble a bowling ball.",
+        "Username": "jtipsw02",
+        "Date": "Wednesday, September 6, 2023 at 6:21:31 PM CDT",
+        "Score": 20
+    },
+    {
+        "Text": "Chuck Norris was on an episode of Wheel of Fortune they could not air. The episode starts with Chuck spinning the wheel, and then everyone exchanges uneasy glances the rest of the episode, waiting for it to stop.",
+        "Username": "Squevis",
+        "Date": "Wednesday, September 6, 2023 at 7:51:57 PM CDT",
+        "Score": 32
+    },
+    {
+        "Text": "Jesus can walk on water, Chuck Norris swims through land.",
+        "Username": "youdingusdungus",
+        "Date": "Wednesday, September 6, 2023 at 7:22:38 PM CDT",
+        "Score": 27
+    },
+    {
+        "Text": "Chuck Norris has it on good authority that the virgin Mary isn't a virgin.",
+        "Username": "musashi_san",
+        "Date": "Wednesday, September 6, 2023 at 8:48:54 PM CDT",
+        "Score": 4
+    },
+    {
+        "Text": "When Chuck Norris jumps into the water, he doesn't get wet. The water gets Chuck Norris.",
+        "Username": "goodfellaslxa",
+        "Date": "Wednesday, September 6, 2023 at 8:06:27 PM CDT",
+        "Score": 12
+    },
+    {
+        "Text": "Chuck Norris once took a piss in the gas tank of a semi-truck.  we now know that truck as Optimus Prime.",
+        "Username": "darkland52",
+        "Date": "Thursday, September 7, 2023 at 1:14:16 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "*The Whore Islands",
+        "Username": "Cringe_Meister_",
+        "Date": "Wednesday, September 6, 2023 at 8:21:18 PM CDT",
+        "Score": -1
+    },
+    {
+        "Text": "Chuck Norris tears can cure cancer. It’s unfortunate that he’s never cried.",
+        "Username": "jdovejr",
+        "Date": "Wednesday, September 6, 2023 at 4:01:41 PM CDT",
+        "Score": 145
+    },
+    {
+        "Text": "Chuck Norris can impregnate a woman by simply pointing at her and saying \"booya\".",
+        "Username": "Brocephus_",
+        "Date": "Wednesday, September 6, 2023 at 6:38:49 PM CDT",
+        "Score": 22
+    },
+    {
+        "Text": "All the responsibility, none of the fun",
+        "Username": "deadpoetic333",
+        "Date": "Wednesday, September 6, 2023 at 7:37:15 PM CDT",
+        "Score": 7
+    },
+    {
+        "Text": "So he's from the Q Continuum?",
+        "Username": "TheGokki",
+        "Date": "Wednesday, September 6, 2023 at 10:31:52 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Chuck Norris doesn't use ladders because his head is a more effective rung.",
+        "Username": "rainshifter",
+        "Date": "Thursday, September 7, 2023 at 11:27:09 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "bet he cried when trump lost, though.",
+        "Username": "DodGamnBunofaSitch",
+        "Date": "Wednesday, September 6, 2023 at 9:11:40 PM CDT",
+        "Score": -1
+    },
+    {
+        "Text": "I didn’t know I this was funny until I saw the 20 emojis below the video",
+        "Username": "RealisticEmploy3",
+        "Date": "Wednesday, September 6, 2023 at 6:51:55 PM CDT",
+        "Score": 106
+    },
+    {
+        "Text": "Facebook ass meme lol",
+        "Username": "catdog918",
+        "Date": "Wednesday, September 6, 2023 at 8:56:01 PM CDT",
+        "Score": 20
+    },
+    {
+        "Text": "The modern laughtrack",
+        "Username": "----_____----",
+        "Date": "Wednesday, September 6, 2023 at 9:49:49 PM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "So true 🤣🤣🤣😂🤣😂👌👌👌👌",
+        "Username": "Average__NPC",
+        "Date": "Thursday, September 7, 2023 at 5:10:55 AM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "Chuck Norris clogs the toilet when he pees",
+        "Username": "ipeenpoop",
+        "Date": "Wednesday, September 6, 2023 at 4:54:33 PM CDT",
+        "Score": 97
+    },
+    {
+        "Text": "Chuck Norris doesn't flush the toilet, he scares the shit out of it.",
+        "Username": "Corasin",
+        "Date": "Wednesday, September 6, 2023 at 6:29:45 PM CDT",
+        "Score": 52
+    },
+    {
+        "Text": "I don’t know why, but this one made me laugh the most!",
+        "Username": "SweetActionJack",
+        "Date": "Wednesday, September 6, 2023 at 5:03:20 PM CDT",
+        "Score": 14
+    },
+    {
+        "Text": "No shit, I would have done the same.",
+        "Username": "Bottle_Opener_Games",
+        "Date": "Wednesday, September 6, 2023 at 1:24:27 PM CDT",
+        "Score": 73
+    },
+    {
+        "Text": "Chuck Norris doesn't mow the lawn. He dares it to grow.",
+        "Username": "JOWOrest",
+        "Date": "Wednesday, September 6, 2023 at 5:58:25 PM CDT",
+        "Score": 71
+    },
+    {
+        "Text": "Congratulations, that's one of the best I've seen!",
+        "Username": "vini_2003",
+        "Date": "Wednesday, September 6, 2023 at 7:31:56 PM CDT",
+        "Score": 4
+    },
+    {
+        "Text": "never heard this one nice!",
+        "Username": "udyr_godyr",
+        "Date": "Thursday, September 7, 2023 at 5:42:27 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Nice",
+        "Username": "Curious-Proposal-",
+        "Date": "Thursday, September 7, 2023 at 8:43:00 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "I stopped paying attention to him after he went full racist trying to stop Obama getting elected. Has he gotten better again?",
+        "Username": "SugarBeef",
+        "Date": "Wednesday, September 6, 2023 at 4:19:35 PM CDT",
+        "Score": 70
+    },
+    {
+        "Text": "Nope.    In his post on WND.com, Norris criticizes the Biden administration over its border policies, writing that the \"crisis at the U.S. southern border couldn't be any worse.\"      He has a column on World Net Daily, a far-right media outlet.",
+        "Username": "ialwayschoosepsyduck",
+        "Date": "Wednesday, September 6, 2023 at 5:00:12 PM CDT",
+        "Score": 51
+    },
+    {
+        "Text": "That's unfortunate. He seemed pretty chill before, but then Obama happened and it was like he lost his damn mind. But like with all the MAGA qultists, he just started saying the things he was afraid to before.",
+        "Username": "SugarBeef",
+        "Date": "Wednesday, September 6, 2023 at 5:55:39 PM CDT",
+        "Score": 17
+    },
+    {
+        "Text": "Maybe the left needs to chill out on the line moving. I was a big fan of Clinton, and I despised Bush. I despise both parties now, so I'm pretty near the middle. My values didn't change, the values of the party have. I remember thinking how ridiculous it was how they went after Clinton for the bj and the college incident of smoking weed. Good God, have we gone downhill. Fanaticism is rampant now on both sides. Both sides are okay with their leadership doing evil things because you have to fight evil with evil. Everything is catch phrases now, alot of it is based on irrational thought. There's so many people that clearly have no idea what's actually going on, and we try to blame these people, but both sides own the news and all the media. Our government doesn't understand why the people don't trust them, but they're the cause. There's 2 big narratives going around, and I'm sure the truth is somewhere in there, but this situation is a result of bad leadership and rampant corruption on both sides. The real big gutshot was watching the democratic party fuck over Sanders in 2016 elections. I felt that he genuinely wanted to help the country.",
+        "Username": "Corasin",
+        "Date": "Wednesday, September 6, 2023 at 6:45:54 PM CDT",
+        "Score": -34
+    },
+    {
+        "Text": "Yeah, I remember that one time when both parties stormed the capitol.",
+        "Username": "BastardAtBat",
+        "Date": "Wednesday, September 6, 2023 at 6:56:52 PM CDT",
+        "Score": 39
+    },
+    {
+        "Text": "5/29/20",
+        "Username": "CEhobbit",
+        "Date": "Wednesday, September 6, 2023 at 9:00:36 PM CDT",
+        "Score": -9
+    },
+    {
+        "Text": "I mean, one stormed the capital, and one burned down a city. Classic examples of fanaticism. Perfect example though! Ty for contributing.",
+        "Username": "Corasin",
+        "Date": "Wednesday, September 6, 2023 at 7:04:34 PM CDT",
+        "Score": -32
+    },
+    {
+        "Text": "The both sides fallacy is wrong and lazy thinking. This article was written at the beginning of the pandemic, but the substance of it still holds true today. Both sides are, in fact, not equally to blame for the current state of political division. One side, Republicans, have moved to the extreme right and are no longer concerned with actual policy.",
+        "Username": "ialwayschoosepsyduck",
+        "Date": "Wednesday, September 6, 2023 at 7:25:03 PM CDT",
+        "Score": 20
+    },
+    {
+        "Text": "I surely wouldn't be able to find a similar article written by a republican blaming the democrats? Lol. Dude come on.",
+        "Username": "Corasin",
+        "Date": "Wednesday, September 6, 2023 at 8:03:57 PM CDT",
+        "Score": -4
+    },
+    {
+        "Text": "That's brought up frequently, and that type of thinking is just as wrong and lazy. Both sides having responsibility is not the same as both sides have an equal responsibility. More so, each party acknowledging their responsibility is what's key to a solution, not just identifying the others.      Think of it this way:      A bully feels like the person he's bullying is acting in a way that deserves it. Not that he's being this asshole bully. And what do we know about bullies? That aggression is coming from an internal lack of confidence, or whatever it may be, And it's only challenging it that gets them to stop, continually acquiescing to them only makes it worse. Somebody getting bullied day in and day out that just keeps letting it happen eventually shares in the responsibility, but in a much smaller way. And establishing that the bully is the responsible one is not going to suddenly change the situation, The guy getting bullied taking responsibility for what he can do will.      In the same way, both parties can do relatively small things that elicit much larger reactions on the other side. And that's because the two parties, and every single individual, have different values and priorities. One thing the both parties do, and have always done, is react to other party like it's going to be the death of everyone and everything. And that just emboldens the other side.      And what do we know about the Republican party? They are reactionary. They have little to no platform of their own. Making things easy for them to react to is just as much the left's responsibility as it is the rights for overreacting to it.",
+        "Username": "rbrutonIII",
+        "Date": "Wednesday, September 6, 2023 at 8:23:41 PM CDT",
+        "Score": -6
+    },
+    {
+        "Text": "He predicted “1,000 years of darkness”mid Obama was elected.",
+        "Username": "Merky600",
+        "Date": "Wednesday, September 6, 2023 at 6:27:41 PM CDT",
+        "Score": 30
+    },
+    {
+        "Text": "did he confuse wesley snipes with obama?      for those that are out of the loop, watch charlie murphy's story about rick james from chappell show",
+        "Username": "Bob_Juan_Santos",
+        "Date": "Wednesday, September 6, 2023 at 11:54:50 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Nope, he supports the campaigns of right wing extremist school board candidates.",
+        "Username": "thewanderingstag",
+        "Date": "Wednesday, September 6, 2023 at 8:43:48 PM CDT",
+        "Score": 19
+    },
+    {
+        "Text": "He also endorsed pedo Roy Moore.",
+        "Username": "DrTom",
+        "Date": "Wednesday, September 6, 2023 at 11:23:00 PM CDT",
+        "Score": 6
+    },
+    {
+        "Text": "It’s the Aussie news host of all the people which makes it more funny.",
+        "Username": "vader_samosa",
+        "Date": "Wednesday, September 6, 2023 at 1:57:30 PM CDT",
+        "Score": 71
+    },
+    {
+        "Text": "Its a bit of a stretch to call Karl a \"news host\".",
+        "Username": "Skremash",
+        "Date": "Wednesday, September 6, 2023 at 5:53:55 PM CDT",
+        "Score": 37
+    },
+    {
+        "Text": "",
+        "Username": null,
+        "Date": "Wednesday, September 6, 2023 at 9:12:44 PM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "I love how he doesn't break character but you can hear the cameraman giggling.",
+        "Username": "slgray16",
+        "Date": "Wednesday, September 6, 2023 at 6:26:37 PM CDT",
+        "Score": 13
+    },
+    {
+        "Text": "It's so rare to see 2 Android robots together communicating in their own language. Chuck and Karl in WWE would be Kings.",
+        "Username": "Copytechguy",
+        "Date": "Wednesday, September 6, 2023 at 6:28:26 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "R/longstabbything",
+        "Username": "RipleysBitch",
+        "Date": "Thursday, September 7, 2023 at 10:15:04 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "chuck norris is a human pile of garbage.",
+        "Username": "KeepRedditAnonymous",
+        "Date": "Wednesday, September 6, 2023 at 7:12:28 PM CDT",
+        "Score": 64
+    },
+    {
+        "Text": "Would you care to explain?",
+        "Username": "MyNameBelongs2Me",
+        "Date": "Wednesday, September 6, 2023 at 8:41:09 PM CDT",
+        "Score": 5
+    },
+    {
+        "Text": "he's such a big trump supporter that he had to release a public statement that he wasn't at the capitol on 1/6.",
+        "Username": "DodGamnBunofaSitch",
+        "Date": "Wednesday, September 6, 2023 at 9:12:53 PM CDT",
+        "Score": 32
+    },
+    {
+        "Text": "There it is. Fuck your life.",
+        "Username": "mysonwhathaveyedone",
+        "Date": "Thursday, September 7, 2023 at 7:16:52 AM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "facts don't care about your feelings, dude.",
+        "Username": "DodGamnBunofaSitch",
+        "Date": "Thursday, September 7, 2023 at 12:48:36 PM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "No, fuck you, trumptard.",
+        "Username": "DrStrangererer",
+        "Date": "Thursday, September 7, 2023 at 11:20:03 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "You guys are the embodiment of the “QUIT HAVING FUN” meme",
+        "Username": "pretty_smart_feller",
+        "Date": "Wednesday, September 6, 2023 at 10:25:53 PM CDT",
+        "Score": -12
+    },
+    {
+        "Text": "You wanna have fun fucktard? Make these memes about Terry Crews, Chuck Norris can go fuck himself up his Nazi fuckin ass.",
+        "Username": "Succincter",
+        "Date": "Thursday, September 7, 2023 at 1:39:14 AM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "chuck did it to himself. stop celebrating a bigot, maybe?",
+        "Username": "DodGamnBunofaSitch",
+        "Date": "Thursday, September 7, 2023 at 12:49:14 PM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "One thing is he has (may still) strongly supported teaching the Bible and Christianity in public schools. That's not great.      Not sure if there's more.",
+        "Username": "Bunbury42",
+        "Date": "Wednesday, September 6, 2023 at 8:53:13 PM CDT",
+        "Score": 9
+    },
+    {
+        "Text": "He's also an anti-vaxx nutjob, so is presumably responsible for multiple deaths.",
+        "Username": "Linktank",
+        "Date": "Wednesday, September 6, 2023 at 10:49:01 PM CDT",
+        "Score": 9
+    },
+    {
+        "Text": "Birther, endorsed Roy Moore, first major celeb to support Prop 8, the list goes on.",
+        "Username": "DrTom",
+        "Date": "Wednesday, September 6, 2023 at 11:26:03 PM CDT",
+        "Score": 5
+    },
+    {
+        "Text": "That's petty.",
+        "Username": "grandboyman",
+        "Date": "Wednesday, September 6, 2023 at 9:20:07 PM CDT",
+        "Score": -12
+    },
+    {
+        "Text": "Politics effect real life kiddo.",
+        "Username": "Count_Joshoo",
+        "Date": "Thursday, September 7, 2023 at 5:59:51 AM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "So far, the only answers people have written are \"I disagree with him politically\". That's all the answers summed up.      Americans are so fucking intolerant of each other it's insane.",
+        "Username": "ArtfulAlgorithms",
+        "Date": "Wednesday, September 6, 2023 at 11:22:24 PM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "The meme's were cute 20 years ago before we learned what a pile of shit he was.      We should all know better in 2023.      I could probably list 1000 years of evil things garbage chuck norris has said on tv.",
+        "Username": "KeepRedditAnonymous",
+        "Date": "Wednesday, September 6, 2023 at 11:49:37 PM CDT",
+        "Score": 7
+    },
+    {
+        "Text": "Opinions on policies to balance the budget is politics. Standing by fascism is a difference in basic levels of humanity. If calling out those shitty people is a buzzkill for you, well, we are very sorry.",
+        "Username": "ADhomin_em",
+        "Date": "Thursday, September 7, 2023 at 2:27:52 AM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "I don't understand why you feel so angry, but I hope your day gets better.",
+        "Username": "VoxulusQuarUn",
+        "Date": "Wednesday, September 6, 2023 at 7:20:17 PM CDT",
+        "Score": -23
+    },
+    {
+        "Text": "not angry. just stating factual information in a very bland manner      I hope your day gets better too",
+        "Username": "KeepRedditAnonymous",
+        "Date": "Wednesday, September 6, 2023 at 7:25:37 PM CDT",
+        "Score": 18
+    },
+    {
+        "Text": "Why would he be angry lol, chuck Norris is a piece of shit :)",
+        "Username": "mrASSMAN",
+        "Date": "Wednesday, September 6, 2023 at 10:02:28 PM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "Is this how the Chuck Norris’ jokes started?🤣🤣",
+        "Username": "WhompingWillow1223",
+        "Date": "Wednesday, September 6, 2023 at 2:21:09 PM CDT",
+        "Score": 53
+    },
+    {
+        "Text": "You think it's a joke? Dude killed Batman by crushing his head with his thighs while on a path to world domination. The only reason we don't all speak Norrisese today is because he was stopped by a large allied force.      We owe our thanks to Gandalf the Grey and Gandalf the White and Monty Python and the Holy Grails Black Knight and Benito Mussolini and the Blue Meanie and Cowboy Curtis and Jambi the Genie, Robocop, the Terminator, Captain Kirk, and Darth Vader. Lo-pan, Super Man, every single Power Ranger. Bill S Preston and Theodore Logan, Spock, The Rock, Doc Ock, and Hulk Hogan.",
+        "Username": "Skizot_Bizot",
+        "Date": "Wednesday, September 6, 2023 at 3:32:13 PM CDT",
+        "Score": 100
+    },
+    {
+        "Text": "They all came out of nowhere lightning fast, and they kicked Chuck Norris in his cowboy ass.",
+        "Username": "Kurama802",
+        "Date": "Wednesday, September 6, 2023 at 3:48:45 PM CDT",
+        "Score": 55
+    },
+    {
+        "Text": "It's sad they all fell to Mr Roger's blade shortly after but that's why we honor their sacrifice with Memorial Day.",
+        "Username": "Skizot_Bizot",
+        "Date": "Wednesday, September 6, 2023 at 4:15:02 PM CDT",
+        "Score": 27
+    },
+    {
+        "Text": "One could say it was the ultimate fight of ultimate destiny...",
+        "Username": "Elle_se_sent_seul",
+        "Date": "Wednesday, September 6, 2023 at 4:20:02 PM CDT",
+        "Score": 16
+    },
+    {
+        "Text": "Good guys bad guys and explosions, as far as the eye can see",
+        "Username": "Mazmier",
+        "Date": "Wednesday, September 6, 2023 at 4:21:04 PM CDT",
+        "Score": 16
+    },
+    {
+        "Text": "spocktherockdocock",
+        "Username": "jarymanebrown",
+        "Date": "Wednesday, September 6, 2023 at 6:11:57 PM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "We didn’t start the fire!",
+        "Username": "ShurlurkHolmes",
+        "Date": "Wednesday, September 6, 2023 at 5:40:37 PM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "That was the silliest thing I've read today.",
+        "Username": "triplefastaction",
+        "Date": "Wednesday, September 6, 2023 at 6:29:28 PM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "Have you seen the YouTube video / song?",
+        "Username": "Skizot_Bizot",
+        "Date": "Wednesday, September 6, 2023 at 6:30:38 PM CDT",
+        "Score": 6
+    },
+    {
+        "Text": "I just listened for the first time in 12 years. I feel ancient. Also, I didn't know that was Mouthsounds Neil.",
+        "Username": "Laserdollarz",
+        "Date": "Wednesday, September 6, 2023 at 7:17:06 PM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "Barrens chat, if I recall correctly",
+        "Username": "paragonmac",
+        "Date": "Wednesday, September 6, 2023 at 3:03:14 PM CDT",
+        "Score": 62
+    },
+    {
+        "Text": "god i miss old barrens chat lol",
+        "Username": "manchopsticks",
+        "Date": "Wednesday, September 6, 2023 at 3:48:58 PM CDT",
+        "Score": 16
+    },
+    {
+        "Text": "Nice wow reference haha",
+        "Username": "Actief",
+        "Date": "Wednesday, September 6, 2023 at 3:08:07 PM CDT",
+        "Score": 13
+    },
+    {
+        "Text": "Barrens chat with Chuck Norris jokes truly was the greatest thing of my childhood, thanks for that reminder.",
+        "Username": "ErrorLoadingNameFile",
+        "Date": "Wednesday, September 6, 2023 at 7:55:17 PM CDT",
+        "Score": 12
+    },
+    {
+        "Text": "It was so wild. Was on every server, head to barrens, that's what you got.",
+        "Username": "mindsnare",
+        "Date": "Wednesday, September 6, 2023 at 8:12:17 PM CDT",
+        "Score": 8
+    },
+    {
+        "Text": "Yup. Barrens used to be great back then. Some real fucking crazy funny moments back then.",
+        "Username": "EnclG4me",
+        "Date": "Wednesday, September 6, 2023 at 8:24:42 PM CDT",
+        "Score": 4
+    },
+    {
+        "Text": "They started as Vin Diesel jokes, actually.",
+        "Username": "Man_with_the_Fedora",
+        "Date": "Wednesday, September 6, 2023 at 9:03:42 PM CDT",
+        "Score": 7
+    },
+    {
+        "Text": "A lot of really young people giving you really bad responses. The Chuck Norris jokes started all the way back in the 90's, before any fucking \"Fact Generator\" or WoW Barrens Chat or anything else. It just started because it was fun. Chuck Norris is essentially an unstoppable super hero in his movies (especially at the time), leading to all the jokes about him being invincible. They have gone way further these days - used to be just a handful of them.      But it was funny reading all the kiddies thinking this is a more modern thing.",
+        "Username": "ArtfulAlgorithms",
+        "Date": "Wednesday, September 6, 2023 at 11:21:07 PM CDT",
+        "Score": 5
+    },
+    {
+        "Text": "Vin Diesel fact generator back in the day.  At some point it turned into Chuck Norris.",
+        "Username": "Wreckn",
+        "Date": "Wednesday, September 6, 2023 at 10:13:35 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Chuck Norris once bought a broken down pickup truck. We now know that truck as Optimus Prime.",
+        "Username": "Windyandbreezy",
+        "Date": "Wednesday, September 6, 2023 at 4:01:17 PM CDT",
+        "Score": 15
+    },
+    {
+        "Text": "Too bad he's an asshole.",
+        "Username": "heyimric",
+        "Date": "Wednesday, September 6, 2023 at 7:52:52 PM CDT",
+        "Score": 19
+    },
+    {
+        "Text": "Isn't this the \"Thousand years of Darkness if Obama is reelected?\" guy?",
+        "Username": "Dan794613",
+        "Date": "Wednesday, September 6, 2023 at 8:37:37 PM CDT",
+        "Score": 14
+    },
+    {
+        "Text": "And the antivax guy, and the \"Jan 6 rioters were mostly antifa\" guy, and the \"we should have prayer and teach Jesus in public school\" guy, it goes on, he's definitely a nutjob.      Have you ever watched walker Texas ranger? It's such a dog shit show, I don't actually understand why we even know who this guy is.",
+        "Username": "imtoooldforreddit",
+        "Date": "Thursday, September 7, 2023 at 8:15:58 AM CDT",
+        "Score": 4
+    },
+    {
+        "Text": "When God said \"Let there be light\" Chuck Norris said \"Say Please\"",
+        "Username": "ClipzFaLL",
+        "Date": "Wednesday, September 6, 2023 at 5:40:33 PM CDT",
+        "Score": 14
+    },
+    {
+        "Text": "This guy is a maga douchebag",
+        "Username": "anitabonghit69",
+        "Date": "Wednesday, September 6, 2023 at 8:45:03 PM CDT",
+        "Score": 10
+    },
+    {
+        "Text": "Dude's a foaming-at-the-mouth homophobe, racist, and bigot.",
+        "Username": "Z0MGbies",
+        "Date": "Wednesday, September 6, 2023 at 5:52:57 PM CDT",
+        "Score": 6
+    },
+    {
+        "Text": "Chuck Norris isn't getting massive amounts of cosmetic work done, he just intimidates his ass to slowly move into his face.      Seriously, dude looks like he just ate a snickers with a peanut allergy.",
+        "Username": "ShutupAndBeTheChange",
+        "Date": "Wednesday, September 6, 2023 at 6:55:39 PM CDT",
+        "Score": 7
+    },
+    {
+        "Text": "I like his grin at the end",
+        "Username": "Li-RM35M4419",
+        "Date": "Wednesday, September 6, 2023 at 3:23:07 PM CDT",
+        "Score": 4
+    },
+    {
+        "Text": "Dad joke vibes",
+        "Username": "thebestspeler",
+        "Date": "Wednesday, September 6, 2023 at 7:36:38 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Why is everyone including emoji's now? Gotta convince us something's funny?",
+        "Username": "denimchicken5150",
+        "Date": "Wednesday, September 6, 2023 at 4:14:34 PM CDT",
+        "Score": 4
+    },
+    {
+        "Text": "Petted",
+        "Username": "Waak3nBaak3",
+        "Date": "Wednesday, September 6, 2023 at 6:36:29 PM CDT",
+        "Score": 4
+    },
+    {
+        "Text": "Chuck Norris eats corn the long way.",
+        "Username": "PutsOnOil",
+        "Date": "Wednesday, September 6, 2023 at 6:39:34 PM CDT",
+        "Score": 4
+    },
+    {
+        "Text": "😂 smart tiger!",
+        "Username": "anabellgzz",
+        "Date": "Wednesday, September 6, 2023 at 1:48:36 PM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "Clever girl",
+        "Username": "XscytheD",
+        "Date": "Wednesday, September 6, 2023 at 5:33:39 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Yeah... but how much wood would Chuck chuck if Chuck would chuck wood??",
+        "Username": "RaielLarecal",
+        "Date": "Wednesday, September 6, 2023 at 4:24:57 PM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "All of it",
+        "Username": "Mutzart",
+        "Date": "Wednesday, September 6, 2023 at 5:22:43 PM CDT",
+        "Score": 4
+    },
+    {
+        "Text": "Lol.  Well done.",
+        "Username": "thatguy1895",
+        "Date": "Wednesday, September 6, 2023 at 5:23:58 PM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "I petted the tiger.",
+        "Username": "wakeupin321",
+        "Date": "Wednesday, September 6, 2023 at 5:37:35 PM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "Yeah ok you go tell Chuck Norris that it's not \"petted\"",
+        "Username": "tactical_dick",
+        "Date": "Wednesday, September 6, 2023 at 6:35:45 PM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "Chuck Norris built the hospital he was born in",
+        "Username": "Creative-Cry2979",
+        "Date": "Wednesday, September 6, 2023 at 7:58:50 PM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "Chuck Norris lost his virginity before his dad.",
+        "Username": "johndeer89",
+        "Date": "Wednesday, September 6, 2023 at 8:09:53 PM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "I recently met the kids of the man who trained Chuck Norris. They still train people in Taekwondo since there father passed away. He was stationed at the same military base I’m at now, there great people.",
+        "Username": "TheHunterStorage",
+        "Date": "Wednesday, September 6, 2023 at 8:51:38 PM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "I played this clip for my son and he said \"I'm glad he's still kickin'\"",
+        "Username": "DadJokeBadJoke",
+        "Date": "Wednesday, September 6, 2023 at 10:13:03 PM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "The first handful of top comments in this thread were funny. The rest of them show why America is the politically divided hellhole that it is today.",
+        "Username": "ArtfulAlgorithms",
+        "Date": "Wednesday, September 6, 2023 at 11:24:44 PM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "Chuck Norris doesn't flush the toilet.... He scares the sh..t  out of it.",
+        "Username": "smehere22",
+        "Date": "Thursday, September 7, 2023 at 12:00:57 AM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "The boogeyman checks under his bed for Chuck Norris.      Chuck Norris actually died 20 years ago, but the Grim Reaper is too scared to tell him.      When Chuck Norris was born, he slapped the doctor.      When Chuck Norris left home at 16, he said to his father “Alright you’re the man of the house now…”",
+        "Username": "6_String_Slinger",
+        "Date": "Thursday, September 7, 2023 at 1:05:18 AM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "That was perfect delivery. Is the Liger ok?",
+        "Username": "moneyscan",
+        "Date": "Wednesday, September 6, 2023 at 5:53:54 PM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "Chuck Norris doesn’t read books. He stares at them till they start talking.",
+        "Username": "Whitealroker1",
+        "Date": "Wednesday, September 6, 2023 at 7:13:38 PM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "The comments here make me miss Barrens chat.",
+        "Username": "banjosuicide",
+        "Date": "Wednesday, September 6, 2023 at 7:19:01 PM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "This is it. Joke's over, gang. It was a fun 20-odd years of memes while it lasted.",
+        "Username": "challengeaccepted9",
+        "Date": "Wednesday, September 6, 2023 at 7:36:00 PM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "Ask that fake as why he wouldn’t fight Bruce lee?",
+        "Username": "DarthPizza66",
+        "Date": "Wednesday, September 6, 2023 at 7:51:35 PM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "A friendly reminder: Chuck Norris is an asshole",
+        "Username": "JewsEatFruit",
+        "Date": "Wednesday, September 6, 2023 at 8:00:18 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "I like that country music in the background, sounds like a lucky hillbilly story 😂",
+        "Username": "V014265",
+        "Date": "Thursday, September 7, 2023 at 2:57:51 AM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "Chuck doing Chuck jokes!",
+        "Username": "dontfugginask",
+        "Date": "Thursday, September 7, 2023 at 7:26:24 AM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "I love chucks shit eating grin after the punchline, you could tell he's proud of that one",
+        "Username": "Slakevilkis",
+        "Date": "Thursday, September 7, 2023 at 7:56:46 AM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "Him and Kevin Bacon are fixed points",
+        "Username": "rowshack67",
+        "Date": "Thursday, September 7, 2023 at 12:36:36 PM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "Fuck dad joke chuck joke can kill you 😆🤣",
+        "Username": "greensquad5",
+        "Date": "Thursday, September 7, 2023 at 2:14:25 PM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "I love that the other guy didn't seem to get it.",
+        "Username": "ItsACowCity",
+        "Date": "Wednesday, September 6, 2023 at 4:11:59 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Nah that's Karl. He gets it and was making it better with that reaction",
+        "Username": "flibble24",
+        "Date": "Wednesday, September 6, 2023 at 5:31:21 PM CDT",
+        "Score": 10
+    },
+    {
+        "Text": "Lol chuck in his bag",
+        "Username": "lovelife0011",
+        "Date": "Wednesday, September 6, 2023 at 6:08:30 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Can’t beat a good chuck Norris joke",
+        "Username": "Professional_Bake_92",
+        "Date": "Wednesday, September 6, 2023 at 6:26:01 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "That's hilarious 😂😂😂😂😆😆😆😆",
+        "Username": "cowgirlprophet",
+        "Date": "Wednesday, September 6, 2023 at 6:42:19 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "This is kind of wholesome",
+        "Username": "throwingthisshit1995",
+        "Date": "Wednesday, September 6, 2023 at 7:09:10 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Chuck Norris telling a real chick Norris joke",
+        "Username": "Tysonsmaster360",
+        "Date": "Wednesday, September 6, 2023 at 7:41:49 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Chuck Norris doesn't have emergency contacts. Emergencies contact Chuck Norris.",
+        "Username": "therealityofthings",
+        "Date": "Wednesday, September 6, 2023 at 7:44:44 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Idk what’s better- the joke or the reaction!",
+        "Username": "globaloffender",
+        "Date": "Wednesday, September 6, 2023 at 7:46:31 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "I thought he’s been self aware. He made one of these jokes in the expendables 2 and also read some a long time ago on a talk show or something.",
+        "Username": "Shadow07655",
+        "Date": "Wednesday, September 6, 2023 at 8:06:02 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "😂",
+        "Username": "YouBetterBelieber",
+        "Date": "Wednesday, September 6, 2023 at 8:20:33 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Thanks for a VERY needed laugh.",
+        "Username": "MillionDollarBloke",
+        "Date": "Wednesday, September 6, 2023 at 8:21:33 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "https://youtu.be/d-eCSCZV14A?t=194",
+        "Username": "randomusername_815",
+        "Date": "Wednesday, September 6, 2023 at 8:40:46 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Tim allen brother",
+        "Username": "MediaCultural",
+        "Date": "Thursday, September 7, 2023 at 6:44:37 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Damn. It's too bad he doesn't support my political team because I would totally laugh, but since he has different opinions than me he's a fascist nazi literal-hitler asshole.",
+        "Username": "gary-mf-oak",
+        "Date": "Thursday, September 7, 2023 at 12:25:48 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Carlos is a god damn treasure. Fight me!",
+        "Username": "South_Bit1764",
+        "Date": "Wednesday, September 6, 2023 at 3:44:44 PM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "I believe him.",
+        "Username": "Professional-Sort797",
+        "Date": "Wednesday, September 6, 2023 at 4:35:31 PM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "Walker told me I have AIDS.",
+        "Username": "Kurtotall",
+        "Date": "Wednesday, September 6, 2023 at 6:30:24 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Met Chuck in Iraq, that was a really weird day.",
+        "Username": "W_saber4",
+        "Date": "Wednesday, September 6, 2023 at 7:57:57 PM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "He’s such a joke",
+        "Username": "Bluesho1994",
+        "Date": "Wednesday, September 6, 2023 at 8:07:08 PM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "Those 80s Chuck Norris movies are classic.  I'd never sat down and watched them and they're so over the top ridiculous it's almost like watching a John Waters film.",
+        "Username": "donutsonmyhead",
+        "Date": "Wednesday, September 6, 2023 at 8:09:41 PM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "Yes!",
+        "Username": "e46bhp",
+        "Date": "Wednesday, September 6, 2023 at 8:45:59 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "I forget this man exist but always glad when I see him again",
+        "Username": "Eroclo",
+        "Date": "Wednesday, September 6, 2023 at 9:04:01 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Chuck Norris can strangle you with a cordless phone.",
+        "Username": "BestMess5558",
+        "Date": "Wednesday, September 6, 2023 at 9:06:10 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Was that pic taken at Joe Exotic's zoo or Antle's?",
+        "Username": "1genuine_ginger",
+        "Date": "Wednesday, September 6, 2023 at 9:06:14 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "He was so proud of that joke, you can tell",
+        "Username": "cherry937",
+        "Date": "Wednesday, September 6, 2023 at 9:11:54 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Chuck Norris is a legend, they say that when he jumps into a pool he doesn't get wet, but the pool gets Chuck Norris",
+        "Username": "SmithItsGoodForU",
+        "Date": "Wednesday, September 6, 2023 at 9:16:45 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "My thoughts regarding this are just variations on... fuck  Chuck Norris. I appreciate his long career, but nothing else.",
+        "Username": "smipypr",
+        "Date": "Wednesday, September 6, 2023 at 9:22:31 PM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "Chuck Norris doesn't sleep. He waits.",
+        "Username": "WayToTheGrave",
+        "Date": "Wednesday, September 6, 2023 at 9:30:17 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Is that mark cuban? Maybe I’m drunk",
+        "Username": "No_Extension4978",
+        "Date": "Wednesday, September 6, 2023 at 9:40:44 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Can we stop defending Chuck now that we know he is a sexist, misogynist, racist, anti-vaxxer?",
+        "Username": "Comment deleted by user",
+        "Date": "Wednesday, September 6, 2023 at 9:49:09 PM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "Can we stop defending Chuck now that we know he is a sexist, misogynist, racist, anti-vaxxer?",
+        "Username": "Comment deleted by user",
+        "Date": "Thursday, September 7, 2023 at 8:02:46 AM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "He's known about the memes for many years already.  You can watch him read all the internet statements about himself on camera.",
+        "Username": "Jaybonaut",
+        "Date": "Wednesday, September 6, 2023 at 9:54:13 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Needs more filler",
+        "Username": "WetDumplings",
+        "Date": "Wednesday, September 6, 2023 at 9:56:45 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "More like Hardware",
+        "Username": "RoBot-210",
+        "Date": "Wednesday, September 6, 2023 at 10:06:24 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "It's like Toby knowing about Bully Maguire memes",
+        "Username": "No_Conversation9561",
+        "Date": "Wednesday, September 6, 2023 at 10:06:33 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "CHUCK NORRIS JOKES LOL! STILL FUNNY AFTER 15 YEARS!      You know why they call it an Xbox 360? You take one look, turn 360 degrees, and walk away.      Guys, I just found out digg 2.0 came out. It’s just not good, anyone else feel that way? Didn’t they learn from fark?",
+        "Username": "Implement66",
+        "Date": "Wednesday, September 6, 2023 at 10:19:40 PM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "GOAT",
+        "Username": "deathshadow533",
+        "Date": "Wednesday, September 6, 2023 at 10:21:02 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Lvl 12 Orc warrior arrives into crossroads… Reads world chat, while waiting to respawn from getting ganked by gnome rogue right after landing from flight from Orgimmar reads through every Chuck Norris bible verse being stated Continue to rinse and repeat until you log off and switch to your lvl 60 undead rogue. Continue to rinse and repeat until you exit game and try again tomorrow.",
+        "Username": "itsaabully",
+        "Date": "Wednesday, September 6, 2023 at 10:38:51 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "You sure? Think of it as a thought experiment. Just a conversation. It’s a sign of maturity that you can have civil discourse. I’m not trying to change your mind on anything, just to show you everyone is different.",
+        "Username": "ObiDWanKenobi",
+        "Date": "Wednesday, September 6, 2023 at 10:57:35 PM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "i\"ve heard, when Chuck wants burger, he goes to burger king cause that is his favorite place. and he orders a big mac and gets it.",
+        "Username": "Plammerbeach",
+        "Date": "Wednesday, September 6, 2023 at 11:01:53 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Chuck Norris doesn't read books, he just stares them down and gets the information he needs",
+        "Username": "Leemur89",
+        "Date": "Wednesday, September 6, 2023 at 11:15:29 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "I sure do miss chuck norris memes",
+        "Username": "ChiefChiefChiefChief",
+        "Date": "Wednesday, September 6, 2023 at 11:17:30 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Did you see the video he made when Obama became president where he and his wife are saying 1000 years of darkness are coming because...Obama.  lost all respect for him.",
+        "Username": "Sandpaper_Pants",
+        "Date": "Wednesday, September 6, 2023 at 11:22:25 PM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "Please do not post email addresses on r/Funny (even if they're fake).  I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.",
+        "Username": "AutoModerator",
+        "Date": "Wednesday, September 6, 2023 at 11:52:15 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Please do not post email addresses on r/Funny (even if they're fake).  I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.",
+        "Username": "AutoModerator",
+        "Date": "Wednesday, September 6, 2023 at 11:52:16 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "I can sympathize with the tiger.",
+        "Username": "Mysterious-North-551",
+        "Date": "Thursday, September 7, 2023 at 12:35:47 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "I love me some Chuck",
+        "Username": "Build68",
+        "Date": "Thursday, September 7, 2023 at 1:37:52 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "So harry",
+        "Username": "Super-Cup-3335",
+        "Date": "Thursday, September 7, 2023 at 1:48:30 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Omg he is funny.",
+        "Username": "Agitated-Sock-1116",
+        "Date": "Thursday, September 7, 2023 at 4:41:19 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "He's beginning to believe...",
+        "Username": "tohn_jitor",
+        "Date": "Thursday, September 7, 2023 at 5:33:50 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Chuck Norris can mess up telling a Chuck Norris joke.",
+        "Username": "Eastern_Slide7507",
+        "Date": "Thursday, September 7, 2023 at 5:34:12 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Exhibit #1: the West was able to absorb a highly questionable US election, 9/11, new oil wars, and the exposure of it all (Supreme Court case and Fahrenheit 9/11), yet still have rational conversations, agree to vaccinate our kids, and even see a minority president elected in the US.",
+        "Username": "Elianamum738",
+        "Date": "Thursday, September 7, 2023 at 7:21:15 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "One thing to say… CHUCK NORRIS",
+        "Username": "SifuDerp",
+        "Date": "Thursday, September 7, 2023 at 7:21:15 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Fearless tiger who is not afraid of Chuck🤣",
+        "Username": "JessiSweet69",
+        "Date": "Thursday, September 7, 2023 at 9:27:27 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "No one love Chuck Norris jokes more than Chuck Norris.",
+        "Username": "Coffeeborn",
+        "Date": "Thursday, September 7, 2023 at 10:34:27 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Too bad another Irwin moment didn't happen",
+        "Username": "PrettySock7839",
+        "Date": "Thursday, September 7, 2023 at 10:42:09 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "😂😂😂😂😂😂😂",
+        "Username": "CompetitionStock4598",
+        "Date": "Thursday, September 7, 2023 at 11:05:38 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Does he still do Karate?",
+        "Username": "ZeeZ-ZeeZ",
+        "Date": "Thursday, September 7, 2023 at 11:36:31 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Chuck Norris and Superman fought once. Loser had to wear his underwear over his pants from then on",
+        "Username": "ginsataka",
+        "Date": "Thursday, September 7, 2023 at 11:48:10 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Chuck is the best.",
+        "Username": "AgentOrangeMRA",
+        "Date": "Thursday, September 7, 2023 at 8:17:53 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Some time ago, Chuck visited the Virgin Islands. After he left, they started just calling them The Islands.",
+        "Username": "Teddy_Tickles",
+        "Date": "Wednesday, September 6, 2023 at 5:56:26 PM CDT",
+        "Score": -1
+    },
+    {
+        "Text": "Chuck Norris Brand Dad Joke",
+        "Username": "wallyslambanger",
+        "Date": "Wednesday, September 6, 2023 at 7:44:43 PM CDT",
+        "Score": -1
+    },
+    {
+        "Text": "Oh man. I was just thinking about how Chuck Norris jokes were the pinnacle of internet humor 15 years ago",
+        "Username": "genreprank",
+        "Date": "Wednesday, September 6, 2023 at 7:51:26 PM CDT",
+        "Score": -1
+    },
+    {
+        "Text": "Fuck Chuck Norris. pos.",
+        "Username": "user_bits",
+        "Date": "Wednesday, September 6, 2023 at 9:12:20 PM CDT",
+        "Score": -1
+    },
+    {
+        "Text": "Why?",
+        "Username": "ObiDWanKenobi",
+        "Date": "Wednesday, September 6, 2023 at 10:37:46 PM CDT",
+        "Score": -1
+    },
+    {
+        "Text": "Chuck Norris is a fucking bigot bro",
+        "Username": "ThatShadyJack",
+        "Date": "Thursday, September 7, 2023 at 3:27:49 AM CDT",
+        "Score": -1
+    },
+    {
+        "Text": "https://youtu.be/7ud3pK5Wa90",
+        "Username": "CaptOblivious",
+        "Date": "Wednesday, September 6, 2023 at 8:46:09 PM CDT",
+        "Score": -2
+    },
+    {
+        "Text": "",
+        "Username": null,
+        "Date": "Wednesday, September 6, 2023 at 9:13:41 PM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "So what? Just here for the jokes.",
+        "Username": "Comment deleted by user",
+        "Date": "Wednesday, September 6, 2023 at 9:12:29 PM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "So what? Just here for the jokes.",
+        "Username": "Comment deleted by user",
+        "Date": "Wednesday, September 6, 2023 at 10:53:31 PM CDT",
+        "Score": -1
+    },
+    {
+        "Text": "What in the what now?!",
+        "Username": "ObiDWanKenobi",
+        "Date": "Wednesday, September 6, 2023 at 10:37:36 PM CDT",
+        "Score": -2
+    },
+    {
+        "Text": "Here’s a fun chuck Norris fact… Bruce Lee mop the floor with this clown",
+        "Username": "choppedcheezy",
+        "Date": "Wednesday, September 6, 2023 at 10:10:30 PM CDT",
+        "Score": -3
+    },
+    {
+        "Text": "Chuck has been very self aware from the beginning.      He loves the memes and posts his favorites on his personal website.",
+        "Username": "Alexandratta",
+        "Date": "Wednesday, September 6, 2023 at 5:47:29 PM CDT",
+        "Score": -4
+    },
+    {
+        "Text": "No, he hasn't. He sued the guy who wrote the book.",
+        "Username": "KakarotMaag",
+        "Date": "Wednesday, September 6, 2023 at 7:26:52 PM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "Agahahahaha, legend",
+        "Username": "Shoddy_Detail_976",
+        "Date": "Wednesday, September 6, 2023 at 4:44:05 PM CDT",
+        "Score": -5
+    },
+    {
+        "Text": "this man is too humble 👐🏼",
+        "Username": "Warchildthewarrior",
+        "Date": "Wednesday, September 6, 2023 at 3:47:22 PM CDT",
+        "Score": -12
+    },
+    {
+        "Text": "Except for the whole racist bigot part",
+        "Username": "BetterCallSal",
+        "Date": "Wednesday, September 6, 2023 at 4:56:53 PM CDT",
+        "Score": 14
+    },
+    {
+        "Text": "context bro?",
+        "Username": "Warchildthewarrior",
+        "Date": "Wednesday, September 6, 2023 at 5:02:04 PM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "Norris jumped in on the whole birther conspiracy about Obama, writing an open letter to Obama saying he should release his birth certificate.      After that, he publicly supported various very dubious Republican candidates. One was Roy Moore of Alabama, after he was removed from office for refusing to comply with federal law. Another was Blake Masters, who promoted Trump’s stolen election claims in his campaign ads.      Basically Norris is not just conservative, he’s far right wackadoodle conservative.",
+        "Username": "goj1ra",
+        "Date": "Wednesday, September 6, 2023 at 5:49:01 PM CDT",
+        "Score": 12
+    },
+    {
+        "Text": "Nobody wants that.",
+        "Username": "Know_Your_Rites",
+        "Date": "Wednesday, September 6, 2023 at 5:58:33 PM CDT",
+        "Score": -7
+    }
+]
