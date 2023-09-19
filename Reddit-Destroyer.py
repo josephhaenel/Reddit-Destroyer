@@ -1,6 +1,8 @@
 '''
-    Reddit Destroyer Version 0.0.1
-    By Joseph Haenel
+    Reddit Destroyer Version 1.0
+    Filename:       Reddit-Destroyer.py
+    By:             Joseph Haenel
+    Date:           09-08-2023
 '''
 
 import time
