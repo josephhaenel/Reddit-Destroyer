@@ -19,6 +19,7 @@ from selenium.common.exceptions import StaleElementReferenceException
 from selenium.common.exceptions import StaleElementReferenceException
 from bs4 import BeautifulSoup
 import time
+import os
 import sys
 import json
 
@@ -33,9 +34,9 @@ class ScraperClass:
         self.url = url
         if output_file is None:
             base_name = [part for part in self.url.split('/') if part][-1].split('?')[0]  # Remove any query string
-            self.output_file = base_name + '_output.txt'
+            self.output_file = os.path.join('outputs', base_name + '_output.txt')
         else:
-            self.output_file = output_file
+            self.output_file = os.path.join('outputs', output_file)
 
     # Function to get BeautifulSoup object after loading page and expanding all/most comments
     def get_soup_object(self):
