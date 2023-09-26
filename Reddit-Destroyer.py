@@ -11,7 +11,7 @@ import argparse
 def getTerminalArgs() -> str:
     parser = argparse.ArgumentParser()
     parser.add_argument(help='The url of the Reddit Thread to be scraped' , dest='url' , type=str)
-    parser.add_argument(help='The output file', dest='out_file', type=str)
+    parser.add_argument(help='The output file', dest='out_file', nargs='?', type=str)
     args = parser.parse_args()
     
     return args.url, args.out_file
