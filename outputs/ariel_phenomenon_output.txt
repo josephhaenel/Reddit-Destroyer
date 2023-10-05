@@ -1,0 +1,44 @@
+[
+    {
+        "Text": "Okay dallyn we know it’s you. Why did you change your story bru.",
+        "Username": "Scandysurf",
+        "Date": "Sunday, October 1, 2023 at 8:31:33 PM CDT",
+        "Score": 8
+    },
+    {
+        "Text": "🤣🤣🤣🤣🤣ok",
+        "Username": "Business-Break2597",
+        "Date": "Monday, October 2, 2023 at 5:36:05 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Naah, it's all good. Liars need to be called out.",
+        "Username": "Ok-Adhesiveness-4141",
+        "Date": "Sunday, October 1, 2023 at 5:27:02 PM CDT",
+        "Score": 7
+    },
+    {
+        "Text": "We would never publicly shame him. We feel awful that the production company put him in this position. Though we are, truly, confused and disappointed that he would do this to his fellow students. Sorry that our comments came across that way to you.",
+        "Username": "ArielPhenomenon",
+        "Date": "Monday, October 2, 2023 at 12:26:21 PM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "By just letting people in the comments ridicule and say nasty things about him you are condoning publicly shaming him. Amazed you don’t get that. I get being confused by his drastic change of heart and mind but that post is just…ick. Not cool.",
+        "Username": "Business-Break2597",
+        "Date": "Wednesday, October 4, 2023 at 7:23:52 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "FB is for and by neandearthals, cavemen and other troglodytes.  i was all 3 once",
+        "Username": "RandomTux1997",
+        "Date": "Monday, October 2, 2023 at 4:05:06 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "What happened that day isn't a 'feeling'. The guy was clearly lying, and looked a bit disturbed. If you CHOOSE to go on a show and LIE then you deserve to hear what people think about that.      No no, lying is a shit thing to do.",
+        "Username": "Shardaxx",
+        "Date": "Thursday, October 5, 2023 at 7:42:09 AM CDT",
+        "Score": 1
+    }
+]

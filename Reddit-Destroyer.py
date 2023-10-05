@@ -5,7 +5,7 @@
     Date:           09-08-2023
 '''
 
-from resources.Scraper import ScraperClass
+from resources.Modules.Scraper import ScraperClass
 import argparse
 
 def getTerminalArgs() -> str:

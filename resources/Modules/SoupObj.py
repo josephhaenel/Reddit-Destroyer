@@ -1,14 +1,3 @@
-'''
-    Filename:       Scraper.py
-    By:             Joseph Haenel
-    Date:           09-08-2023
-    Dependencies:   Selenium, BeautifulSoup4, Webdriver-Manager, Firefox Browser
-    Using Python 3.11.0
-'''
-
-__all__ = ['ScraperClass']  # Public Classes
-
-# Import required modules and dependencies
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from webdriver_manager.firefox import GeckoDriverManager
@@ -16,33 +5,16 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import StaleElementReferenceException
-from selenium.common.exceptions import StaleElementReferenceException
 from bs4 import BeautifulSoup
 import time
-import os
-import sys
-import json
 
-# Custom exception to handle scenarios where BeautifulSoup object retrieval fails.
-class SoupObjectError(Exception):
-    def __init__(self, message="Soup Object could not be retrieved"):
-        super().__init__(message)
+class SoupObject:
 
-# Main scraper class
-class ScraperClass:
-    def __init__(self, url, output_file = None):
-        self.url = url
-        if output_file is None:
-            base_name = [part for part in self.url.split('/') if part][-1].split('?')[0]  # Remove any query string
-            self.output_file = os.path.join('outputs', base_name + '_output.txt')
-        else:
-            self.output_file = os.path.join('outputs', output_file)
-
-    # Function to get BeautifulSoup object after loading page and expanding all/most comments
-    def get_soup_object(self):
-        # Initialize the browser driver (Firefox works better than chrome for me)
+    @staticmethod
+    def get_soup_object(url):
+                # Initialize the browser driver (Firefox works better than chrome for me)
         driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
-        driver.get(self.url)
+        driver.get(url)
         time.sleep(1)  # Allow the page to load
 
         # Capture the initial scroll height of the page
@@ -98,53 +70,3 @@ class ScraperClass:
         soup = BeautifulSoup(driver.page_source, 'html.parser')
         driver.quit() # Close the browser
         return soup
-
-    # Extract the text of a comment
-    def getCommentText(self, comment):
-        commentText = comment.find(id="-post-rtjson-content")
-        if commentText is None:
-            return ''
-        elif isinstance(commentText, str):
-            return commentText.strip()
-        else:
-            return commentText.get_text().strip()
-
-    # Extract the number of likes of a comment
-    def getCommentLikes(self, comment):
-        commentLikes = comment.get('score')
-        if not commentLikes:
-            return 0
-        return int(commentLikes) if commentLikes else 0
-
-    # Extract the username of the person who posted the comment
-    def getCommentUsername(self, comment):
-        commentUsername = comment.find(
-            'a', class_="font-bold text-neutral-content-strong text-12 hover:underline")
-        return commentUsername.get_text(strip=True) if commentUsername else None
-
-    # Extract the date when the comment was posted
-    def getCommentDate(self, comment):
-        commentDate = comment.find('time')
-        return commentDate['title'] if commentDate and 'title' in commentDate.attrs else None
-
-    # Main scraping function
-    def scrape(self):
-        try:
-            soup_obj = self.get_soup_object()
-        except SoupObjectError as e:
-            print(e)
-            sys.exit(1)
-
-        results = []
-
-        for comment in soup_obj.find_all("shreddit-comment"):
-            commentData = {
-                "Text": self.getCommentText(comment).replace('\n', '').strip(),
-                "Username": self.getCommentUsername(comment),
-                'Date': self.getCommentDate(comment),
-                "Score": self.getCommentLikes(comment)
-            }
-            results.append(commentData)
-
-        with open(self.output_file, 'w', encoding='utf-8') as file:
-            json.dump(results, file, ensure_ascii=False, indent=4)
