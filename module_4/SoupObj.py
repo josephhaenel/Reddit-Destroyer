@@ -9,10 +9,29 @@ from bs4 import BeautifulSoup
 import time
 
 class SoupObject:
+    '''
+    The SoupObject class provides functionality to fetch and parse the complete content of a given Reddit thread URL.
+    
+    The class employs the Selenium WebDriver to load and expand all comments of a Reddit thread by triggering 
+    the "more replies" and "View more comments" buttons on the page. After expanding all the comments, 
+    it uses BeautifulSoup to parse the page content.
+    
+    It contains a single static method:
+    - get_soup_object(url): Returns a parsed BeautifulSoup object of the provided URL's content.
+    '''
 
     @staticmethod
     def get_soup_object(url):
-                # Initialize the browser driver (Firefox works better than chrome for me)
+        '''
+        Fetches and parses the complete content of a given Reddit thread URL.
+
+        Parameters:
+        - url (str): The URL of the Reddit thread to be scraped.
+
+        Returns:
+        - BeautifulSoup object: Parsed content of the provided URL.
+        '''
+        # Initialize the browser driver (Firefox in this case)
         driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
         driver.get(url)
         time.sleep(1)  # Allow the page to load
@@ -34,39 +53,35 @@ class SoupObject:
                 for button in moreRepliesButtons:
                     try:
                         # Scroll the button into view and click it
-                        driver.execute_script(
-                            "arguments[0].scrollIntoView({block: 'center'});", button)
+                        driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", button)
                         driver.execute_script("arguments[0].click();", button)
                         time.sleep(1)  # Allow the new content to load
                     except StaleElementReferenceException:
-                        # The button became stale, probably because the page structure changed. Continue to the next button.
+                        # The button became stale, so move on to the next button
                         continue
 
-                # No exceptions, implies we clicked all visible "more replies" buttons, so move to the next iteration.
                 continue
 
-            except: # No more "more replies" buttons found
+            except:  # No "more replies" buttons found
                 try:
-                    # Try clicking the "View more comments" button to load more comments
+                    # Try clicking the "View more comments" button
                     viewMoreCommentsButton = wait.until(
                         EC.presence_of_element_located((By.XPATH, viewMoreCommentsXpath)))
-                    driver.execute_script(
-                        "arguments[0].scrollIntoView({block: 'center'});", viewMoreCommentsButton)
-                    driver.execute_script(
-                        "arguments[0].click();", viewMoreCommentsButton)
+                    driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", viewMoreCommentsButton)
+                    driver.execute_script("arguments[0].click();", viewMoreCommentsButton)
                     time.sleep(1)  # Allow the new comments to load
-                except:  # If no "View more comments" button is found, simply scroll down
+                except:  # No "View more comments" button found, scroll down instead
                     driver.find_element_by_tag_name("body").send_keys(Keys.PAGE_DOWN)
                     time.sleep(1)
-                    
-            # Check scroll height again
+
+            # Check for changes in scroll height
             newHeight = driver.execute_script("return document.body.scrollHeight")
-            if newHeight == lastHeight:  # No new content, break
+            if newHeight == lastHeight:  # If no new content, break the loop
                 break
 
-            lastHeight = newHeight # Update scroll height
+            lastHeight = newHeight  # Update scroll height
 
-        # Create a beautifulsoup object for parsing
+        # Convert the loaded page source into a BeautifulSoup object
         soup = BeautifulSoup(driver.page_source, 'html.parser')
-        driver.quit() # Close the browser
+        driver.quit()  # Close the browser
         return soup
