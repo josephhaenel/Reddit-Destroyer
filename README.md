@@ -10,7 +10,7 @@
     - `git clone https://github.com/josephhaenel/Reddit-Destroyer.git`
 2. **Navigate to the Project Directory:**
     - Open the Anaconda prompt(miniconda3).
-    - `cd Reddit-Destroyer/CS325_p3`
+    - `cd Reddit-Destroyer`
 3. **Set Up the Conda Environment:**
     - Create a new environment from the provided yaml file:
         - `conda env create -f requirement.yaml`
