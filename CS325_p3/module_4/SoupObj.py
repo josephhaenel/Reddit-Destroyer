@@ -7,6 +7,7 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import StaleElementReferenceException
 from bs4 import BeautifulSoup
 import time
+import os
 
 class SoupObject:
     '''
@@ -80,7 +81,13 @@ class SoupObject:
                 break
 
             lastHeight = newHeight  # Update scroll height
-
+        
+        # Get base name of reddit thread from URL    
+        base_name = [part for part in url.split('/') if part][-1].split('?')[0]
+        raw_html_filename = os.path.join("Data", "raw", f"{base_name}_raw.txt")
+        # Write the raw html to raw/<RedditThread>_raw.txt
+        with open(raw_html_filename, "w", encoding="utf-8") as raw_html_file:
+            raw_html_file.write(driver.page_source)
         # Convert the loaded page source into a BeautifulSoup object
         soup = BeautifulSoup(driver.page_source, 'html.parser')
         driver.quit()  # Close the browser

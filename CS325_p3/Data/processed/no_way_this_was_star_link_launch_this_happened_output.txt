@@ -1,0 +1,338 @@
+[
+    {
+        "Text": "That looks exactly like a rocket launch",
+        "Username": "Krakenate",
+        "Date": "Friday, October 13, 2023 at 11:43:44 PM CDT",
+        "Score": 8
+    },
+    {
+        "Text": "Anime fight somewhere in the lower atmosphere",
+        "Username": "TreatParking3847",
+        "Date": "Friday, October 13, 2023 at 9:59:29 PM CDT",
+        "Score": 25
+    },
+    {
+        "Text": "This is the logical answer.",
+        "Username": "vatersgonnavate",
+        "Date": "Friday, October 13, 2023 at 10:05:53 PM CDT",
+        "Score": 7
+    },
+    {
+        "Text": "What happens after a SpaceX launch... a reentry.",
+        "Username": "dobias01",
+        "Date": "Friday, October 13, 2023 at 10:06:08 PM CDT",
+        "Score": 6
+    },
+    {
+        "Text": "At 12:27am",
+        "Username": "Tylertex",
+        "Date": "Friday, October 13, 2023 at 10:08:35 PM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "Or, maybe it was the Psyche launch by NASA  https://www.nytimes.com/2023/10/13/science/nasa-psyche-metal-asteroid-launch.html",
+        "Username": "dobias01",
+        "Date": "Friday, October 13, 2023 at 10:12:55 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "That was at 10:19 am",
+        "Username": "Tylertex",
+        "Date": "Friday, October 13, 2023 at 10:14:18 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Yeah. Eastern time.",
+        "Username": "dobias01",
+        "Date": "Friday, October 13, 2023 at 10:15:06 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Spaceussy",
+        "Username": "LuceArsoul",
+        "Date": "Friday, October 13, 2023 at 9:24:51 PM CDT",
+        "Score": 12
+    },
+    {
+        "Text": "Everything reminds me of her.",
+        "Username": "Cryptopsy30",
+        "Date": "Friday, October 13, 2023 at 10:24:06 PM CDT",
+        "Score": 4
+    },
+    {
+        "Text": "Spaussy if you will.",
+        "Username": "LurkerV1",
+        "Date": "Friday, October 13, 2023 at 11:47:56 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "That works too",
+        "Username": "LuceArsoul",
+        "Date": "Friday, October 13, 2023 at 11:56:26 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "I was thinking jellyfish but do you bro",
+        "Username": "ChemicalRecreation",
+        "Date": "Saturday, October 14, 2023 at 8:13:42 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "It's beautiful",
+        "Username": "LuceArsoul",
+        "Date": "Saturday, October 14, 2023 at 8:19:54 AM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "Falcon launch",
+        "Username": "pookchang",
+        "Date": "Friday, October 13, 2023 at 9:18:24 PM CDT",
+        "Score": 17
+    },
+    {
+        "Text": "Thought time didn’t match up at all",
+        "Username": "Tylertex",
+        "Date": "Friday, October 13, 2023 at 9:25:54 PM CDT",
+        "Score": -15
+    },
+    {
+        "Text": "There were two today.",
+        "Username": "Majesticlub",
+        "Date": "Friday, October 13, 2023 at 10:07:02 PM CDT",
+        "Score": 5
+    },
+    {
+        "Text": "Not the correct time for either launch",
+        "Username": "Tylertex",
+        "Date": "Friday, October 13, 2023 at 10:07:58 PM CDT",
+        "Score": -21
+    },
+    {
+        "Text": "Did you want someone to confirm it’s something unexplainable? Here you go: wow, you caught something unexplainable!      This is definitely not related to the two things that happened today that completely explain what this is. And that makes very similar if not identical patterns in the sky. It wasn’t a falcon launch.",
+        "Username": "Any-Double857",
+        "Date": "Friday, October 13, 2023 at 10:33:51 PM CDT",
+        "Score": 43
+    },
+    {
+        "Text": "It had to go around the earth once, which also explains why it was coming from the west.",
+        "Username": "austinwiltshire",
+        "Date": "Friday, October 13, 2023 at 10:50:48 PM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "orbits exist and thy take about an hour and a half",
+        "Username": "wonkywiggler",
+        "Date": "Saturday, October 14, 2023 at 5:05:57 AM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "Whatever man.",
+        "Username": "Majesticlub",
+        "Date": "Friday, October 13, 2023 at 10:08:22 PM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "It’s on the other sub being discussed as Falcon launch being the answer I believe  https://reddit.com/r/UFOs/s/3o812Epc0h",
+        "Username": "sdowney64",
+        "Date": "Friday, October 13, 2023 at 11:03:03 PM CDT",
+        "Score": 4
+    },
+    {
+        "Text": "The aliens are starting to use manmade rockets.",
+        "Username": "hemorrhoid_hamburger",
+        "Date": "Friday, October 13, 2023 at 9:57:57 PM CDT",
+        "Score": 10
+    },
+    {
+        "Text": "Saw a Louisiana video too earlier, 4 states. Is that normal for a rocket launch?",
+        "Username": "jwburks225",
+        "Date": "Friday, October 13, 2023 at 9:27:40 PM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "I think it was a particularly well lit second stage separation",
+        "Username": "austinwiltshire",
+        "Date": "Friday, October 13, 2023 at 10:51:21 PM CDT",
+        "Score": 8
+    },
+    {
+        "Text": "I mean I’ll roll with it. I get there were space launches etc, I get it. Just wanted to get more info on time and sequence of events that occurred",
+        "Username": "Tylertex",
+        "Date": "Friday, October 13, 2023 at 10:57:45 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Oh I was excited to see it too and had no idea what it was. Others have done the homework to more or less put spacex second launches second stage more or less right where we saw it.",
+        "Username": "austinwiltshire",
+        "Date": "Friday, October 13, 2023 at 10:59:14 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Apparently so, there was that one over Norway which was a Russian rocket.",
+        "Username": "QElonMuscovite",
+        "Date": "Friday, October 13, 2023 at 11:33:41 PM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "Shit was launched east an hour after launch. Launch log shows 7:01 est we saw this at 740 or so cst time",
+        "Username": "Tylertex",
+        "Date": "Friday, October 13, 2023 at 9:30:40 PM CDT",
+        "Score": -1
+    },
+    {
+        "Text": "This was a deorbit burn that happened about an hour and a half after launch.",
+        "Username": "Le-Marco",
+        "Date": "Saturday, October 14, 2023 at 3:44:51 AM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "This is called a \"twilight effect\" from a rocket launch going through the upper atmosphere. It has been documented many, many times.",
+        "Username": "F4STW4LKER",
+        "Date": "Friday, October 13, 2023 at 11:54:46 PM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "I’ll remember that term now.",
+        "Username": "Tylertex",
+        "Date": "Friday, October 13, 2023 at 11:56:07 PM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "It’s not the starlink satellites deploying, it’s the falcon rocket launch stage.",
+        "Username": "cabezatuck",
+        "Date": "Saturday, October 14, 2023 at 12:18:46 AM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "https://youtube.com/shorts/HlKF8dgup2E?si=rXKd4sEDjorExJ3k It was constantly pulsing this ring forward traveling from oklahoma to dallas to austin to san antonio, unless spacex has 5 stages this isnt space x",
+        "Username": "myth1n",
+        "Date": "Saturday, October 14, 2023 at 12:34:36 AM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "I love when people are too smart to be fooled by factual bullshit.",
+        "Username": "fisherreshif",
+        "Date": "Friday, October 13, 2023 at 11:59:13 PM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "Agreed.",
+        "Username": "km40tx",
+        "Date": "Saturday, October 14, 2023 at 10:16:43 AM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "There were 2 Space X launches yesterday. The 2nd one launched around 7pm EDT or 6pm CDT.      The trajectory puts it right over the area on its first orbit that happens just over 90 minutes after launch.      What most people saw was the satellite deployment,  in other words satellites separating from the rocket, followed by a de-orbit burn that is meant to slow the now used 2nd stage so it falls out if orbit and safely burns up maybe an hour later over an ocean.",
+        "Username": "R3dditH8sMe",
+        "Date": "Saturday, October 14, 2023 at 2:45:41 PM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "I know people that saw the same thing in Dallas",
+        "Username": "teheebeme",
+        "Date": "Friday, October 13, 2023 at 10:03:02 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Only Space X possibility is the upper upper stage coming back down. I watched the launch and first two stages came down 6 minutes after launch. The upper stage burns up in the atmosphere after 30 minutes into the launch.",
+        "Username": "bkjacksonlaw",
+        "Date": "Friday, October 13, 2023 at 10:26:31 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Would that even put it at 7:40 pm central time?",
+        "Username": "Tylertex",
+        "Date": "Friday, October 13, 2023 at 10:27:32 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "One thing I found was a low orbit launch takes 90 minutes to orbit earth. So I guess there could be the upper stage somehow survived the atmosphere burn or Space X came up with a retrievable upper stage since the 2021 GPT. Would be good to know an update from space x on the upper stage. They may have something on it by now on Xwitter.",
+        "Username": "bkjacksonlaw",
+        "Date": "Friday, October 13, 2023 at 10:39:01 PM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "I’ll check it out. I get Occam’s razor. Probably is a rocket. But I’m trying to get the times to match up. Thanks for looking that up",
+        "Username": "Tylertex",
+        "Date": "Friday, October 13, 2023 at 10:41:07 PM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "Your correct. I saw this same thing bout a year and a half ago. There's a youtube channel called red stone (search red stone ufo) that has a compilation of these showing up worldwide on the same day. Think it was the day I saw em. Father's day night last year. I got a picture but a bunch of people got videos. Definitely not a rocket. It sat in place for a few minutes then just slowly floated off. The light was like a floodlight in the front not coming from the back. I didn't see it appear but other accounts claim the circle appeared and the craft came out of it. I just looked up to see it sitting still in front of the hole for a while then flew away in a way that reminded me of a submarine under water in a animated movie. Certainly one of the wildest moments of my adult life.",
+        "Username": "krakaman",
+        "Date": "Saturday, October 14, 2023 at 1:24:31 AM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "https://youtu.be/YaNNGFA-nF4?si=jKthVh7IBBz_NZoU    Bunch of people and places got pics. If it was a rocket not every one of them would be taken with the light the same distance from the ring. It wasn't moving. And one video monitoring a volcano caught the beginning on camera. At least one shitty video of it sitting still on here too",
+        "Username": "krakaman",
+        "Date": "Saturday, October 14, 2023 at 1:27:57 AM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "I saw it and I can’t explain it",
+        "Username": "g1126",
+        "Date": "Saturday, October 14, 2023 at 7:41:50 AM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "This is clearly vfx from 1980s",
+        "Username": "BreadfruitOk3474",
+        "Date": "Saturday, October 14, 2023 at 8:25:08 AM CDT",
+        "Score": 0
+    },
+    {
+        "Text": "It is a rentry discharge. Because it going insanely fast. This knock A large amount of speed off rentry creating a vortex ring out in front of the direction of the craft. I’ve seen it multiple times on the same exact path over my house",
+        "Username": "5wing4",
+        "Date": "Saturday, October 14, 2023 at 7:29:47 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Space fart or God is smoking",
+        "Username": "mvpp37514y3r",
+        "Date": "Saturday, October 14, 2023 at 12:06:18 AM CDT",
+        "Score": -1
+    },
+    {
+        "Text": "Looks like a lens reflection from the sun on the other side of the image you cropped away.",
+        "Username": "Majesticlub",
+        "Date": "Friday, October 13, 2023 at 9:58:50 PM CDT",
+        "Score": -6
+    },
+    {
+        "Text": "https://www.facebook.com/100047053604537/posts/pfbid02J9p3U8JD5myhKzqxWhVYb6ELfJFZi4yqshsqQ9ZsYzJ7sFnP1TXqC6i6H5qQzue9l/?mibextid=cr9u03",
+        "Username": "Tylertex",
+        "Date": "Friday, October 13, 2023 at 10:02:19 PM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Not my pictures and Falcon launch time does not align",
+        "Username": "Tylertex",
+        "Date": "Friday, October 13, 2023 at 10:04:04 PM CDT",
+        "Score": -2
+    },
+    {
+        "Text": "It had to go around the earth once so we're talking thirty minutes to two hours later in terms of time.",
+        "Username": "austinwiltshire",
+        "Date": "Friday, October 13, 2023 at 10:52:09 PM CDT",
+        "Score": 3
+    },
+    {
+        "Text": "😂",
+        "Username": "areeal1",
+        "Date": "Saturday, October 14, 2023 at 1:52:35 AM CDT",
+        "Score": -1
+    },
+    {
+        "Text": "Rule 2 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>",
+        "Username": "Majesticlub",
+        "Date": "Friday, October 13, 2023 at 10:04:52 PM CDT",
+        "Score": 2
+    },
+    {
+        "Text": "Rule 2 whole damn state has video and pictures. Of God quality in that link",
+        "Username": "Tylertex",
+        "Date": "Friday, October 13, 2023 at 10:06:15 PM CDT",
+        "Score": 1
+    }
+]

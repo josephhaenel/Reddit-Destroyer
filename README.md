@@ -26,6 +26,7 @@
         - `python run.py <Link> <Output File>`
     - `<Output File>` is optional and will default to `<redditName>_output.txt`
     - Please Note: The link must *NOT* be a https://*old*.reddit.com/.../...
+    - If a *sign in window* pops up on the top right of the firefox window, just *close it* so the script can continue, it messes it up somehow
 
 
 ## Dependencies

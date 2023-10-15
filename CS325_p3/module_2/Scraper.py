@@ -39,9 +39,9 @@ class ScraperClass:
         if output_file is None:
             # Extract the last segment of the URL, removing any query strings
             base_name = [part for part in self.url.split('/') if part][-1].split('?')[0]
-            self.output_file = os.path.join('Data', base_name + '_output.txt')
+            self.output_file = os.path.join('Data', 'processed', base_name + '_output.txt')
         else:
-            self.output_file = os.path.join('Data', output_file)
+            self.output_file = os.path.join('Data', 'processed', output_file)
 
     def scrape(self):
         '''

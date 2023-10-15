@@ -1,0 +1,37 @@
+1697354031962	geckodriver	INFO	Listening on 127.0.0.1:59398
+1697354034979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\josep\\AppData\\Local\\Temp\\rust_mozprofilePRgF8D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697354035228	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697354035661	Marionette	INFO	Listening on port 59411
+Read port: 59411
+1697354035808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.redditstatic.com/shreddit/en-US/shell-50b435ac.js, line 1: Script terminated by timeout at:
+Fd@https://www.redditstatic.com/shreddit/en-US/shell-50b435ac.js:1:346800
+eh/this.onPageHide@https://www.redditstatic.com/shreddit/en-US/shell-50b435ac.js:1:385122
+
+1697354231082	Marionette	INFO	Stopped listening on port 59411
+Dynamically enable window occlusion 1
+1697354279300	geckodriver	INFO	Listening on 127.0.0.1:59502
+1697354282331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\josep\\AppData\\Local\\Temp\\rust_mozprofileTQbXAs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697354282543	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697354282861	Marionette	INFO	Listening on port 59512
+Read port: 59512
+1697354283048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1697354327470	Marionette	INFO	Stopped listening on port 59512
+Dynamically enable window occlusion 1
+JavaScript error: https://www.reddit.com/r/ufo/comments/177ezef/no_way_this_was_star_link_launch_this_happened/?rdt=44575, line 52: TypeError: can't access dead object
+JavaScript error: https://www.redditstatic.com/shreddit/en-US/shell-50b435ac.js, line 4: TypeError: can't access dead object
+JavaScript error: https://www.redditstatic.com/shreddit/en-US/shell-50b435ac.js, line 4: TypeError: can't access dead object
+JavaScript error: https://www.redditstatic.com/shreddit/en-US/shell-50b435ac.js, line 4: TypeError: can't access dead object
+JavaScript error: https://www.redditstatic.com/shreddit/en-US/shell-50b435ac.js, line 4: TypeError: can't access dead object
