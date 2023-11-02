@@ -28,7 +28,7 @@ Usage:
     Ensure that OPENAI_API_KEY is set with your valid API key.
     Initialize the APICalls class with a list of comments and a URL, and call the `getSentiment` method to perform sentiment analysis on the comments.
 """
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = 'YOUR_API_KEY_HERE'
 
 import openai
 import time
