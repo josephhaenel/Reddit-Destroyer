@@ -19,6 +19,8 @@
 
 from module_2.Scraper import ScraperClass
 import argparse
+from getComments.getComments import GetComments
+from chatgpt_integration.apiCalls import APICalls
 
 def getTerminalArgs() -> str:
     '''
@@ -43,3 +45,11 @@ if __name__ == '__main__':
     scraper = ScraperClass(url, out_file)
     # Perform the scraping operation
     scraper.scrape()
+    # Call function to get <n> comments from out_file
+    get_comments = GetComments()
+    comments = get_comments.getCommentsText(file=out_file, url=url, limit=50)
+    # Pass comments to API Call
+    apiCalls = APICalls(comments, url)
+    apiCalls.getSentiment()
+    
+    
