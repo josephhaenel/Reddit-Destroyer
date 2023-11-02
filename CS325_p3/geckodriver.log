@@ -1,166 +1,39 @@
-1697354031962	geckodriver	INFO	Listening on 127.0.0.1:59398
-1697354034979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\josep\\AppData\\Local\\Temp\\rust_mozprofilePRgF8D"
+1698893353335	geckodriver	INFO	Listening on 127.0.0.1:54813
+1698893356354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\josep\\AppData\\Local\\Temp\\rust_mozprofileL9VE4e"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1697354035228	Marionette	INFO	Marionette enabled
+1698893356602	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
-1697354035661	Marionette	INFO	Listening on port 59411
-Read port: 59411
-1697354035808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
-JavaScript warning: https://www.redditstatic.com/shreddit/en-US/shell-50b435ac.js, line 1: Script terminated by timeout at:
-Fd@https://www.redditstatic.com/shreddit/en-US/shell-50b435ac.js:1:346800
-eh/this.onPageHide@https://www.redditstatic.com/shreddit/en-US/shell-50b435ac.js:1:385122
-
-1697354231082	Marionette	INFO	Stopped listening on port 59411
-Dynamically enable window occlusion 1
-1697354279300	geckodriver	INFO	Listening on 127.0.0.1:59502
-1697354282331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\josep\\AppData\\Local\\Temp\\rust_mozprofileTQbXAs"
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1697354282543	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1697354282861	Marionette	INFO	Listening on port 59512
-Read port: 59512
-1697354283048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
-1697354327470	Marionette	INFO	Stopped listening on port 59512
-Dynamically enable window occlusion 1
-JavaScript error: https://www.reddit.com/r/ufo/comments/177ezef/no_way_this_was_star_link_launch_this_happened/?rdt=44575, line 52: TypeError: can't access dead object
-JavaScript error: https://www.redditstatic.com/shreddit/en-US/shell-50b435ac.js, line 4: TypeError: can't access dead object
-JavaScript error: https://www.redditstatic.com/shreddit/en-US/shell-50b435ac.js, line 4: TypeError: can't access dead object
-JavaScript error: https://www.redditstatic.com/shreddit/en-US/shell-50b435ac.js, line 4: TypeError: can't access dead object
-JavaScript error: https://www.redditstatic.com/shreddit/en-US/shell-50b435ac.js, line 4: TypeError: can't access dead object
-1698887100963	geckodriver	INFO	Listening on 127.0.0.1:61220
-1698887103993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\josep\\AppData\\Local\\Temp\\rust_mozprofileWFAygk"
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1698887104607	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1698887105048	Marionette	INFO	Listening on port 61232
-Read port: 61232
-1698887105286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1698887134789	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
-1698887156981	Marionette	INFO	Stopped listening on port 61232
-Dynamically enable window occlusion 1
-JavaScript error: https://www.redditstatic.com/shreddit/en-US/shell-ca92796e.js, line 4: TypeError: can't access dead object
-1698887343412	geckodriver	INFO	Listening on 127.0.0.1:61495
-1698887346423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\josep\\AppData\\Local\\Temp\\rust_mozprofiletImxKy"
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1698887346652	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1698887346974	Marionette	INFO	Listening on port 61506
-Read port: 61506
-1698887347127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1698887371538	Marionette	INFO	Stopped listening on port 61506
-Dynamically enable window occlusion 1
-JavaScript error: https://www.redditstatic.com/shreddit/en-US/shell-ca92796e.js, line 4: TypeError: can't access dead object
-1698888316601	geckodriver	INFO	Listening on 127.0.0.1:62415
-1698888319633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\josep\\AppData\\Local\\Temp\\rust_mozprofileZK4eRG"
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1698888319911	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1698888320263	Marionette	INFO	Listening on port 62428
-Read port: 62428
-1698888320367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1698888350985	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
-1698888367898	Marionette	INFO	Stopped listening on port 62428
-Dynamically enable window occlusion 1
-JavaScript error: https://www.redditstatic.com/shreddit/en-US/shell-ca92796e.js, line 4: TypeError: can't access dead object
-1698888478733	geckodriver	INFO	Listening on 127.0.0.1:62557
-1698888481762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\josep\\AppData\\Local\\Temp\\rust_mozprofile82ZACO"
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1698888482003	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1698888482323	Marionette	INFO	Listening on port 62567
-Read port: 62567
-1698888482445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1698888512015	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
-1698888531764	Marionette	INFO	Stopped listening on port 62567
+1698893356960	Marionette	INFO	Listening on port 54823
+Read port: 54823
+1698893357063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1698893387256	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698893414931	Marionette	INFO	Stopped listening on port 54823
 Dynamically enable window occlusion 1
 JavaScript error: https://www.redditstatic.com/shreddit/en-US/shell-3c0e1209.js, line 4: TypeError: can't access dead object
-1698889039741	geckodriver	INFO	Listening on 127.0.0.1:63108
-1698889042790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\josep\\AppData\\Local\\Temp\\rust_mozprofile0flozu"
+1698893573703	geckodriver	INFO	Listening on 127.0.0.1:55332
+1698893576725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\josep\\AppData\\Local\\Temp\\rust_mozprofileKrNQME"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1698889043038	Marionette	INFO	Marionette enabled
+1698893576955	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
-1698889043345	Marionette	INFO	Listening on port 63119
-Read port: 63119
-1698889043479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1698889073425	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
-1698889101184	Marionette	INFO	Stopped listening on port 63119
+1698893577270	Marionette	INFO	Listening on port 55348
+Read port: 55348
+1698893577379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1698893607472	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698893635150	Marionette	INFO	Stopped listening on port 55348
 Dynamically enable window occlusion 1
 JavaScript error: https://www.redditstatic.com/shreddit/en-US/shell-3c0e1209.js, line 4: TypeError: can't access dead object
-1698889209080	geckodriver	INFO	Listening on 127.0.0.1:63277
-1698889212102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\josep\\AppData\\Local\\Temp\\rust_mozprofileN4ExCa"
+1698893881091	geckodriver	INFO	Listening on 127.0.0.1:55672
+1698893884121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\josep\\AppData\\Local\\Temp\\rust_mozprofileKVVJpE"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1698889212320	Marionette	INFO	Marionette enabled
+1698893884354	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
-1698889212623	Marionette	INFO	Listening on port 63288
-Read port: 63288
-1698889212717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1698889242839	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
-1698889270520	Marionette	INFO	Stopped listening on port 63288
-Dynamically enable window occlusion 1
-JavaScript error: https://www.redditstatic.com/shreddit/en-US/shell-3c0e1209.js, line 4: TypeError: can't access dead object
-1698889700621	geckodriver	INFO	Listening on 127.0.0.1:63715
-1698889703648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\josep\\AppData\\Local\\Temp\\rust_mozprofileMuT3cJ"
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1698889703897	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1698889704239	Marionette	INFO	Listening on port 63728
-Read port: 63728
-1698889704345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1698889733908	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
-1698889762075	Marionette	INFO	Stopped listening on port 63728
-Dynamically enable window occlusion 1
-JavaScript error: https://www.redditstatic.com/shreddit/en-US/shell-3c0e1209.js, line 4: TypeError: can't access dead object
-1698889919010	geckodriver	INFO	Listening on 127.0.0.1:53668
-1698889922024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\josep\\AppData\\Local\\Temp\\rust_mozprofile6COsb3"
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1698889922263	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1698889922583	Marionette	INFO	Listening on port 53690
-Read port: 53690
-1698889922712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1698889952309	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
-1698889980599	Marionette	INFO	Stopped listening on port 53690
-Dynamically enable window occlusion 1
-JavaScript error: https://www.redditstatic.com/shreddit/en-US/shell-3c0e1209.js, line 4: TypeError: can't access dead object
-1698890006918	geckodriver	INFO	Listening on 127.0.0.1:53866
-1698890009940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\josep\\AppData\\Local\\Temp\\rust_mozprofilelMbQ0f"
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1698890010178	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1698890010486	Marionette	INFO	Listening on port 53876
-Read port: 53876
-1698890010583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1698890040727	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
-1698890068509	Marionette	INFO	Stopped listening on port 53876
-Dynamically enable window occlusion 1
-JavaScript error: https://www.redditstatic.com/shreddit/en-US/shell-3c0e1209.js, line 4: TypeError: can't access dead object
-1698890118950	geckodriver	INFO	Listening on 127.0.0.1:53969
-1698890121973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\josep\\AppData\\Local\\Temp\\rust_mozprofilew9hDkD"
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1698890122216	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1698890122537	Marionette	INFO	Listening on port 53979
-Read port: 53979
-1698890122666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1698890152227	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
-1698890180269	Marionette	INFO	Stopped listening on port 53979
+1698893884656	Marionette	INFO	Listening on port 55682
+Read port: 55682
+1698893884751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1698893914401	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698893943043	Marionette	INFO	Stopped listening on port 55682
 Dynamically enable window occlusion 1
 JavaScript error: https://www.redditstatic.com/shreddit/en-US/shell-3c0e1209.js, line 4: TypeError: can't access dead object

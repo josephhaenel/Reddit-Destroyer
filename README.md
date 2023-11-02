@@ -23,6 +23,7 @@
 5. **Run The Script:**
     - Replace `<Link>` and `<Output File>` with the link to the reddit thread you want to scrape and file you want the comments to output to, for example,
      'https://www.reddit.com/r/funny/comments/16brnzb/self_aware/'.
+    - *Also replace the openai API Key with your own*
         - `python run.py <Link> <Output File>`
     - `<Output File>` is optional and will default to `<redditName>_output.txt`
     - Please Note: The link must *NOT* be a https://*old*.reddit.com/.../...
