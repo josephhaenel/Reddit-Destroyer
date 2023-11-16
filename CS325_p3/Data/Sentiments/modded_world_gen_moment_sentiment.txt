@@ -1,0 +1,129 @@
+Comment: Average tmod world
+Sentiment: Neutral
+
+Comment: give me your seed
+Sentiment: neutral
+
+Comment: LMAO
+Sentiment: neutral
+
+Comment: LMAO
+Sentiment: positive
+
+Comment: Excuse me what the fuck
+Sentiment: negative
+
+Comment: I'm guessing that the comment tool the word "seed" out of context
+Sentiment: neutral
+
+Comment: 2131953663 is a pretty ordinary seed
+Sentiment: neutral
+
+Comment: it's heavily modded, but the seed is      3.1.2.64815364      i'd think the mods causing this might be      remnants, calamity, jerethejuggler's custom generation, and thalassophilia      it might work without calamity, and remnants. i'm not sure
+Sentiment: neutral
+
+Comment: excellent
+Sentiment: positive
+
+Comment: How it's going?
+Sentiment: Neutral
+
+Comment: Thalassophilia? More like thalassophobia nightmare. Fr I saw that deep ass ocean and got scared
+Sentiment: Negative
+
+Comment: Thalassophobia means fear of the sea so yeah checks out
+Sentiment: Neutral
+
+Comment: How THE FUCK did your FEEBLE MIND even CONCEIVE of putting TWO terrain generation mods together, HUH?!      edit: changed the comment to reflect what people perceived it as.
+Sentiment: Negative
+
+Comment: i wanted to see what would happen. don't be rude.
+Sentiment: Neutral
+
+Comment: honestly upvoting u now ur edit's funy
+Sentiment: positive
+
+Comment: yeah uh terraria community is weird      even if you weren't trying to be rude they'll take it that way sometimes
+Sentiment: neutral
+
+Comment: I don't know these mods except calamity, but thalassophilia sounds like a fishfucker69 moment lmao
+Sentiment: Negative
+
+Comment: all it does is add a tunnel made of obsidian and sand on one of the oceans. it's pretty underwhelming...
+Sentiment: negative
+
+Comment: Is that x≈|sin(y)| ?
+Sentiment: neutral
+
+Comment: Nope, there's a bit of randomization in it as well.
+Sentiment: Neutral
+
+Comment: what
+Sentiment: neutral
+
+Comment: they're talking about how the shape of the abyss looks like the modulus of a sin(y) wave where the wave crosses the y axis instead of the x (it moves vertically instead of horizontally). a function inside a modulus (the | | part) means that it will convert all negatives to positive, meaning that the wave never actually crosses the axis, it just "bounces" off it. (e.g. |-3| = 3)
+Sentiment: neutral
+
+Comment: While very cool, I still have the overwhelming urge to call you a nerd
+Sentiment: negative
+
+Comment: Dw, I took A-level Maths and am now doing Automotive Engineering at uni. I basically am a nerd haha
+Sentiment: positive
+
+Comment: Don't worry I'll do it for you, nerd!
+Sentiment: Negative
+
+Comment: Least broken Terraria mod
+Sentiment: neutral
+
+Comment: This is actually very cool
+Sentiment: positive
+
+Comment: r/thanksworldgen
+Sentiment: neutral
+
+Comment: The Abysmal biome from the catastrophe mod
+Sentiment: neutral
+
+Comment: A
+Sentiment: Sorry, but I need more context or information in order to analyze the sentiment of the comment.
+
+Comment: How?
+Sentiment: neutral
+
+Comment: Guess we know how you're going to flood the underworld this time.
+Sentiment: negative
+
+Comment: What the actual fuck lmao
+Sentiment: negative
+
+Comment: I am impressed, terrified, and astounded. how do i recreate this
+Sentiment: neutral
+
+Comment: Download the calamity mod. It’s one of the biomes introduced
+Sentiment: Neutral
+
+Comment: it's not.      this is a few different world gen mods mashed together into a glitchy mess      i said the mods on a different comment. the ocean tunnel is from thalassophilia mod
+Sentiment: negative
+
+Comment: this is not the abyss i dont think its too bent
+Sentiment: neutral
+
+Comment: that is super cool ngl
+Sentiment: positive
+
+Comment: Kinda sus, I don’t know
+Sentiment: Neutral
+
+Comment: Uhhhhh........okay 😐
+Sentiment: Neutral
+
+Comment: Da Fuq?
+Sentiment: negative
+
+Comment: O-oh…
+Sentiment: neutral
+
+Comment: Infernum abyss be like:
+Sentiment: neutral
+

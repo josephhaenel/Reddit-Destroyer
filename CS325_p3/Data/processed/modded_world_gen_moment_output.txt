@@ -1,0 +1,260 @@
+[
+    {
+        "Text": "Average tmod world",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 6:47:51 AM CST",
+        "Score": 371
+    },
+    {
+        "Text": "give me your seed",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 7:29:47 AM CST",
+        "Score": 253
+    },
+    {
+        "Text": "LMAO",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 7:41:24 AM CST",
+        "Score": 363
+    },
+    {
+        "Text": "LMAO",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 11:18:44 AM CST",
+        "Score": 42
+    },
+    {
+        "Text": "Excuse me what the fuck",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 2:01:22 PM CST",
+        "Score": 4
+    },
+    {
+        "Text": "I'm guessing that the comment tool the word \"seed\" out of context",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 2:52:00 PM CST",
+        "Score": 7
+    },
+    {
+        "Text": "2131953663 is a pretty ordinary seed",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:23:33 PM CST",
+        "Score": 5
+    },
+    {
+        "Text": "it's heavily modded, but the seed is      3.1.2.64815364      i'd think the mods causing this might be      remnants, calamity, jerethejuggler's custom generation, and thalassophilia      it might work without calamity, and remnants. i'm not sure",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 7:47:45 AM CST",
+        "Score": 167
+    },
+    {
+        "Text": "excellent",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 7:48:39 AM CST",
+        "Score": 45
+    },
+    {
+        "Text": "How it's going?",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:01:25 AM CST",
+        "Score": 17
+    },
+    {
+        "Text": "Thalassophilia? More like thalassophobia nightmare. Fr I saw that deep ass ocean and got scared",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:41:00 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "Thalassophobia means fear of the sea so yeah checks out",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 5:53:36 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "How THE FUCK did your FEEBLE MIND even CONCEIVE of putting TWO terrain generation mods together, HUH?!      edit: changed the comment to reflect what people perceived it as.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:12:57 AM CST",
+        "Score": -74
+    },
+    {
+        "Text": "i wanted to see what would happen. don't be rude.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:38:45 AM CST",
+        "Score": 63
+    },
+    {
+        "Text": "honestly upvoting u now ur edit's funy",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:43:38 PM CST",
+        "Score": 3
+    },
+    {
+        "Text": "yeah uh terraria community is weird      even if you weren't trying to be rude they'll take it that way sometimes",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:33:44 PM CST",
+        "Score": -2
+    },
+    {
+        "Text": "I don't know these mods except calamity, but thalassophilia sounds like a fishfucker69 moment lmao",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:07:58 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "all it does is add a tunnel made of obsidian and sand on one of the oceans. it's pretty underwhelming...",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:09:52 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Is that x≈|sin(y)| ?",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 7:36:34 AM CST",
+        "Score": 131
+    },
+    {
+        "Text": "Nope, there's a bit of randomization in it as well.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 7:46:52 AM CST",
+        "Score": 57
+    },
+    {
+        "Text": "what",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 7:43:02 AM CST",
+        "Score": 5
+    },
+    {
+        "Text": "they're talking about how the shape of the abyss looks like the modulus of a sin(y) wave where the wave crosses the y axis instead of the x (it moves vertically instead of horizontally). a function inside a modulus (the | | part) means that it will convert all negatives to positive, meaning that the wave never actually crosses the axis, it just \"bounces\" off it. (e.g. |-3| = 3)",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 8:03:44 AM CST",
+        "Score": 66
+    },
+    {
+        "Text": "While very cool, I still have the overwhelming urge to call you a nerd",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 8:59:09 AM CST",
+        "Score": 25
+    },
+    {
+        "Text": "Dw, I took A-level Maths and am now doing Automotive Engineering at uni. I basically am a nerd haha",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:41:57 PM CST",
+        "Score": 5
+    },
+    {
+        "Text": "Don't worry I'll do it for you, nerd!",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 9:42:07 AM CST",
+        "Score": 9
+    },
+    {
+        "Text": "Least broken Terraria mod",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 9:30:32 AM CST",
+        "Score": 32
+    },
+    {
+        "Text": "This is actually very cool",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 7:35:40 AM CST",
+        "Score": 14
+    },
+    {
+        "Text": "r/thanksworldgen",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:39:53 AM CST",
+        "Score": 12
+    },
+    {
+        "Text": "The Abysmal biome from the catastrophe mod",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 9:38:18 AM CST",
+        "Score": 12
+    },
+    {
+        "Text": "A",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 8:54:50 AM CST",
+        "Score": 2
+    },
+    {
+        "Text": "How?",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 8:56:47 AM CST",
+        "Score": 2
+    },
+    {
+        "Text": "Guess we know how you're going to flood the underworld this time.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 11:37:19 AM CST",
+        "Score": 2
+    },
+    {
+        "Text": "What the actual fuck lmao",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:01:25 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I am impressed, terrified, and astounded. how do i recreate this",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 11:57:04 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Download the calamity mod. It’s one of the biomes introduced",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:04:27 PM CST",
+        "Score": 0
+    },
+    {
+        "Text": "it's not.      this is a few different world gen mods mashed together into a glitchy mess      i said the mods on a different comment. the ocean tunnel is from thalassophilia mod",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 1:17:07 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "this is not the abyss i dont think its too bent",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:06:29 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "that is super cool ngl",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:59:03 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Kinda sus, I don’t know",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 1:02:49 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Uhhhhh........okay 😐",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 1:56:11 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Da Fuq?",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 2:50:59 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "O-oh…",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 2:57:46 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Infernum abyss be like:",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:50:31 PM CST",
+        "Score": 1
+    }
+]

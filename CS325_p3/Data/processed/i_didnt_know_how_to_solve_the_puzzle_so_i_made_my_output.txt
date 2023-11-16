@@ -1,0 +1,794 @@
+[
+    {
+        "Text": "You're 'supposed' to make a car and position it so the wheels are on the  lava outside of the grates with the platform in the middle. What works works tho.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 7:47:26 AM CST",
+        "Score": 204
+    },
+    {
+        "Text": "I got tired of trying to position it right and just unga bunga'd a bridge as well",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 11:47:43 AM CST",
+        "Score": 39
+    },
+    {
+        "Text": "You mean a bridge wasn’t the intended solution?",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 1:26:48 PM CST",
+        "Score": 9
+    },
+    {
+        "Text": "A bridge is always the solution if you are ambitious enough.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 1:28:28 PM CST",
+        "Score": 21
+    },
+    {
+        "Text": "Happy cake day",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 1:34:04 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "Happy cake day!!",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:04:57 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Oh I thought it would have something to do with the fans lol",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 8:15:24 AM CST",
+        "Score": 44
+    },
+    {
+        "Text": "I think I died in this part a couple times and then managed to cross it by the grace of everything holy 😆",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 9:54:18 AM CST",
+        "Score": 13
+    },
+    {
+        "Text": "Yea I thought they gave us everything for a vehicle with big wheels and a big rectangular stone slab. The standard way of building it worked fine for both ways across the lava in this instance.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 9:28:57 AM CST",
+        "Score": 10
+    },
+    {
+        "Text": "Used rock salts to extend the wheels so it would fit",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:14:31 AM CST",
+        "Score": 8
+    },
+    {
+        "Text": "I’m so stupid. I thought you were supposed to “drive” along the grates by wedging the tires in.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 2:36:02 PM CST",
+        "Score": 3
+    },
+    {
+        "Text": "…what? That’s how you’re supposed to do it?",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 9:17:01 AM CST",
+        "Score": 6
+    },
+    {
+        "Text": "You put the big wheels on the leg/arm (can’t remember which it is) box and it rolls very neatly through there.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 9:49:03 AM CST",
+        "Score": 13
+    },
+    {
+        "Text": "I rocketed me and the box over 😭",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:17:39 AM CST",
+        "Score": 10
+    },
+    {
+        "Text": "This made me lol Fr. I want to see a clip of that 😂",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 2:45:54 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "I tried doing that for 2 hours before i gave up on that and did something simmilar to the picture",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:12:34 AM CST",
+        "Score": 7
+    },
+    {
+        "Text": "It’s a pain for sure. I pulled it off my second play through, I remember giving up the first time.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:52:38 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "You're suppose to put salt on EVERYTHING. Dontchaknow???",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:03:21 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "I tried that and couldn't get it to work, so I janked my way over there using ultrahand, recall, and some very careful jumping.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:04:05 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "What?! That’s nuts. I installed a handpump at the top - it started creating rocks at the bottom which started moving forward. I might have had to “block” them somehow or something. Eventually I ascended on the other end back to the platform.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:45:04 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I thought you were supposed to make an automaton to walk you across the lava. 🤷‍♂️",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 6:39:06 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Correction: you did solve the puzzle, just in a different way.      That’s one of the reasons I love this game. There may be a “suggested” way to do things, but you can do things anyway that you’d like!",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 8:36:11 AM CST",
+        "Score": 143
+    },
+    {
+        "Text": "It makes replaying shrines a bit more interesting, too. Because if you can remember how you solved a puzzle the first time, then you can challenge yourself to solve it in a different way the next time.      I often solved shrines by abusing recall on my first run, so when I replayed the shrines I avoided using recall as much as possible.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 11:10:25 AM CST",
+        "Score": 18
+    },
+    {
+        "Text": "I honestly just went into almost every shrine with a rocket shield or two and it was amazing how often I just skipped most parts of it lol",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:16:59 PM CST",
+        "Score": 4
+    },
+    {
+        "Text": "Agreed!      I’ve replayed the “Eventide” shrines a bunch as well. Those are my favorite!",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 11:16:29 AM CST",
+        "Score": 3
+    },
+    {
+        "Text": "Try those with a requirement that you don't pick up the initial weapons and of course then fuse things, but get the constructs to accidentally hit each other with their own fused weapons. That's fun!",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:08:37 PM CST",
+        "Score": 3
+    },
+    {
+        "Text": "For a while I was playing a file for myself and for my wife, I remember coming across a frlew shrines that I know I solved differently on each file.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 2:06:32 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I replayed TOTK doing all shrines with the requirement that they must be all done clearly as NOT intended. This required making sure to fuse bombs, springs, rockets, etc. to shields for a lift before going into the shrine. You can also do a lot of \"harm\" with octo balloons since they can be taken out in shrines.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:05:28 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "hardest were the trial shrines where you are stripped of everything. To do those not as intended, you clearly don't pick up weapons and fuse things, but instead run like crazy and get constructs to burn each other up or grab a vehicle and run them over and then getting their dropped weapons is fine.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:07:00 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "9/10ths of the time, it seems like the answer is, \"A bridge.\"",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 2:54:10 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "For me, oddly, I kept using Ultrahand to put something way out in the middle of some impossible place, bring it back and sent it down, climb to the other side somehow, and then use Recall and Ultrahand to bring it the rest of the way. I may have even done that in this case of the OP!",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:10:11 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "Exploring other ways to solve puzzles in this game is part of the charm.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 8:24:54 AM CST",
+        "Score": 29
+    },
+    {
+        "Text": "Dude just cheese it with recall",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 8:52:58 AM CST",
+        "Score": 9
+    },
+    {
+        "Text": "Yep. Definitely did the same thing. I'm ashamed at the amount of long bridges I made in this game",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 9:06:04 AM CST",
+        "Score": 9
+    },
+    {
+        "Text": "When in doubt: Long bridge.      If it doesn’t work: Long-long bridge.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 1:32:13 PM CST",
+        "Score": 10
+    },
+    {
+        "Text": "Is your shame that you didn’t spend enough time building bridges? I think someone built a bridge to reach sky islands.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 9:30:34 AM CST",
+        "Score": 4
+    },
+    {
+        "Text": "If it works, it works. Good job!",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 8:10:16 AM CST",
+        "Score": 17
+    },
+    {
+        "Text": "That's probably the most impressive thing of this game, of the many impressive things there are.  That you can solve all puzzles in so many different ways.  There is no \"one way\" for the large majority of them and for sure I thought outside the box for several of them.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 8:44:46 AM CST",
+        "Score": 21
+    },
+    {
+        "Text": "I CANT HEAR YOU…PLEASE REPEAT.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 9:52:50 AM CST",
+        "Score": 23
+    },
+    {
+        "Text": "WHAT?",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 9:13:07 AM CST",
+        "Score": 8
+    },
+    {
+        "Text": "THEY'RE SELLING CHOCOLATE",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 11:26:15 AM CST",
+        "Score": 7
+    },
+    {
+        "Text": "CHOCOLATE?!?",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:50:41 PM CST",
+        "Score": 3
+    },
+    {
+        "Text": "I HEAR YOU'RE A RACIST NOW, FATHER",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:10:09 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "TO SHREDS, YOU SAY?",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 11:37:24 AM CST",
+        "Score": 2
+    },
+    {
+        "Text": "This is what happens when you don't understand Reddit auto formatting - it happened to me a few days ago.      Top tip: Edit your comment to remove the hashtag.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:17:49 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "That's one of the things I love about this game, there is no one right way to do things. As long as it works you're successful regardless of how it was suggested",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:56:22 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 7:54:50 AM CST",
+        "Score": 15
+    },
+    {
+        "Text": "Except it is.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 11:43:13 AM CST",
+        "Score": 4
+    },
+    {
+        "Text": "itt:   people who couldnt do this puzzle without a weird solution lmao",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 9:55:24 AM CST",
+        "Score": 5
+    },
+    {
+        "Text": "Turn around 180 degrees, ascend to the ledge above you, paraglide across.      Just ultrahand the piece into the lava unattached as far as it will go, then ultrahand it back to you I. The other side after you glide over      Surprisingly easy.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:10:01 AM CST",
+        "Score": 4
+    },
+    {
+        "Text": "I tried to make something that could hang between the grates, couldn't figure it out. In the end I used a couple of springs to get to the other side and use ultrahand to move the items around.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 8:41:42 AM CST",
+        "Score": 3
+    },
+    {
+        "Text": "I also made a giant platform.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 8:59:12 AM CST",
+        "Score": 3
+    },
+    {
+        "Text": "I did the same thing but with stone blocks made from cooled lava.      I knew the \"right\" solution was to make a car, but that seemed hard so I did it my own way.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 9:34:48 AM CST",
+        "Score": 3
+    },
+    {
+        "Text": "This is what I did. 🤷🏻‍♀️",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 9:35:12 AM CST",
+        "Score": 3
+    },
+    {
+        "Text": "\"big stick\" works as a solution almost every time.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 1:34:45 PM CST",
+        "Score": 3
+    },
+    {
+        "Text": "Peace in our time.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:11:04 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "When in doubt build a bridge. Works every time.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:13:21 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "I made a bridge by using Sidon by shooting water into the lava river behind this.      Fuck your technology, Mineru! We doing this stone age style!",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 11:38:37 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "That’s exactly what I did lmao, took me forever",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:07:13 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Best thing about totk is the multiple ways you can solve a problem. Doesn't matter if its right, so long as it works.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 8:52:33 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "There's no such thing of right solution ha, in one of mineru's parts I pretty much attached a rocket to it and yeeted it out.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 9:06:42 AM CST",
+        "Score": 0
+    },
+    {
+        "Text": "I cheesed it by climbing to the other side then propping the door open with junk and sliding under it.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 9:11:46 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I did this too lol lots of ways to solve the puzzles and I’m convinced I did it “the hard way” too often 😂",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 9:13:02 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I just used the recall",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 9:39:58 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "No wrong answers.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 9:53:07 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "If it works, it is intended game design. 😁 Love your solution!",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 9:53:16 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "There is no correct way",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:02:33 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "One wheel on the box standing vertically width ways and smoosh it in. Turn on the wheel and it kind of grinds across. Simple’s 👍🏻",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:22:07 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Pretty sure I used the long bridge too. I think I reused the bridge that I built to get across the previous lava pool.      I’ve built a LOT of long bridges.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:29:38 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I remember doing the recall trick for this puzzle",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:29:46 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "The lava has solid surface under it (this is universal in totk) make the \"body\" wide enough to get the wheels under the walls and on the lava. Then just drive it like a normal car.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:31:54 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I did the bridge also, but at the very end the bridge fell (must have just been on the lip of the edge, and I was ultrahanding the item over. When I fell the item landed safely but I died. It respawned me on the finish line with no bridge remaining. I was so thankful for the respawn gods",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:34:38 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "If it works, it works.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:40:48 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "The solution is whatever works. They built these temples with more then the initial intent you might see. They said as much in an interview. They wanted peoples imaginations to grow and expand and go “oh I leaned x from another temple maybe I can use that here”.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:43:49 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I did this same thing with blocks solidified out of the lava",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:46:04 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "This was my solution too",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 11:02:41 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "the right solution wasn't working for me so I made something that flung me to the other side",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 11:07:32 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "That was a frustrating puzzle. I can't remember how I solved it.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 11:11:12 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I ascended to the roof on top, there is a small mezzanine and then glided down from there, it took me ages to realize that was not what I was suposses to do 🤷🏻‍♀️.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 11:14:48 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Me in the lightning temple using floating platforms and a mirror to direct light how I want it because I couldn't be bothered solving the actual puzzle      (I later realised i couldve used a multi shot bow with dazzle fruits in bullet time)",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 11:16:52 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Elevator jump and glide solves all",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 11:33:51 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Long bridge never fails",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 11:50:32 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I did the same thing but with the cooled lava panels you can make with a hydrant Lol",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:01:52 PM CST",
+        "Score": 0
+    },
+    {
+        "Text": "I used recall for every puzzle bc the actual solutions were too hard 😭",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:13:07 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "This is one where once I got the solution, I felt stupid for not seeing it earlier.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:28:40 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I was SO pleased with myself for getting this one right on the first try",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:29:36 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "That's the great thing about this game 9/10 times there is no wrong answer",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:43:45 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I just used ultrahand to throw the construct piece into the lava (it doesn’t sink), climbed across using the wall, and then used ultrahand to grab the piece from the other side.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:46:19 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I think I did the same thing on this one",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:47:42 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Yea, I had a few where I beat it in unconventional ways. That's the beauty of these two Legend of Zelda games, beat it any way you want. There isn't just one way like the old days.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:47:51 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Rules of the game:  if it works, it was the correct solution.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:52:21 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Fortunately, there’s no wrong way to solve it. That’s the beauty of this game and BotW in certain circumstances.  It reminds me of the ”I don’t know how, but you used the wrong formula and got the correct answer.” meme.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 1:25:37 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Eventually I discovered that you can just put the thing down in the lava so I just set it down in the middle and ultrahanded it from the other side",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 1:27:26 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Unique problems require unique solutions.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 1:31:14 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I just threw the caged arm in the pit and glided across from above where the chest is, then picked it back up out of the pit",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 1:41:12 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Game Grumps? Is that you?",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 2:27:54 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Wheels bruh",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 2:28:31 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Does anyone else think the image kinda looks like a painting?",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 2:33:28 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Jesus man just flip the limb upside down and attach wheels you sociopath 🫨",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 2:52:23 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "next time just bring a rocket on your shield lmao",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 2:58:35 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "enjinear",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:10:00 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I couldn't get the wheels to line up on this so I used one wheel and a stabilizer.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:19:03 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Hey, as long as it works, then you did well enough.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:35:47 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Basically Tears of the Kingdom in a sentence",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:38:52 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "You made it across. Mark it solved my guy",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:39:06 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "The Game Grumps Approach",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:39:25 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "If it worked it was the correct way to do it.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:42:15 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I couldn't get a vehicle to work either so I just dropped the item halfway with ultrahand, climbed to a high ledge and glided across, then grabbed the item again with ultrahand.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:44:59 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "That’s one way of doing it, that’s for sure",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:46:20 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Lmao I struggled with this puzzle because when I first tried the \"right\" solution the vehicle broke so I ended up making a trebuchet bridge hybrid of sorts",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:49:57 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "If I can't solve a shrine I'll just cheese it with the recall ability. Dunno about this one though, I just did the wheels solution.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:52:06 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I did this. I knew it wanted me to build a car that was perfectly aligned with the edges. But fuck me this was easier.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:57:33 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I sent the box down as far as I could let it flow back and recalled it then repeated while standing in another item",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:57:37 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I STILL don’t know how to solve it and I already completed the dungeon",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:13:45 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Bridge supremacy",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:17:38 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I just used rockets during the entire spirit temple",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:19:18 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I like your way better. Took me way long to figure out put the wheels on the outside by the lava.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:28:36 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I love how there’s one “right” way to solve it (build a rail car) and like a million derpy ways to solve it like this long boi, or using recall cheese, or building a scaffold and just jumping off it and paragliding past, or rocketing your way across.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:29:17 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I think I attached a bunch of junk to it, ultra handed it past the half way point (cuz it was now big enough), went to the other side, picked it up, and shook all the crap off.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:41:16 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I accidentally skipped this puzzle. I was up top and jumped over, didn't realize it was there until I went back",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 5:01:21 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I got a water spout and used that to cross it bc I didn’t know what to do",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 5:02:14 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Lol I’m pretty sure I did the whole lift and time stop and quickly run to the other side and grab it",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 5:36:21 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "As long as it works!",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 5:48:17 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Which shrine is this?",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 5:58:27 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "probably took shorter than my solution, i thought the walls were there so you could put wheels facing outwards and drive on the actual wall      worst 2 hours of my life",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 6:00:32 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Looks like you solved it fine to me. 😄",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 6:14:19 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Did you solve the puzzle? Yes?      Then you did it the \"correct\" way. The \"correct\" way I'd whatever works, and that can be multiple things.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 6:26:37 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I did the same!",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 6:30:46 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "The Legend of Zelda: When in Doubt, Make Long Bridge",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 6:31:12 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "This is totk in a nutshell",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 6:44:19 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I did a similar thing, but i used hardened platforms of lava rock.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 6:49:32 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "The solution for that one was actually not too bad, but I've done plenty of that kind of stuff in this game. On the Fire temple that I heard so many people complain about all the tracks and what a pain it was, I just cimbed on the side of the building and went around the puzzle areas. It was pretty esy that way.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 7:02:55 PM CST",
+        "Score": 1
+    }
+]

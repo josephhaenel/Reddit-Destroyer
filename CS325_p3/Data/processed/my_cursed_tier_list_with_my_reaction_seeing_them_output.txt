@@ -1,0 +1,632 @@
+[
+    {
+        "Text": "Switch the Monkey Paw and the Ouija Board and I'm all for this",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 6:31:57 PM CST",
+        "Score": 166
+    },
+    {
+        "Text": "Also switch mirror and cards and I'm all for this as well",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:04:14 AM CST",
+        "Score": 45
+    },
+    {
+        "Text": "What's the best thing about the ouija board? I thought it was mainly just to ask where the ghost is or to play hide and seek",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:15:50 AM CST",
+        "Score": 19
+    },
+    {
+        "Text": "Getting the ouija board on a big map is great because you could ask for the room, for the bone, maybe it’s age",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 1:22:13 AM CST",
+        "Score": 35
+    },
+    {
+        "Text": "Easy to confirm Thaye with it",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 1:22:37 AM CST",
+        "Score": 17
+    },
+    {
+        "Text": "How do you confirm Thaye? Will the age change or something?",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 2:36:52 AM CST",
+        "Score": 5
+    },
+    {
+        "Text": "I really only use cursed possessions for a controlled drain of sanity to initiate a hunt on my terms.  What’s the strategy with the monkey’s paw?",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 6:38:22 PM CST",
+        "Score": 93
+    },
+    {
+        "Text": "“I wish for knowledge”",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 6:49:10 PM CST",
+        "Score": 77
+    },
+    {
+        "Text": "Does this always start a hunt? Because it has for my group every time but just wasn’t sure if we were unlucky, still super valuable even if we lose a team member tbf",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 6:57:20 PM CST",
+        "Score": 36
+    },
+    {
+        "Text": "guarenteed cursed hubt plus blindness/deafness",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 6:59:22 PM CST",
+        "Score": 59
+    },
+    {
+        "Text": "Or, in the case of my friend group, “I wish for life.” I swear we’re only kind of idiots, but we’re also usually drunk for Phasmo night lol",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:46:49 PM CST",
+        "Score": 31
+    },
+    {
+        "Text": "I usually act on the brink of tears, barely sobbing out the words \"I wish my friend was alive\" to make it more dramatic.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:26:20 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "i mean thats cool and all but instant hanged man then high priestess is probably the most fun thing you can have happen to you",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 9:50:42 PM CST",
+        "Score": 17
+    },
+    {
+        "Text": "Aside from knowledge, it’s great for finding the ghost room and the fact that it only triggers a regular hunt is great",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:29:03 PM CST",
+        "Score": 9
+    },
+    {
+        "Text": "It's also the only item that can get you out of a (non-cursed) Hunt by wishing to Leave. It slows you down but Unlocks all the exit doors.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:51:57 PM CST",
+        "Score": 6
+    },
+    {
+        "Text": "“I wish the ghost was trapped” locks the door to the ghost room and starts a hunt a minute later. It doesn’t cost sanity or anything. “I wish for sanity” sets all players sanity to 50% sanity and can change the ghost room. It doesn’t cause cursed hunts because the ghost doesn’t hunt from the wish",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:07:20 AM CST",
+        "Score": 6
+    },
+    {
+        "Text": "You can also revive friends at the 50% risk of dying immediately.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 1:07:50 AM CST",
+        "Score": 4
+    },
+    {
+        "Text": "Favorite to least favourite      Tarot cards (I can revive my friend)      Monkey paw (I can revive my friend but might kill me)      Music box      Ouija board      Summoning circle      Voodoo doll      Mirror (boring as hell)",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:21:08 PM CST",
+        "Score": 67
+    },
+    {
+        "Text": "Last night my buddy who paid for the loadout. Sacrificed himself in order to bring me back so I can get the xp. I just prestiged lmfao",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:38:39 PM CST",
+        "Score": 40
+    },
+    {
+        "Text": "Oof. Their sacrifice will not be forgotten 😂",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 8:01:40 PM CST",
+        "Score": 19
+    },
+    {
+        "Text": "Lmfaoo he's like. This is probably gonna be stupid and get me killed. But you've done it for me. Hahahaha I thanked him",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 8:03:04 PM CST",
+        "Score": 15
+    },
+    {
+        "Text": "Mirror is reliable and it makes finding the ghost easy. Sometimes it’s annoying trying to find the room so I’ll never complain about getting it",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 11:43:25 PM CST",
+        "Score": 14
+    },
+    {
+        "Text": "Switch the music box with the mirror & the voodoo doll with the summoning circle n I agree",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 11:46:32 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "The tarot cards can also kill you.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:14:48 AM CST",
+        "Score": 2
+    },
+    {
+        "Text": "Yes but the chances are smaller. Hang man is 1%. In my 1 year+ of playing, i got it less than 5 times",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 5:25:49 AM CST",
+        "Score": 3
+    },
+    {
+        "Text": "True, but the resurrection is 2% soo it's not that significant also.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 6:20:53 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Fair enough",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 7:30:22 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Am I just an outlier in that I don't really like the Monkey Paw?",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:13:09 PM CST",
+        "Score": 49
+    },
+    {
+        "Text": "Nah, I put it at the bottom of my list.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 10:42:52 PM CST",
+        "Score": 11
+    },
+    {
+        "Text": "it punishes you for using any aspect of it",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 1:31:48 AM CST",
+        "Score": 6
+    },
+    {
+        "Text": "Something that is guaranteed to be a bad time in exchange for information you can get by simply playing the game normally is not worth it to me. Revive is the only thing in it thats good imo and even then being a 2-man group, the trade isnt worth while if I die bringing someone back, what was the point",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:14:55 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "For me it's not even close to right      1 Tarot cards, my beloved      2 Mirror      3 Paw      4 Summon circle      5 voodoo doll      6 Ouija board      7 Music box",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:17:15 PM CST",
+        "Score": 23
+    },
+    {
+        "Text": "I loveee the board on large maps since I can ask where the bone is. Usually also followed by googling a layout, because Women’s Room 69 means nothing to me",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:48:05 PM CST",
+        "Score": 15
+    },
+    {
+        "Text": "I dislike the board simply because when you get it with random people, they always ask stuff that isn't important like \"how old are you\". Draining their sanity and causing hunts earlier      But the distaste goes both ways because for some reason, the first 2 years of the game being out, the board just did not work for me. Spirit box and everything else works fine but never got a single reply from the board. One time I literally just went in, found the board and tried to get a reply for about 30 minutes before just giving up. Works fine now but yeah",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 9:02:41 PM CST",
+        "Score": 6
+    },
+    {
+        "Text": "How old are you is good for immediately identifying a thaye, if it’s a thaye the age will change over the duration of the contract",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 10:24:38 PM CST",
+        "Score": 6
+    },
+    {
+        "Text": "Music box = grenade",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 8:29:05 PM CST",
+        "Score": 8
+    },
+    {
+        "Text": "Tarot cards>Mirror>Summoning circle>Ouija board>Monkeypaw>Music box>doll",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:15:48 PM CST",
+        "Score": 7
+    },
+    {
+        "Text": "StrikingClassroom141 is willing to throw punches and berate the devs and other people here in a public forum but as soon as someone replies to them they immediately delete their posts, avoiding any criticism. Striking called the Dev’s “pussies” for not abiding by their needs.      Once again. Peer deeply into the Haunted Mirror, you’ll certainly find that “pussy” you’re referring to is in-fact you. Get help.      Highly recommend the mods ban this clown from this subreddit.      (for those that want context look at the very bottom of this thread, few deleted posts and many downvotes)",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 8:18:36 PM CST",
+        "Score": 5
+    },
+    {
+        "Text": "circle: free ghost pic      mirror: controlled sanity manipulation      music box: scary ghost pic      ouija board: where are you = 50 sanity      tie: tarot and doll - too rng heavy",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 8:44:41 PM CST",
+        "Score": 5
+    },
+    {
+        "Text": "voodoo doll <3 (interaction)      tarot cards (rule of the card)      mirror/monkey paw      music box (killing friends)      ouija board      summoning circle",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:24:15 PM CST",
+        "Score": 4
+    },
+    {
+        "Text": "I put all my cursed items in order of the easiest way to kill my friends or randoms lmao. Love the music box for that.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 8:59:08 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "i use monkey paw with text and its hilarious",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 9:02:27 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "Tarot card roulette always fun",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:54:35 PM CST",
+        "Score": 4
+    },
+    {
+        "Text": "It's cool to see the diversity in answers.  I love mirror more than anything else because it makes games so fast.  ouija is good too but idk what half the rooms are called on the big maps.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 8:31:52 PM CST",
+        "Score": 3
+    },
+    {
+        "Text": "I'll be honest with you, I am a fan of all cursed possessions that allows me to take the ghost photo on demand and also drop my sanity to trigger a hunt on demand. Summoning Circle is my favorite because it does just that. I don't need to know where the ghost / bone is because I can find them on my own. I don't play on big and medium maps because I found them a waste of time and when I do, I make sure I have an ouija board and some strong sanity pills.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 9:26:29 PM CST",
+        "Score": 3
+    },
+    {
+        "Text": "Summoning Circle is MVP, you can finish so many objectives with it. \"Take a photo of the ghost, witness a ghost event, prevent a hunt using a crucifix\" is a favourite combo of mine when I have summoning circle.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:18:02 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I’ve never used it since a few times when cursed objects come out - it almost always seems to result in somebody getting killed! How are people escaping it once it’s loose?",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 5:06:44 AM CST",
+        "Score": 4
+    },
+    {
+        "Text": "Idk how to use any of them without dying 😭",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:19:39 AM CST",
+        "Score": 3
+    },
+    {
+        "Text": "My personal ranking is Tarot > Ouija > Mirror > Paw > Circle > Box > Doll. Not necessarily how good they are, just how much I like them",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:26:37 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "My first monkey paw was.. ahhh. I asked to see the ghost then wished for safety. It did not save me 😭 I screamed my heart out. I thought I would be safe lol",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:46:59 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "Switch voodoo doll with mirror and then switch mirror with music box voodoo doll is super good bc only 5 sanity for forced interaction that you can get evidence from like finger prints or emf",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 8:28:18 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "My favourites are definitely the ouija board, tarot cards and mirror the rest are just a nuisance",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 8:52:42 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "I name the doll, Rob",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 9:14:10 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "Is the game hard to understand or do you get the hang of it eventually?",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:26:17 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "You'll get the hang of it. Use that github thing that will help alot",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:28:17 PM CST",
+        "Score": 5
+    },
+    {
+        "Text": "I want to play it so bad because I'm a console player but I'm forced to wait. I'm sorry but people are getting pissed at me for having an opinion about the delay.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:28:54 PM CST",
+        "Score": 0
+    },
+    {
+        "Text": "Now I'm not sure this is entirely related but I'm going to go for it. How scary is it compared to some horror games on console? Is it resident evil scary, FNAF scary, or PT Scary?",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:30:55 PM CST",
+        "Score": 0
+    },
+    {
+        "Text": "It's the atmosphere. We play in the dark using only in game comms. It's not a game you win in a traditional sense you just survive which makes you think about it differently",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:34:40 PM CST",
+        "Score": 5
+    },
+    {
+        "Text": "You get the hang of it and learn with time",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:28:34 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "There are also lots of YouTube channels that teach strats and mechanics.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:50:12 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "swap mirror and tarot cards and you got yourself a deal",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:55:58 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I deleted it myself.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 8:20:24 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Okay, no more talking in this thread unless you want to talk about something actually related to the post",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 8:23:22 PM CST",
+        "Score": 6
+    },
+    {
+        "Text": "Monkey’s Paw is 100% the best cursed possession. Makes finding the ghost in large maps so easy, and no sanity drain, just by asking to wish to trap the ghost then once its done it’s little attempt to find you turn on the lights (if applicable) and then go to town looking for the locked door that isn’t the front doors or the Wing Doors on sunny meadows.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 8:40:04 PM CST",
+        "Score": 0
+    },
+    {
+        "Text": "paw >>> cards > board > mirror > box > circle > doll",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 9:20:36 PM CST",
+        "Score": 0
+    },
+    {
+        "Text": "SPEAKING STRAIGHT FACTS",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 9:32:18 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I don't know how to use the paw correctly lol",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 11:10:50 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I asked the Monkey's Paw to give me huge pectoral muscles and all it did was lock the front door.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 11:51:18 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "For me its swap mirror and tarot and then swap monkey paw and ouija",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 1:52:11 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Monkey paw > Tarot cards > mirror > Oujia > Summ circle > Voodoo doll > Music box",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:41:53 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "\"I wish to see the ghost.\" I said calmly at the entrance with the rest of my team unsure where I am.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:37:45 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "My friends and I are goblins and can't resist the tarot cards so we usually end up losing at least 2 people every time we have them lmao.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:48:07 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I’ve never gotten that mirror one. What is it?",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 5:18:01 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I have the most fun when using the music box, since I always find it before my friends so I trigger a haunt to scare the shit out of them while I’m outside laughing my ass off",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 5:49:11 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Cards are the best item if we're being real",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 6:11:40 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Switch the placements pf the Monkey's Paw and Tarot cards and it's golden for me",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 7:35:36 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I'm surprised to see everyone's love for Monkey Paw whenever it can literally never hear any of my wishes. I sit with it for minutes trying any wish and it never works. Is suppose my personal tierlist would switch voodoo doll and the paw.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:11:54 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Switch mirror and board",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 11:44:27 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "What is the purpose of Mirror besides showing the ghost room? I thought it doesnt have any other uses?",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:54:03 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I dunno. I LOVE the pentagram. Easiest ghost photo imo.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 1:22:54 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Bruh the I used to hate the doll but it's amazing",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 2:45:43 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Ouija Board      Haunted Mirror      Summoning circle      Music Box      Tarot Cards      Voodoo doll      Monkey Paw      I don't dislike any of them, but I do prefer the simpler and more predictable cursed possessions. Yeah they may not be as good but I'm more comfortable with them. The top 4 have clear short term costs for a simple yet effective reward, you can always play around them without risking too much and while the other 3 are fun I just like playing it safe and tend to not use them.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:07:44 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Accurate accept tarot cards needs to be up there with the paw",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:12:48 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "How you gonna do my boi VooDoo Buddy like that?",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:18:01 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Mirror gang rules",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:36:13 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I keep deleting shit because people won't leave me the fuck alone.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:31:28 PM CST",
+        "Score": -4
+    },
+    {
+        "Text": "What does this have to do with the post?",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:34:04 PM CST",
+        "Score": 6
+    },
+    {
+        "Text": "Please Please don't make me explain because I'm not good at that sort of thing. All I can say is they're criticizing me for having an opinion.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:34:54 PM CST",
+        "Score": -3
+    },
+    {
+        "Text": "Literally no one has criticized you, and if they have, there’s no proof because you keep deleting your comments      And again, what does this have to do with the post?",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:35:41 PM CST",
+        "Score": 12
+    },
+    {
+        "Text": "You deleted your last rant and started a new one in the same post? Are you alright, choom?",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:07:07 PM CST",
+        "Score": 0
+    },
+    {
+        "Text": "You deleted your last rant and started a new one in the same post? Are you alright, choom?",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:08:59 PM CST",
+        "Score": 7
+    },
+    {
+        "Text": "…yeah I’ll leave you alone, I’ve been told never to punch down. It’s uncouth.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:09:17 PM CST",
+        "Score": 0
+    },
+    {
+        "Text": "…yeah I’ll leave you alone, I’ve been told never to punch down. It’s uncouth.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:12:15 PM CST",
+        "Score": 3
+    },
+    {
+        "Text": "Stop disliking my comment when I'm telling the truth!",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:09:47 PM CST",
+        "Score": -7
+    },
+    {
+        "Text": "Will you people stop disliking my comment? I'm telling the truth you're just mad",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:19:20 PM CST",
+        "Score": -11
+    },
+    {
+        "Text": "It’s being downvoted because it’s not the point of this post. Go make another thread or comment on a thread where the console delay is relevant. This thread is about cursed items and why Tarot Cards are supreme",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:20:56 PM CST",
+        "Score": 9
+    },
+    {
+        "Text": "Can you just agree with me for once please?",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:21:35 PM CST",
+        "Score": -8
+    },
+    {
+        "Text": "I’ve literally never talked to you before, not sure what you mean “for once.” Yes it sucks that console was delayed. Still not the point of this thread",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:22:23 PM CST",
+        "Score": 8
+    },
+    {
+        "Text": "No one has to agree with you on anything, it’s perfectly fine to have differing opinions about something",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:33:46 PM CST",
+        "Score": 4
+    },
+    {
+        "Text": "You don’t seem to understand Reddit. Downvotes are literally intended for irrelevancy. Sure, it can be used as a dislike button, but it’s definitely for irrelevancy here.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 10:22:24 PM CST",
+        "Score": 3
+    },
+    {
+        "Text": "So you want constant crashes and an unplayable game for the sake of having a broken and unplayable game now, as opposed to later when it's actually functioning like it does on PC?",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 6:27:07 PM CST",
+        "Score": 0
+    },
+    {
+        "Text": "So you want constant crashes and an unplayable game for the sake of having a broken and unplayable game now, as opposed to later when it's actually functioning like it does on PC?",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 6:29:55 PM CST",
+        "Score": 21
+    },
+    {
+        "Text": "What’s to understand? You want it released regardless of whether or not it works.      Judging by your unhinged comment history, you don’t even want to play the game so are you just venting or what’s the deal?",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 6:30:40 PM CST",
+        "Score": 0
+    },
+    {
+        "Text": "What’s to understand? You want it released regardless of whether or not it works.      Judging by your unhinged comment history, you don’t even want to play the game so are you just venting or what’s the deal?",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 6:52:10 PM CST",
+        "Score": 4
+    },
+    {
+        "Text": "They’re trying to fix issues regarding cross play or in game bugs. You can’t just port a game over from Steam to the console stores without having to make adjustments. Why would they want to not release it when a whole bunch of money can be made? Give it a while, the devs will release it once they are ready.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 6:53:42 PM CST",
+        "Score": 4
+    }
+]

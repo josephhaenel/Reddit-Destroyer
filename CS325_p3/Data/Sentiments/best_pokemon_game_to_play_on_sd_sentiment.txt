@@ -68,10 +68,10 @@ Comment: I use left/right (the upper DS screen on the left). It was weird in the
 Sentiment: Positive
 
 Comment: Any GBA game
-Sentiment: None
+Sentiment: Neutral
 
 Comment: Hi u/dan7ebg, you can click here to search for your question.    If you don't find an answer there, don't worry - your post has NOT been removed and hopefully someone will be along soon to help with an answer!  If you find an answer, please leave a comment on your post with the answer for others!I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.
-Sentiment: None
+Sentiment: Positive
 
 Comment: Trying pokemon infinite fusion its pretty cool
 Sentiment: positive

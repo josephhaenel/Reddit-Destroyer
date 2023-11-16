@@ -28,15 +28,17 @@ Usage:
     Ensure that OPENAI_API_KEY is set with your valid API key.
     Initialize the APICalls class with a list of comments and a URL, and call the `getSentiment` method to perform sentiment analysis on the comments.
 """
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = ''
 
 import openai
 import time
 import os
+import re
 
 class APICalls:
     def __init__(self, comments, url):
         base_name = [part for part in url.split('/') if part][-1].split('?')[0]
+        base_name = re.sub(r'[^\w\s-]', '', base_name).strip()
         self.outFile = os.path.join('Data','Sentiments', base_name + '_sentiment.txt')
         self.comments = comments
         if not OPENAI_API_KEY:
