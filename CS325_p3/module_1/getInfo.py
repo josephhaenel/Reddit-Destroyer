@@ -44,9 +44,9 @@ class InfoExtractor:
         if not commentLikes:
             return 0
         return int(commentLikes) if commentLikes else 0
-
+    
     @staticmethod
-    def getCommentUsername(comment):
+    def getCommentUsername(comment): # No Longer Working
         '''
         Extracts the username associated with a given comment.
 

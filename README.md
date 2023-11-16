@@ -1,34 +1,32 @@
 # Reddit Thread Scraper
 
 ## Prerequisites
-- [git](https://git-scm.com/downloads)
-- [miniconda](https://docs.conda.io/projects/miniconda/en/latest/)
-- [firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [Git](https://git-scm.com/downloads)
+- [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
-## How to use:
+## How to Use
 1. **Clone the Repository:**
-    - `git clone https://github.com/josephhaenel/Reddit-Destroyer.git`
+    - Run `git clone https://github.com/josephhaenel/Reddit-Destroyer.git`
 2. **Navigate to the Project Directory:**
-    - Open the Anaconda prompt(miniconda3).
-    - `cd Reddit-Destroyer`
+    - Open the Anaconda Prompt (Miniconda3).
+    - Enter `cd Reddit-Destroyer`
 3. **Set Up the Conda Environment:**
-    - Create a new environment from the provided yaml file:
+    - Create a new environment from the provided YAML file:
         - `conda env create -f requirement.yaml`
-    - Actiate the environment:
+    - Activate the environment:
         - `conda activate RedditDestroyerEnv`
 4. **Navigate to the Project Directory via Command Line or Integrated Terminal:**
-    - On Windows: Press Windows + R, type *cmd*, and press Enter
-    - On macOS: Press Cmd + Space, type *Terminal*, and press Enter
-    - On Linux: Open a terminal from the application menu or use a shortcut, often Ctrl + Alt + T
-5. **Run The Script:**
+    - On Windows: Press `Windows + R`, type `cmd`, and press `Enter`
+    - On macOS: Press `Cmd + Space`, type `Terminal`, and press `Enter`
+    - On Linux: Open a terminal from the application menu or use the shortcut, often `Ctrl + Alt + T`
+5. **Run the Script:**
     - `python run.py --dir "<Input File>"`
-    - Replace `<Input File>` with the directory of the .txt file with the reddit URLS you want to scrape, for example,
-     `C:\Users\joseph\Desktop\CS 325 Projects\Reddit-Destroyer\CS325_p3\input.txt`
-    - Please note, the .txt file accepts one URL per line.
-    - *Also replace the openai API Key with your own*
-    - Please Note: The links must *NOT* be a https://*old*.reddit.com/.../...
-    - If a *sign in window* pops up on the top right of the firefox window, just *close it* so the script can continue, it messes it up somehow
-
+    - Replace `<Input File>` with the path to the .txt file containing Reddit URLs you wish to scrape. For example, `C:\Users\joseph\Desktop\CS 325 Projects\Reddit-Destroyer\CS325_p3\input.txt`
+    - Note: The .txt file should contain one URL per line.
+    - Also, replace the OpenAI API key with your own.
+    - Important: The URLs must *not* be from `https://old.reddit.com/.../...`
+    - If a sign-in window pops up in the top right of the Firefox window, close it to allow the script to continue, as it interferes with the process.
 
 ## Dependencies
 - Firefox
@@ -37,7 +35,7 @@
 - BeautifulSoup4 v4.12.2
 - Webdriver-Manager v4.0.0
 
-**Do not close the Firefox window until it closes itself**
-*The name stopped working due to a reddit update, but it isn't required for the project anyway*
+**Note: Do not close the Firefox window until it closes by itself.**
+*The script's name stopped working due to a Reddit update, but it's not required for the project.*
 
-*Made by **Joseph Haenel** for CS 325 @SIUE*
+*Created by **Joseph Haenel** for CS 325 at SIUE*

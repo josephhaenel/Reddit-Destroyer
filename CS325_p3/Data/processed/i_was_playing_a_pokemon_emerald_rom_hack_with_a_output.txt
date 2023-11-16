@@ -1,0 +1,614 @@
+[
+    {
+        "Text": "Jesus, they went a little nuts with abilities",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 3:14:19 PM CST",
+        "Score": 1518
+    },
+    {
+        "Text": "I haven't seen busted abilities like this since I discovered the DnD Wiki.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 4:54:09 PM CST",
+        "Score": 709
+    },
+    {
+        "Text": "“what do you mean i can’t concentrate on 3 spells at once? your table is dumb!”",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:14:14 PM CST",
+        "Score": 355
+    },
+    {
+        "Text": "5e limiting you to one spell at a time is dumb though.      Come to mathfinder cough I mean r/Pathfinder_RPG  we have the maths",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 9:49:33 PM CST",
+        "Score": 80
+    },
+    {
+        "Text": "There is more to wizardry than Magic Missile.  Even if I can do 200 damage automatic with no save.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 8:26:03 PM CST",
+        "Score": 3
+    },
+    {
+        "Text": "To be fair it was randomized.      The only mon that should have Radiance is Mega Lanturn      It would normally have theses abilities",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 6:22:05 AM CST",
+        "Score": 66
+    },
+    {
+        "Text": "That's still ridiculous lol",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 11:07:06 AM CST",
+        "Score": 19
+    },
+    {
+        "Text": "Still crazy-",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 9:51:41 AM CST",
+        "Score": 3
+    },
+    {
+        "Text": "Pyromancy alone is ludicrous LOL",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 9:11:57 PM CST",
+        "Score": 3
+    },
+    {
+        "Text": "Even without randomizer, they gave jolteon electric surge, multiple abilities that boost electric moves, and rising voltage",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 7:52:33 AM CST",
+        "Score": 14
+    },
+    {
+        "Text": "Semi unrelated but I pulled a huge power slaking in a firered rando and it felt so good",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:29:24 AM CST",
+        "Score": 6
+    },
+    {
+        "Text": "Damn I wish delphox was good normally",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 2:11:49 PM CST",
+        "Score": 1138
+    },
+    {
+        "Text": "What make Delphox bad?",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 6:00:47 PM CST",
+        "Score": 221
+    },
+    {
+        "Text": "shit move pool and not so great stats (you can cover 99% bad pokemon with these 2 reasons)",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 6:03:22 PM CST",
+        "Score": 773
+    },
+    {
+        "Text": "Oh and it’s hidden ability is garbage",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 6:48:23 PM CST",
+        "Score": 231
+    },
+    {
+        "Text": "Ledian",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 6:38:22 PM CST",
+        "Score": 24
+    },
+    {
+        "Text": "outclassed by other ranged revenge killers, prone to pursuit trappers and knock off, walled by slowking and vaporeon and threatened by a lot of common pokemon. Great in adventure, victim of circumstance in competitive",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 6:09:35 PM CST",
+        "Score": 91
+    },
+    {
+        "Text": "Not prone to Pursuit trappers anymore. T_T",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 10:56:41 PM CST",
+        "Score": 13
+    },
+    {
+        "Text": "pursuit?",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 11:02:23 PM CST",
+        "Score": 7
+    },
+    {
+        "Text": "dont get me wrong delphox line is my fav starter, it just doesn't work well competitively.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 6:04:21 PM CST",
+        "Score": 20
+    },
+    {
+        "Text": "Also it looks way better as a sprite, wow",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 6:42:54 PM CST",
+        "Score": 35
+    },
+    {
+        "Text": "Every pokemon looks better as a sprite. For older mons (mostly Gen 1/2) they reused a lot of model designs from the N64.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 11:13:17 PM CST",
+        "Score": 27
+    },
+    {
+        "Text": "But it has a cool name",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:36:56 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "That's truly insane",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 1:55:24 PM CST",
+        "Score": 224
+    },
+    {
+        "Text": "For anyone asking, the ROM is Elite Redux. I believe there is an Elite Redux site you can use to patch an Emerald ROM.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 4:41:58 PM CST",
+        "Score": 431
+    },
+    {
+        "Text": "I love Elite Redux. I need to try the randomizer though cuz I've only played the base game most of the way through and got kinda bored",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 6:05:05 PM CST",
+        "Score": 79
+    },
+    {
+        "Text": "the randomizer is crazy as fuck, some pokemon get busted like OP's OP Delphox or you get something that becomes a brick because 1/4 abilities rolled Imposter and its on one of the 3 abilities you can't change.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 11:05:05 PM CST",
+        "Score": 49
+    },
+    {
+        "Text": "Once you get a Huge Power Slaking with Multiscale and Speed Boost even Arceus wouldn't dare to anger you",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:37:53 AM CST",
+        "Score": 30
+    },
+    {
+        "Text": "Exactly, Kecleon with both Colour change AND Protean with leftovers, substitute and toxic is busted and can sweep through almost any team except the E4",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:26:45 AM CST",
+        "Score": 2
+    },
+    {
+        "Text": "Is it in-game randomizer or you need universal randomizer?",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:24:41 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "It's Integrated in game.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:44:06 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Four Abilities?",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 5:26:11 PM CST",
+        "Score": 135
+    },
+    {
+        "Text": "It's the rom hack pokemon elite redux it has 4 abilities",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 6:44:40 PM CST",
+        "Score": 99
+    },
+    {
+        "Text": "idk what the creator was thinking considering how extremely overboard that is. theres also lack of theming consistency, like why tf does a pyromancer witch has an ability to boost water type moves?",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:37:20 PM CST",
+        "Score": 32
+    },
+    {
+        "Text": "It doesn't op randomized abilities and innates",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:38:20 PM CST",
+        "Score": 183
+    },
+    {
+        "Text": "Delphox's normal \"inates\" in this romhack are:      Blaze - Buffed to always increase fire moves by 20%, and by 50% when below 1/3rd hp.      Pyromancy - Fire moves burn 5x more often.      Psychic Mind - Psychic moves do 25% more damage.      So every Delphox always has all three of those and then on top of that, for abilities it has the choice of 1 of these 3:      Immolate - Normal type moves become fire type and have a 10% power boost      Neuroforce - Super effective moves are 25% stronger      Magic Guard - Regular magic guard      This Rom hack's philosophy definitely seems to be \"make everything OP, so that nothing is\". There'll be a huge amount of team variety in there, and it will definitely be information overload for a lot of people, but I can imagine it would be pretty fun for a lot of people too.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 8:41:54 PM CST",
+        "Score": 140
+    },
+    {
+        "Text": "can we talk about how much Delphox would rock those shades tho",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 4:18:40 PM CST",
+        "Score": 61
+    },
+    {
+        "Text": "Straight. Up.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 4:15:13 PM CST",
+        "Score": 125
+    },
+    {
+        "Text": "Gay. Down.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 4:26:52 PM CST",
+        "Score": 152
+    },
+    {
+        "Text": "Bi. Left.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 4:58:27 PM CST",
+        "Score": 71
+    },
+    {
+        "Text": "Bi. Right.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 5:18:10 PM CST",
+        "Score": 71
+    },
+    {
+        "Text": "Trans right",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 5:35:40 PM CST",
+        "Score": 21
+    },
+    {
+        "Text": "Let’s go Lesbians! Let’s go!",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:37:45 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Gg rom win 😂😂😂",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 2:16:47 PM CST",
+        "Score": 32
+    },
+    {
+        "Text": "Ultra Instinct Delphox      (what is the Rom called? Sounds like a trip)",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 4:26:08 PM CST",
+        "Score": 33
+    },
+    {
+        "Text": "Elite Redux, each Poké has 4 abilities, so basically everything is broken, hence nothing is",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:26:42 AM CST",
+        "Score": 14
+    },
+    {
+        "Text": "Delphox looks way cooler as a 2D sprite",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 5:18:45 PM CST",
+        "Score": 22
+    },
+    {
+        "Text": "Give Delphox Beads of Ruin…",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 5:08:43 PM CST",
+        "Score": 11
+    },
+    {
+        "Text": "this would be really good with choice scarf too, as you get the sp.atk boosts from grim neigh anyway. Its base speed (104) is pretty good but there are some things that outspeed, also since delphox is modest and not timid that means some jolly/timid pokemon will outspeed. Still extremely busted though, nice find.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 5:53:46 PM CST",
+        "Score": 9
+    },
+    {
+        "Text": "Elite Redux is a lot of fun and very challenging.. I haven't even used randomizers at all",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:26:06 PM CST",
+        "Score": 6
+    },
+    {
+        "Text": "I haven't played since USUM and I assume this is part of the ROM, but are innates a thing that was added in recent gens? Like extra whole ass abilities?",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 10:13:21 PM CST",
+        "Score": 4
+    },
+    {
+        "Text": "if this is a nuzlocke, prepare for the most horrendous, bullshit crits in existence.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 5:34:56 PM CST",
+        "Score": 3
+    },
+    {
+        "Text": "inb4 assblasted by Aqua Jet crit",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 6:19:16 PM CST",
+        "Score": 3
+    },
+    {
+        "Text": "Not even Arceus can save whatever Pokémon the opponent sends out",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:56:57 PM CST",
+        "Score": 3
+    },
+    {
+        "Text": "Wait... There are ROM hacks of older generation pokémon games that contain actual modern pokémon?      I... Did not know this was a thing. Looks like I have some stuff to find",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 9:02:22 PM CST",
+        "Score": 3
+    },
+    {
+        "Text": "Plenty of them. Prism and Unbound are the first two that come to mind.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 9:20:40 PM CST",
+        "Score": 3
+    },
+    {
+        "Text": "Know of any that are updated as far as S/V?",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 9:33:08 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Not off the top of my head :x",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 9:34:35 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "Radical Red has every Pokémon outside of recent DLC mons",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:23:52 AM CST",
+        "Score": 2
+    },
+    {
+        "Text": "Pokémon Anil, Pokémon Island, Project Revival, Pokémon Vanguard. There might be more but these are the ones at the top of my head, which includes gen 9.      (Vanguard is not finished though)",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 5:07:48 AM CST",
+        "Score": 2
+    },
+    {
+        "Text": "Radical Red 4 is up to gen 9",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:38:38 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "In the past I played emerald theta which had megas.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:35:59 AM CST",
+        "Score": 2
+    },
+    {
+        "Text": "Congratulations, you have won the gamr",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:25:13 AM CST",
+        "Score": 3
+    },
+    {
+        "Text": "what do the glasses do??",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 4:42:35 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "Choice specs. Up special atk by 50% but make it so you can only use one move unless you swap out",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 4:49:22 PM CST",
+        "Score": 17
+    },
+    {
+        "Text": "Seeing a Gen 6 Pokémon as a sprite with the Gen 4 UI in an Emerald hack is blowing my mind.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 8:44:47 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "You just got THE delphox 💀",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 9:23:16 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "Does that thing have FOUR ABILITIES?",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 10:44:44 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "What is Radiance?",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 11:49:11 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": ". +20% accuracy / dark type moves fail when user is present",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 1:58:45 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Emerald Exceeded, right?",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 5:24:27 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Good God, I go nuts when I roll drizzle thunder, but this thing is just gg.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 5:57:52 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Wow. First time a delphox was good.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 6:00:02 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "This guy has sketch.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 5:48:05 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "elite redux lets you randomize innates???",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 7:26:51 PM CST",
+        "Score": 0
+    },
+    {
+        "Text": "I’ve been seeing the Vince in the chair meme a lot more recently…",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 8:30:47 PM CST",
+        "Score": 0
+    },
+    {
+        "Text": "Can u pls tell me the best pokemon emerald romhack to play which isnt as hard as kaizo? I just want to experience the emerald game cause ive heard it is one of the best there is but i also dont want to play normal emerald cause ive always played games after the physical special split so id be hella confused",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 9:54:44 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "How about #2 from this list? Theta Emerald EX.  https://www.reddit.com/r/PokemonROMhacks/comments/zd2epw/what_are_the_best_pokemon_emerald_enhancement/    It's harder than base game by quite a lot but not nearly Kaizo levels. It has physical/special split too.      Another option is to play either Omega Ruby or Alpha Sapphire, I really enjoyed that, and I reckon it's pretty faithful to the originals (I played Ruby back in the day). Going for ORAS first could be better, get an experience that is closer to the original experience but with just small improvements and way better graphics. I would guess that ORAS are more similar to normal Emerald than Theta Emerald EX.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 11:40:02 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "What does nature do?",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 10:08:50 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Okay but imagine rolling competitive defiant moody tho",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 2:37:30 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Got an Shedinja with sturdy, i think it cant die to attacks xD",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 5:21:41 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Oh momma.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 5:34:36 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "I mean it's nice...      But hear me out.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 6:31:42 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 6:32:03 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Torrent delphox with steam eruption of all moves... Now thats something",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 6:51:40 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "How do you add in Pokemon after Gen 3 to an emerald randomizer?",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 7:52:37 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "What is the rom hack ?",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 8:25:06 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Ew the weird fox thing      Nah im good",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 8:57:32 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "its amazing how much nicer the pixel art of delphox looks than the 3d model 😕",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 9:54:53 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "The death.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:22:44 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Last time I tried playing a randomizer, it replaced zubats with zapdos. But they were flying/ground and had arena trap.      I had nothing that could hit them super effectively, couldn't run, and they all had extremely powerful moves.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 10:32:05 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Thats sounds like hell",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 2:24:37 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "With that luck, you should buy a lottery ticket",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 11:24:02 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "This is Elite Redux. Bro you can just change the natures, and learn a lot of those moves, though those ability rolls are fantastic.      In fact, you can get a much better moveset than that in just a few clicks",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 11:28:13 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "A underrated starter. Unless we talk about THAT side if the internet.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 12:17:16 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "What emerald rom hack has innate abilities? And why so many?",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 3:44:16 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Ah, Elite Redux. Remind me to get it sometime.",
+        "Username": null,
+        "Date": "Wednesday, November 15, 2023 at 4:10:22 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "This is going to have a body count xD",
+        "Username": null,
+        "Date": "Thursday, November 16, 2023 at 3:09:37 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Delphox but actually good.",
+        "Username": null,
+        "Date": "Thursday, November 16, 2023 at 10:06:38 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Delphox sneezes you die💀",
+        "Username": null,
+        "Date": "Thursday, November 16, 2023 at 11:25:52 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Thank you for posting to r/pokemon! It looks like this post has not been claimed as Original Content (OC).      If this is your own work, please reply to this comment with [OC] or I made this. You can also toggle the oc flag on your post.      A reminder that r/pokemon requires all creative work to be OC, in order to protect creators. If this is not your own work, please delete your post per Rule 5. Thank you!  I am a bot, and may not detect all forms of OC claims. If you've already made it clear that this is your work, please ignore this comment.I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 1:24:57 PM CST",
+        "Score": -1
+    },
+    {
+        "Text": "How do you download roms and on what? I’ve tried for iPhone but nada!",
+        "Username": null,
+        "Date": "Tuesday, November 14, 2023 at 4:29:16 PM CST",
+        "Score": -1
+    }
+]

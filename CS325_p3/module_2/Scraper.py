@@ -1,7 +1,7 @@
 '''
     Filename:       Scraper.py
     By:             Joseph Haenel
-    Date:           09-08-2023
+    Date:           11-16-2023
     Dependencies:   Selenium, BeautifulSoup4, Webdriver-Manager, Firefox Browser
     Using Python 3.11.0
     
