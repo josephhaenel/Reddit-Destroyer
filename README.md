@@ -21,12 +21,12 @@
     - On macOS: Press Cmd + Space, type *Terminal*, and press Enter
     - On Linux: Open a terminal from the application menu or use a shortcut, often Ctrl + Alt + T
 5. **Run The Script:**
-    - `python run.py --dir "<Input File>"`
-    - Replace `<Input File>` with the directory of the .txt file with the reddit URLS you want to scrape, for example,
-     `C:\Users\joseph\Desktop\CS 325 Projects\Reddit-Destroyer\CS325_p3\input.txt`
-    - Please note, the .txt file accepts one URL per line.
+    - Replace `<Link>` and `<Output File>` with the link to the reddit thread you want to scrape and file you want the comments to output to, for example,
+     'https://www.reddit.com/r/funny/comments/16brnzb/self_aware/'.
     - *Also replace the openai API Key with your own*
-    - Please Note: The links must *NOT* be a https://*old*.reddit.com/.../...
+        - `python run.py <Link> <Output File>`
+    - `<Output File>` is optional and will default to `<redditName>_output.txt`
+    - Please Note: The link must *NOT* be a https://*old*.reddit.com/.../...
     - If a *sign in window* pops up on the top right of the firefox window, just *close it* so the script can continue, it messes it up somehow
 
 
@@ -38,6 +38,5 @@
 - Webdriver-Manager v4.0.0
 
 **Do not close the Firefox window until it closes itself**
-*The name stopped working due to a reddit update, but it isn't required for the project anyway*
 
 *Made by **Joseph Haenel** for CS 325 @SIUE*

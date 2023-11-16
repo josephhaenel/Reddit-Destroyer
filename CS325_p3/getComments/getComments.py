@@ -19,7 +19,6 @@ Exceptions:
 """
 import os
 import json
-import re
 
 class GetComments:
     def __init__(self, base_dir='Data', sub_dir='processed'):
@@ -29,9 +28,7 @@ class GetComments:
     def getCommentsText(self, file=None, url=None, limit=50):  # limit parameter with default value of 50
         if file is None and url is not None:
             base_name = [part for part in url.split('/') if part][-1].split('?')[0]
-            base_name = re.sub(r'[^\w\s-]', '', base_name).strip()
             in_file = os.path.join(self.base_dir, self.sub_dir, base_name + '_output.txt')
-            
         elif file is not None:
             in_file = os.path.join(self.base_dir, self.sub_dir, file)
         else:

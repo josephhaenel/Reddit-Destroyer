@@ -1,0 +1,182 @@
+[
+    {
+        "Text": "You should check out Pokémon ROM hacks. I'm playing through Pokémon Unbound, and it's awesome.I just installed Emudeck that comes with emulators for all Nintendo system (and others). The handheld emulators work out of the box (maybe DS need bios files, I don't remember), otherwise just download your roms, place it in a folder and you're good to go.",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 11:24:06 AM CST",
+        "Score": 31
+    },
+    {
+        "Text": "Unbound is a god tier hack.",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 12:38:39 PM CST",
+        "Score": 10
+    },
+    {
+        "Text": "What system is unbound for?Haven't heard of it but I'm now intrigued if you don't mind telling me a little about it",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 11:37:41 AM CST",
+        "Score": 8
+    },
+    {
+        "Text": "Pokémon unbound is rom hack of (1636 Pokemon Fire Red ( U)( Squirrels)) and runs on gba emulators.",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 11:59:40 AM CST",
+        "Score": 13
+    },
+    {
+        "Text": "Thanks I'll check it out",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 1:07:47 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "Here's the link: https://www.pokemoncoders.com/pokemon-unbound/",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 1:01:23 PM CST",
+        "Score": 10
+    },
+    {
+        "Text": "",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 1:07:38 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "The DS BIOS files are optional, but I think without them they don’t complete the experience",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 11:29:13 AM CST",
+        "Score": 3
+    },
+    {
+        "Text": "Has pokemon unbound different language support. My wife has played every pokemon game and I think she would be happy about new fodder, but her english is not up there and that kills the fun for her",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 2:23:48 PM CST",
+        "Score": 3
+    },
+    {
+        "Text": "I may be wrong, but I don't think so.",
+        "Username": null,
+        "Date": "Monday, February 27, 2023 at 9:43:25 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "How do you download and find roms? I must be the only person that can’t seem to figure it out. I have GBA and ps3 games but have no clue how to put them on emu deck. It’s like the only piece of any online instruction that isn’t clear- how to obtain roms",
+        "Username": null,
+        "Date": "Sunday, July 30, 2023 at 9:37:29 AM CDT",
+        "Score": 1
+    },
+    {
+        "Text": "Romhacks/fan games! I’m playing Pokémon Unbound and Infinite Fusion now, and they’re both incredible. Unbound is a romhack, so you just put it with your regular gba roms. IF is a Windows program, so I just placed the files in my games folder and added the exe as a non-Steam game.Both have a lot of cool features and mechanics you won’t find in official Pokémon games, like the ability to fuse any two Pokémon into a new unique mon in IF.Edit: and for emulators,don’t overthink it. Just install Emudeck and call it a day.",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 11:34:25 AM CST",
+        "Score": 15
+    },
+    {
+        "Text": "Pokemon Emerald RogueBasically a roguelike version of pokemon, runs are usually a few hours to finish.Very addictive 😵‍💫",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 1:04:36 PM CST",
+        "Score": 8
+    },
+    {
+        "Text": "https://www.youtube.com/watch?v=NZP4UEUWS9g imo Pokémon Luminescent, modders pretty much remade Pokémon Renegade Platinum for the switch using Pokémon Brilliant Diamond. https://www.youtube.com/@LumiTeam recommend checking out their channel and discord . Runs really nice on the SD using Ryujinx and emudeck",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 12:38:20 PM CST",
+        "Score": 7
+    },
+    {
+        "Text": "Pokemon Conquest, an underrated gem",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 6:58:46 PM CST",
+        "Score": 5
+    },
+    {
+        "Text": "I’ve been playing Pokémon Diamond through the DeSmuMe (I think that’s what it’s called, and it’s not the 2015 version) through Retroarch since that’s what Emudeck has for DS Emulation",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 11:22:48 AM CST",
+        "Score": 4
+    },
+    {
+        "Text": "I've found pokemmo really great on the deck overall, takes a few roms and a tiny bit of setup but really rad take on classics, plus mods of stuff which makes it a bit more challenging!",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 3:32:22 PM CST",
+        "Score": 3
+    },
+    {
+        "Text": "Surprised it took so long to find someone else mentioning PokeMMO, definitely recommend looking into it, especially if you have other people to play with, though the forced internet connection to play may not be the best fit for the Deck.",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 3:49:26 PM CST",
+        "Score": 4
+    },
+    {
+        "Text": "Nintendo would like to know your location, they are extremely unhappy you are having fun not on Nintendo hardware.      Also Nintendo: Did you know Nuzlockes are illegal?      xD",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 11:24:09 PM CST",
+        "Score": 3
+    },
+    {
+        "Text": "Pokemon infinite fusions it's fanmade but so good. Highly recommend it",
+        "Username": null,
+        "Date": "Monday, February 27, 2023 at 8:35:37 AM CST",
+        "Score": 3
+    },
+    {
+        "Text": "I would say red/blue, crystal/gold, and emerald/ruby but that's really the only ones I played.      Wouldn't say they're worth playing on the deck you can play them on your phone and that's a more suitable enviorment for that imo.",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 12:34:03 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "For those saying DS versions, how do y’all set up the displays? I feel like most of the layouts are really weird to use",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 1:47:42 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "I use left/right (the upper DS screen on the left). It was weird in the beginning but I felt like it was the best option and I really like it now.",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 6:22:45 PM CST",
+        "Score": 2
+    },
+    {
+        "Text": "Any GBA game",
+        "Username": null,
+        "Date": "Monday, February 27, 2023 at 9:39:19 AM CST",
+        "Score": 2
+    },
+    {
+        "Text": "Hi u/dan7ebg, you can click here to search for your question.    If you don't find an answer there, don't worry - your post has NOT been removed and hopefully someone will be along soon to help with an answer!  If you find an answer, please leave a comment on your post with the answer for others!I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 11:11:19 AM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Trying pokemon infinite fusion its pretty cool",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 12:53:05 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Heart Gold",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 2:54:15 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Me and the missus just started playing pokemon infinite fusions. Would highly recommend trying it out.",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 5:19:33 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Pokemon reborn! Cannot stress enough how addictive this game is (and it’s like 3x longer than any real pokemon game)",
+        "Username": null,
+        "Date": "Sunday, February 26, 2023 at 7:09:10 PM CST",
+        "Score": 1
+    },
+    {
+        "Text": "Pokemon Black 2 Redux. It's the same as regular Black 2 but harder, more mons and new post game.",
+        "Username": null,
+        "Date": "Monday, February 27, 2023 at 5:23:08 AM CST",
+        "Score": 1
+    }
+]

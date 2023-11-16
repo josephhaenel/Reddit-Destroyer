@@ -24,7 +24,6 @@ from module_1.getInfo import InfoExtractor
 import os
 import sys
 import json
-import re
 
 class ScraperClass:
     def __init__(self, url, output_file=None):
@@ -40,7 +39,6 @@ class ScraperClass:
         if output_file is None:
             # Extract the last segment of the URL, removing any query strings
             base_name = [part for part in self.url.split('/') if part][-1].split('?')[0]
-            base_name = re.sub(r'[^\w\s-]', '', base_name).strip()
             self.output_file = os.path.join('Data', 'processed', base_name + '_output.txt')
         else:
             self.output_file = os.path.join('Data', 'processed', output_file)
