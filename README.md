@@ -20,7 +20,14 @@
     - On Windows: Press `Windows + R`, type `cmd`, and press `Enter`
     - On macOS: Press `Cmd + Space`, type `Terminal`, and press `Enter`
     - On Linux: Open a terminal from the application menu or use the shortcut, often `Ctrl + Alt + T`
-5. **Run the Script:**
+5. Change and Setup OPENAI API Key
+   - Navigate to OPENAI website (Should be something like platform.openai.com)
+   - After logging in, their should be a tab to the left which says API Keys, click it.
+   - Click "Create New Secret Key"
+   - Input any name and click "Create Secret Key"
+   - Copy it and navigate to "chatgpt_integration/apiCalls.py" in your local repository.
+   - Replace "OPENAI_API_KEY" with your copied api key.
+6. **Run the Script:**
     - `python run.py --dir "<Input File>"`
     - Replace `<Input File>` with the path to the .txt file containing Reddit URLs you wish to scrape. For example, `C:\Users\joseph\Desktop\CS 325 Projects\Reddit-Destroyer\CS325_p3\input.txt`
     - Note: The .txt file should contain one URL per line.
