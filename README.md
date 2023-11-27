@@ -20,7 +20,14 @@
     - On Windows: Press Windows + R, type *cmd*, and press Enter
     - On macOS: Press Cmd + Space, type *Terminal*, and press Enter
     - On Linux: Open a terminal from the application menu or use a shortcut, often Ctrl + Alt + T
-5. **Run The Script:**
+5. Change and Setup OPENAI API Key
+   - Navigate to OPENAI website (Should be something like platform.openai.com)
+   - After logging in, their should be a tab to the left which says API Keys, click it.
+   - Click "Create New Secret Key"
+   - Input any name and click "Create Secret Key"
+   - Copy it and navigate to "chatgpt_integration/apiCalls.py" in your local repository.
+   - Replace "OPENAI_API_KEY" with your copied api key.
+7. **Run The Script:**
     - Replace `<Link>` and `<Output File>` with the link to the reddit thread you want to scrape and file you want the comments to output to, for example,
      'https://www.reddit.com/r/funny/comments/16brnzb/self_aware/'.
         - `python Reddit-Destroyer.py <Link> <Output File>`
