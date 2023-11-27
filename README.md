@@ -27,6 +27,12 @@
    - Input any name and click "Create Secret Key"
    - Copy it and navigate to "chatgpt_integration/apiCalls.py" in your local repository.
    - Replace "OPENAI_API_KEY" with your copied api key.
+   - The general format for an api call:
+   -  response = openai.Completion.create(
+      engine="text-davinci-003",
+      prompt="What dinosaurs lived in the cretaceous period?",
+      max_tokens=60 )
+    - Useful article: https://www.linkedin.com/pulse/unleashing-ai-power-beginners-guide-openai-api-calls-python-fleming/
 6. **Run The Script:**
     - Replace `<Link>` and `<Output File>` with the link to the reddit thread you want to scrape and file you want the comments to output to, for example,
      'https://www.reddit.com/r/funny/comments/16brnzb/self_aware/'.
