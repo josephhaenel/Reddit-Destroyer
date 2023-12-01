@@ -92,5 +92,5 @@ Comment: water luffy extreme diff
 Sentiment: neutral
 
 Comment: That's tuff
-Sentiment: None
+Sentiment: Neutral
 

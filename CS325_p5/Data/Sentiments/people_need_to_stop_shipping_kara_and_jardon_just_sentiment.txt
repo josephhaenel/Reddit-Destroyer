@@ -80,7 +80,7 @@ Comment: Didn’t they meet on the earth smp? That was one of the first captain 
 Sentiment: Positive
 
 Comment: The story goes:      They had the same managing company, and they were introduced because they got a lot of similar sponsorships and could play them together. She had no idea who he was. Their oldest known collab is an Apex stream from March 2019, 3 months before she joined SMPLive.
-Sentiment: None
+Sentiment: Neutral
 
 Comment: they met each other before that and the first game they streamed together was Apex Legends which you can find on his second channel
 Sentiment: neutral
