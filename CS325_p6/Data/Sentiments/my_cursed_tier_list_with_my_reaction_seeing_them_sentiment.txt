@@ -143,7 +143,7 @@ Comment: Idk how to use any of them without dying 😭
 Sentiment: negative
 
 Comment: My personal ranking is Tarot > Ouija > Mirror > Paw > Circle > Box > Doll. Not necessarily how good they are, just how much I like them
-Sentiment: The sentiment of the comment is neutral.
+Sentiment: Neutral
 
 Comment: My first monkey paw was.. ahhh. I asked to see the ghost then wished for safety. It did not save me 😭 I screamed my heart out. I thought I would be safe lol
 Sentiment: Negative

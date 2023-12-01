@@ -124,23 +124,23 @@ Sentiment: Negative
 Comment: honestly just connecting those 2 pieces in my mind, that “sexy” was a way these tributes could try and make themselves perceived for their interviews on stuff, and that some of these tributes are as young as 12, like rue
 Sentiment: neutral
 
-Comment: 
-Sentiment: I had an amazing time at the concert!
+Comment: I had an amazing time at the concert!
+Sentiment: Positive
 
-Comment: 
-Sentiment: I just had the most amazing day of my life!
+Comment: I just had the most amazing day of my life!
+Sentiment: Positive
 
-Comment: 
-Sentiment: I love these new shoes! They are so comfortable and stylish.
+Comment: I love these new shoes! They are so comfortable and stylish.
+Sentiment: Positive
 
-Comment: 
-Sentiment: I just ate the most delicious meal at a new restaurant in town. The flavors were incredible and the service was outstanding!
+Comment: I just ate the most delicious meal at a new restaurant in town. The flavors were incredible and the service was outstanding!
+Sentiment: Positive
 
-Comment: 
-Sentiment: I just received the best news ever! My dream job finally came through!
+Comment: I just received the best news ever! My dream job finally came through!
+Sentiment: Positive
 
-Comment: 
-Sentiment: I just saw the most breathtaking sunset over the ocean. It was truly a magical moment.
+Comment: I just saw the most breathtaking sunset over the ocean. It was truly a magical moment.
+Sentiment: Positive
 
 Comment: The fact that Panem might really be the last human civilization left.
 Sentiment: Neutral

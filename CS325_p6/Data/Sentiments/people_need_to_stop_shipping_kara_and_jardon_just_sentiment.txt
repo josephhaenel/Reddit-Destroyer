@@ -97,3 +97,107 @@ Sentiment: Neutral
 Comment: How about whatever they do, we support them, and just hope they are happy and healthy.
 Sentiment: positive
 
+Comment: "Respecting their privacy is key, whether they're friends or more, it's their business, not ours."
+Sentiment: Positive
+
+Comment: "Shipping real people is just awkward and invasive. Let them live their lives."
+Sentiment: Negative
+
+Comment: "It's fun to speculate, but at the end of the day, their relationship is their own."
+Sentiment: Neutral
+
+Comment: "People need to remember these are real humans, not characters in a show."
+Sentiment: Positive
+
+Comment: "Their chemistry is great, but that doesn't necessarily mean romance."
+Sentiment: Neutral
+
+Comment: "I think it's sweet that they're such good friends. Whatever their relationship is, it's special."
+Sentiment: Positive
+
+Comment: "People are too quick to label every close friendship as romantic."
+Sentiment: Negative
+
+Comment: "Just because two people get along well doesn't mean they're dating. Let them be."
+Sentiment: Positive
+
+Comment: "The constant shipping must be exhausting for them. Fans should back off."
+Sentiment: Negative
+
+Comment: "Their dynamic is really fun to watch, whatever it is."
+Sentiment: Positive
+
+Comment: "I love their streams together, they always make me laugh, no matter what their relationship status is."
+Sentiment: Positive
+
+Comment: "Can't people just enjoy their content without obsessing over their personal lives?"
+Sentiment: Neutral
+
+Comment: "It's a bit creepy how some fans are so invested in their personal lives."
+Sentiment: Negative
+
+Comment: "They seem like great friends, and that's all that should matter to us."
+Sentiment: Positive
+
+Comment: "I respect their decision to keep things private. It's not our place to pry."
+Sentiment: Positive
+
+Comment: "Why do fans feel entitled to know every detail of creators' lives?"
+Sentiment: Negative
+
+Comment: "Their friendship is a testament to how people can be close without being romantically involved."
+Sentiment: Positive
+
+Comment: "Fans should focus on the content, not the creators' personal lives."
+Sentiment: Neutral
+
+Comment: "Speculating about their relationship feels disrespectful."
+Sentiment: Negative
+
+Comment: "They handle the shipping with such grace, but it must be annoying."
+Sentiment: Positive
+
+Comment: "It's unfair to them to constantly have their relationship under a microscope."
+Sentiment: Negative
+
+Comment: "Their friendship is goals, honestly. Whether it's platonic or not, it's beautiful."
+Sentiment: Positive
+
+Comment: "Let's appreciate the content they create and leave their personal lives alone."
+Sentiment: Positive
+
+Comment: "The constant speculation about their relationship is over the top."
+Sentiment: Negative
+
+Comment: "They seem happy just being friends, and that's great."
+Sentiment: Positive
+
+Comment: "It's none of our business what their relationship is, just enjoy the streams."
+Sentiment: Neutral
+
+Comment: "I'm just here for the entertaining content, not the drama."
+Sentiment: Positive
+
+Comment: "Their friendship is so pure and genuine, why complicate it with rumors?"
+Sentiment: Positive
+
+Comment: "Fans should respect their boundaries and not push their own narratives."
+Sentiment: Positive
+
+Comment: "They have a right to privacy, and the constant shipping must be violating."
+Sentiment: Negative
+
+Comment: "People forget that content creators are real people with real lives."
+Sentiment: Neutral
+
+Comment: "It's refreshing to see a male and female friendship that isn't romanticized."
+Sentiment: Positive
+
+Comment: "Why can't we just enjoy their content without making assumptions about their lives?"
+Sentiment: Neutral
+
+Comment: "I admire how they've handled the situation with maturity and respect."
+Sentiment: Positive
+
+Comment: "Their personal lives shouldn't be a topic of public discussion."
+Sentiment: Positive

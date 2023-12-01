@@ -32,7 +32,7 @@ def getTerminalArgs() -> str:
     containing the Reddit thread URLs.
     """
     parser = argparse.ArgumentParser()
-    parser.add_argument('--dir', help='Path to the .txt file with the Reddit Threads to be scraped', type=str, required=True)
+    parser.add_argument('--dir', help='Path to the .txt file with the Reddit Threads to be scraped', type=str, required=False)
     args = parser.parse_args()
     
     return args.dir
@@ -40,6 +40,8 @@ def getTerminalArgs() -> str:
 if __name__ == '__main__':
     # Get the file path from terminal arguments
     dir = getTerminalArgs()
+    if dir == None:
+        dir = 'CS325_p6/input.txt'
 
     # Check if the specified file exists
     if not os.path.isfile(dir):

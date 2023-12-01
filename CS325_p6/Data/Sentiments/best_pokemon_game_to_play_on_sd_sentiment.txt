@@ -16,8 +16,8 @@ Sentiment: positive
 Comment: Here's the link: https://www.pokemoncoders.com/pokemon-unbound/
 Sentiment: Neutral
 
-Comment: 
-Sentiment: I love this place! The food is amazing and the staff is so friendly and attentive.
+Comment: I love this place! The food is amazing and the staff is so friendly and attentive.
+Sentiment: Positive
 
 Comment: The DS BIOS files are optional, but I think without them they don’t complete the experience
 Sentiment: Positive
@@ -87,4 +87,208 @@ Sentiment: Positive
 
 Comment: Pokemon Black 2 Redux. It's the same as regular Black 2 but harder, more mons and new post game.
 Sentiment: positive
+
+Comment: "Have you tried Pokémon Gaia? It's a brilliant ROM hack with an original story."
+Sentiment: Positive
+
+Comment: "I love the new features in Pokémon Unbound, especially the difficulty settings."
+Sentiment: Positive
+
+Comment: "Can anyone recommend a good emulator for playing these ROM hacks on PC?"
+Sentiment: Neutral
+
+Comment: "I'm not a fan of fan-made games, I prefer the official Pokémon releases."
+Sentiment: Negative
+
+Comment: "Pokémon Radical Red is another hack you should definitely check out!"
+Sentiment: Positive
+
+Comment: "I'm having trouble installing the emulator, can someone help?"
+Sentiment: Negative
+
+Comment: "I don't understand why people play ROM hacks when there are so many official games."
+Sentiment: Neutral
+
+Comment: "The creativity in some of these ROM hacks is just amazing!"
+Sentiment: Positive
+
+Comment: "Are ROM hacks legal? I'm a bit worried about downloading them."
+Sentiment: Neutral
+
+Comment: "The storyline in Pokémon Unbound is just as good as any official game."
+Sentiment: Positive
+
+Comment: "I think ROM hacks are a great way to keep the Pokémon spirit alive."
+Sentiment: Positive
+
+Comment: "I prefer playing on original hardware, emulators just don’t feel the same."
+Sentiment: Negative
+
+Comment: "Does anyone have recommendations for hacks with a lot of post-game content?"
+Sentiment: Neutral
+
+Comment: "Pokémon Ash Gray is a nostalgic trip, follows the anime storyline!"
+Sentiment: Positive
+
+Comment: "I find ROM hacks to be a bit overwhelming with all their new features."
+Sentiment: Neutral
+
+Comment: "Playing ROM hacks has rekindled my love for Pokémon games."
+Sentiment: Positive
+
+Comment: "Some ROM hacks are too difficult for casual players like me."
+Sentiment: Negative
+
+Comment: "Is it just me, or do some ROM hacks have better stories than the originals?"
+Sentiment: Positive
+
+Comment: "I'm new to ROM hacks, where should I start?"
+Sentiment: Neutral
+
+Comment: "I wish Nintendo would take inspiration from some of these hacks."
+Sentiment: Positive
+
+Comment: "I can’t get my emulator to work properly, it keeps crashing."
+Sentiment: Negative
+
+Comment: "ROM hacks add so much replay value to the classic Pokémon games."
+Sentiment: Positive
+
+Comment: "I'm amazed by the custom graphics in some hacks, they look professional!"
+Sentiment: Positive
+
+Comment: "I'm a bit skeptical about the quality of fan-made Pokémon games."
+Sentiment: Neutral
+
+Comment: "Can anyone recommend hacks with unique mechanics?"
+Sentiment: Neutral
+
+Comment: "I find the difficulty in some hacks to be unbalanced and frustrating."
+Sentiment: Negative
+
+Comment: "Playing Pokémon Clover was a hilarious experience, it's so well done!"
+Sentiment: Positive
+
+Comment: "I miss the simplicity of the original games, hacks are too complex for me."
+Sentiment: Neutral
+
+Comment: "The community behind these ROM hacks is so talented and dedicated."
+Sentiment: Positive
+
+Comment: "I’m worried about downloading ROMs from the internet, seems risky."
+Sentiment: Negative
+
+Comment: "Pokémon Prism is a masterpiece of a ROM hack, highly recommend it."
+Sentiment: Positive
+
+Comment: "I prefer the original games, hacks just don't have the same charm."
+Sentiment: Negative
+
+Comment: "Is it hard to create a Pokémon ROM hack? I'm interested in making one."
+Sentiment: Neutral
+
+Comment: "The difficulty in some hacks is perfect for veteran Pokémon players."
+Sentiment: Positive
+
+Comment: "I’m not a fan of how some hacks change too much of the original game."
+Sentiment: Negative
+
+Comment: "Pokémon Light Platinum is another must-play for any ROM hack enthusiast."
+Sentiment: Positive
+
+Comment: "I would say red/blue, crystal/gold, and emerald/ruby but that's really the only ones I played. Wouldn't say they're worth playing on the deck you can play them on your phone and that's a more suitable environment for that imo."
+Sentiment: Neutral
+
+Comment: "For those saying DS versions, how do y’all set up the displays? I feel like most of the layouts are really weird to use."
+Sentiment: Neutral
+
+Comment: "I use left/right (the upper DS screen on the left). It was weird in the beginning but I felt like it was the best option and I really like it now."
+Sentiment: Positive
+
+Comment: "Any GBA game."
+Sentiment: Neutral
+
+Comment: "Hi u/dan7ebg, you can click here to search for your question. If you don't find an answer there, don't worry - your post has NOT been removed and hopefully someone will be along soon to help with an answer! If you find an answer, please leave a comment on your post with the answer for others! I am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns."
+Sentiment: Positive
+
+Comment: "Trying pokemon infinite fusion its pretty cool."
+Sentiment: Positive
+
+Comment: "Heart Gold."
+Sentiment: Neutral
+
+Comment: "Me and the missus just started playing pokemon infinite fusions. Would highly recommend trying it out."
+Sentiment: Positive
+
+Comment: "Pokemon reborn! Cannot stress enough how addictive this game is (and it’s like 3x longer than any real Pokemon game)."
+Sentiment: Positive
+
+Comment: "Pokemon Black 2 Redux. It's the same as regular Black 2 but harder, more mons and new post game."
+Sentiment: Positive
+
+Comment: "Have you tried Pokémon Gaia? It's a brilliant ROM hack with an original story."
+Sentiment: Positive
+
+Comment: "I love the new features in Pokémon Unbound, especially the difficulty settings."
+Sentiment: Positive
+
+Comment: "Can anyone recommend a good emulator for playing these ROM hacks on PC?"
+Sentiment: Neutral
+
+Comment: "I'm not a fan of fan-made games, I prefer the official Pokémon releases."
+Sentiment: Negative
+
+Comment: "Pokémon Radical Red is another hack you should definitely check out!"
+Sentiment: Positive
+
+Comment: "I'm having trouble installing the emulator, can someone help?"
+Sentiment: Negative
+
+Comment: "I don't understand why people play ROM hacks when there are so many official games."
+Sentiment: Neutral
+
+Comment: "The creativity in some of these ROM hacks is just amazing!"
+Sentiment: Positive
+
+Comment: "Are ROM hacks legal? I'm a bit worried about downloading them."
+Sentiment: Neutral
+
+Comment: "The storyline in Pokémon Unbound is just as good as any official game."
+Sentiment: Positive
+
+Comment: "I think ROM hacks are a great way to keep the Pokémon spirit alive."
+Sentiment: Positive
+
+Comment: "I prefer playing on original hardware, emulators just don’t feel the same."
+Sentiment: Negative
+
+Comment: "Does anyone have recommendations for hacks with a lot of post-game content?"
+Sentiment: Neutral
+
+Comment: "Pokémon Ash Gray is a nostalgic trip, follows the anime storyline!"
+Sentiment: Positive
+
+Comment: "I find ROM hacks to be a bit overwhelming with all their new features."
+Sentiment: Neutral
+
+Comment: "Playing ROM hacks has rekindled my love for Pokémon games."
+Sentiment: Positive
+
+Comment: "Some ROM hacks are too difficult for casual players like me."
+Sentiment: Negative
+
+Comment: "Is it just me, or do some ROM hacks have better stories than the originals?"
+Sentiment: Positive
+
+Comment: "I'm new to ROM hacks, where should I start?"
+Sentiment: Neutral
+
+Comment: "I wish Nintendo would take inspiration from some of these hacks."
+Sentiment: Positive
+
+Comment: "Pokémon Roon Red is another hack you should definitely check out!"
+Sentiment: Positive
+
+Comment: "I'm having trouble installing EMU emulator, can someone pleasssee help?"
+Sentiment: Negative
 

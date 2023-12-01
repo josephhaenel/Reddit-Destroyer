@@ -92,5 +92,103 @@ Comment: water luffy extreme diff
 Sentiment: neutral
 
 Comment: That's tuff
-Sentiment: None
+Sentiment: Neutral
 
+Comment: "Afro Luffy embodies the true essence of Luffy's unpredictable style."
+Sentiment: Positive
+
+Comment: "Mizu Luffy was a cool concept, but nothing beats the classic Afro Luffy charm."
+Sentiment: Positive
+
+Comment: "The debate between Afro Luffy and Mizu Luffy is hilarious, but I'd bet on Afro any day."
+Sentiment: Positive
+
+Comment: "Afro Luffy's sheer charisma gives him an edge over any version of Luffy."
+Sentiment: Positive
+
+Comment: "Mizu Luffy was a smart tactical move against Crocodile, but Afro Luffy is iconic."
+Sentiment: Neutral
+
+Comment: "Honestly, I think Mizu Luffy had more potential strategically."
+Sentiment: Neutral
+
+Comment: "Afro Luffy's power isn't just in the afro, it's in the attitude."
+Sentiment: Positive
+
+Comment: "It's all about the afro. Mizu Luffy doesn't stand a chance."
+Sentiment: Positive
+
+Comment: "I love how One Piece can have such absurd debates like this. Afro Luffy for the win!"
+Sentiment: Positive
+
+Comment: "Mizu Luffy had a moment, but Afro Luffy is forever."
+Sentiment: Positive
+
+Comment: "Can we get a spin-off series just about Afro Luffy's adventures?"
+Sentiment: Positive
+
+Comment: "Afro Luffy's fight was one of the funniest moments in One Piece."
+Sentiment: Positive
+
+Comment: "I'm still waiting for the return of Afro Luffy in the manga."
+Sentiment: Neutral
+
+Comment: "Mizu Luffy was innovative, but Afro Luffy is just on another level."
+Sentiment: Positive
+
+Comment: "Both are great, but Afro Luffy has a special place in my heart."
+Sentiment: Positive
+
+Comment: "I think Mizu Luffy was underrated, he had a great tactical advantage."
+Sentiment: Neutral
+
+Comment: "The afro is not just a hairstyle, it's a symbol of power for Luffy."
+Sentiment: Positive
+
+Comment: "Afro Luffy brings a whole new meaning to 'fighting with style'."
+Sentiment: Positive
+
+Comment: "Mizu Luffy was a clever idea, but it's all about the afro."
+Sentiment: Neutral
+
+Comment: "The afro adds ten points to Luffy's strength, no question."
+Sentiment: Positive
+
+Comment: "Mizu Luffy had a specific purpose, but Afro Luffy is universally awesome."
+Sentiment: Positive
+
+Comment: "Afro Luffy is the epitome of cool. He can't be beaten."
+Sentiment: Positive
+
+Comment: "Why choose? I love both Afro and Mizu Luffy equally."
+Sentiment: Neutral
+
+Comment: "Afro Luffy just brings so much joy and laughter, definitely my favorite."
+Sentiment: Positive
+
+Comment: "Mizu Luffy was a nice try, but the afro brings the real power."
+Sentiment: Positive
+
+Comment: "It's hilarious how serious some people are about Afro Luffy's power level."
+Sentiment: Neutral
+
+Comment: "I'd pay to see a rematch between Afro Luffy and Mizu Luffy."
+Sentiment: Positive
+
+Comment: "Afro Luffy's fight scenes are some of the best in the series."
+Sentiment: Positive
+
+Comment: "Mizu Luffy was a smart play, but Afro Luffy wins in terms of entertainment."
+Sentiment: Positive
+
+Comment: "Afro Luffy has become an iconic part of One Piece's humor and charm."
+Sentiment: Positive
+
+Comment: "The power of the afro is unmatched in the One Piece universe."
+Sentiment: Positive
+
+Comment: "Mizu Luffy was clever, but Afro Luffy is legendary."
+Sentiment: Positive
+
+Comment: "Afro Luffy has that special something that makes him unforgettable."
+Sentiment: Positive

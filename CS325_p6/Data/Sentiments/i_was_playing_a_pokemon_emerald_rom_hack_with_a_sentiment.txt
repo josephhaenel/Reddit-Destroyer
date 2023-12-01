@@ -148,3 +148,182 @@ Sentiment: positive
 Comment: Elite Redux is a lot of fun and very challenging.. I haven't even used randomizers at all
 Sentiment: Positive
 
+Comment: "The balance in Elite Redux is off, but it makes for a unique experience."
+Sentiment: Neutral
+
+Comment: "I prefer hacks that stay true to the original Pokémon formula, less overwhelming."
+Sentiment: Positive
+
+Comment: "Overpowered abilities ruin the strategy aspect of Pokémon."
+Sentiment: Negative
+
+Comment: "I love how these hacks breathe new life into old games!"
+Sentiment: Positive
+
+Comment: "Some of these abilities are so broken, they make the game too easy."
+Sentiment: Negative
+
+Comment: "Is there a hack that balances the original games better? Looking for recommendations."
+Sentiment: Neutral
+
+Comment: "The creativity in these ROM hacks is impressive, but sometimes it's too much."
+Sentiment: Neutral
+
+Comment: "I enjoy the challenge of overpowered Pokémon in ROM hacks, it's a fresh experience."
+Sentiment: Positive
+
+Comment: "The new abilities in some hacks are fun but can be game-breaking."
+Sentiment: Negative
+
+Comment: "I'm amazed by the variety of abilities in these hacks, never a dull moment."
+Sentiment: Positive
+
+Comment: "Some abilities in these hacks don’t make sense, like a fire-type with water powers."
+Sentiment: Negative
+
+Comment: "Hacks like these make me appreciate the balance in official Pokémon games."
+Sentiment: Positive
+
+Comment: "Playing these ROM hacks has shown me how much potential there is in modding."
+Sentiment: Positive
+
+Comment: "The lack of balance in some hacks makes competitive play impossible."
+Sentiment: Negative
+
+Comment: "I found a hack that perfectly rebalances the original games, it's a must-play."
+Sentiment: Positive
+
+Comment: "These hacks are fun, but sometimes the original game mechanics are better."
+Sentiment: Neutral
+
+Comment: "ROM hacks with new abilities add an exciting twist to the gameplay."
+Sentiment: Positive
+
+Comment: "It's frustrating when hacks become too focused on novelty abilities."
+Sentiment: Negative
+
+Comment: "The new abilities in some hacks make you rethink your entire strategy."
+Sentiment: Positive
+
+Comment: "I wish official games would adopt some of these innovative abilities from hacks."
+Sentiment: Positive
+
+Comment: "Sometimes these hacks feel like a completely different game, which isn't always good."
+Sentiment: Neutral
+
+Comment: "I love the experimentation in these hacks, even if it's not perfectly balanced."
+Sentiment: Positive
+
+Comment: "The overpowered abilities in some hacks take away from the skill aspect."
+Sentiment: Negative
+
+Comment: "These hacks are great for those who want a more casual, fun Pokémon experience."
+Sentiment: Positive
+
+Comment: "I’m torn between loving the creativity and missing the original game balance."
+Sentiment: Neutral
+
+Comment: "The game mechanics in some hacks are so different, it feels like a new game."
+Sentiment: Positive
+
+Comment: "I appreciate the effort, but some hacks just don't feel like Pokémon anymore."
+Sentiment: Negative
+
+Comment: "Incredible how some hacks offer a completely revamped gameplay experience."
+Sentiment: Positive
+
+Comment: "I find the unpredictability of new abilities in hacks both exciting and annoying."
+Sentiment: Neutral
+
+Comment: "The challenge of adapting to new abilities in hacks keeps the game interesting."
+Sentiment: Positive
+
+Comment: "Some hacks are so unbalanced, they’re only fun for casual play."
+Sentiment: Neutral
+
+Comment: "It's refreshing to see hacks that challenge the conventional Pokémon gameplay."
+Sentiment: Positive
+
+Comment: "I don't like how some hacks completely disregard the balance of abilities."
+Sentiment: Negative
+
+Comment: "The new abilities in hacks can be a fun twist, but sometimes they're just too much."
+Sentiment: Neutral
+
+Comment: "ROM hacks with unique abilities offer a new perspective on Pokémon battles."
+Sentiment: Positive
+
+Comment: "Hacks like these make me appreciate the balance in official Pokémon games."
+Sentiment: Positive
+
+Comment: "Playing these ROM hacks has shown me how much potential there is in modding."
+Sentiment: Positive
+
+Comment: "The lack of balance in some hacks makes competitive play impossible."
+Sentiment: Negative
+
+Comment: "I found a hack that perfectly rebalances the original games, it's a must-play."
+Sentiment: Positive
+
+Comment: "These hacks are fun, but sometimes the original game mechanics are better."
+Sentiment: Neutral
+
+Comment: "ROM hacks with new abilities add an exciting twist to the gameplay."
+Sentiment: Positive
+
+Comment: "It's frustrating when hacks become too focused on novelty abilities."
+Sentiment: Negative
+
+Comment: "The new abilities in some hacks make you rethink your entire strategy."
+Sentiment: Positive
+
+Comment: "I wish official games would adopt some of these innovative abilities from hacks."
+Sentiment: Positive
+
+Comment: "Sometimes these hacks feel like a completely different game, which isn't always good."
+Sentiment: Neutral
+
+Comment: "I love the experimentation in these hacks, even if it's not perfectly balanced."
+Sentiment: Positive
+
+Comment: "The overpowered abilities in some hacks take away from the skill aspect."
+Sentiment: Negative
+
+Comment: "These hacks are great for those who want a more casual, fun Pokémon experience."
+Sentiment: Positive
+
+Comment: "I’m torn between loving the creativity and missing the original game balance."
+Sentiment: Neutral
+
+Comment: "The game mechanics in some hacks are so different, it feels like a new game."
+Sentiment: Positive
+
+Comment: "I appreciate the effort, but some hacks just don't feel like Pokémon anymore."
+Sentiment: Negative
+
+Comment: "Incredible how some hacks offer a completely revamped gameplay experience."
+Sentiment: Positive
+
+Comment: "I find the unpredictability of new abilities in hacks both exciting and annoying."
+Sentiment: Neutral
+
+Comment: "The challenge of adapting to new abilities in hacks keeps the game interesting."
+Sentiment: Positive
+
+Comment: "Some hacks are so unbalanced, they’re only fun for casual play."
+Sentiment: Neutral
+
+Comment: "It's refreshing to see hacks that challenge the conventional Pokémon gameplay."
+Sentiment: Positive
+
+Comment: "I don't like how some hacks completely disregard the balance of abilities."
+Sentiment: Negative
+
+Comment: "The new abilities in hacks can be a fun twist, but sometimes they're just too much."
+Sentiment: Neutral
+
+Comment: "ROM hacks with unique abilities offer a new perspective on Pokémon battles."
+Sentiment: Positive
+
+Comment: "I'm all for creativity, but there's a fine line between fun and broken."
+Sentiment: Neutral
