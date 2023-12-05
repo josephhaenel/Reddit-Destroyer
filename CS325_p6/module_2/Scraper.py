@@ -27,23 +27,23 @@ import json
 import re
 
 class ScraperClass:
-    def __init__(self, url, output_file=None):
+    def __init__(self, url, outputFile=None):
         '''
         Initializes the scraper.
         
         Parameters:
         - url (str): The URL of the Reddit thread to be scraped.
-        - output_file (str, optional): The name of the output file. 
+        - outputFile (str, optional): The name of the output file. 
                                        If not provided, a filename is generated based on the URL.
         '''
         self.url = url
-        if output_file is None:
+        if outputFile is None:
             # Extract the last segment of the URL, removing any query strings
-            base_name = [part for part in self.url.split('/') if part][-1].split('?')[0]
-            base_name = re.sub(r'[^\w\s-]', '', base_name).strip()
-            self.output_file = os.path.join('Data', 'processed', base_name + '_output.txt')
+            baseName = [part for part in self.url.split('/') if part][-1].split('?')[0]
+            baseName = re.sub(r'[^\w\s-]', '', baseName).strip()
+            self.outputFile = os.path.join('Data', 'processed', baseName + '_output.txt')
         else:
-            self.output_file = os.path.join('Data', 'processed', output_file)
+            self.outputFile = os.path.join('Data', 'processed', outputFile)
 
     def scrape(self):
         '''
@@ -71,5 +71,5 @@ class ScraperClass:
             results.append(commentData)
 
         # Write the results to a JSON file
-        with open(self.output_file, 'w', encoding='utf-8') as file:
+        with open(self.outputFile, 'w', encoding='utf-8') as file:
             json.dump(results, file, ensure_ascii=False, indent=4)

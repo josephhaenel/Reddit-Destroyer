@@ -39,9 +39,9 @@ class APICalls:
         Extracts the basename from the URL to create an output file path.
         Raises ValueError if the OpenAI API key is not set.
         """
-        base_name = [part for part in url.split('/') if part][-1].split('?')[0]
-        base_name = re.sub(r'[^\w\s-]', '', base_name).strip()
-        self.outFile = os.path.join('Data', 'Sentiments', base_name + '_sentiment.txt')
+        baseName = [part for part in url.split('/') if part][-1].split('?')[0]
+        baseName = re.sub(r'[^\w\s-]', '', baseName).strip()
+        self.outFile = os.path.join('Data', 'Sentiments', baseName + '_sentiment.txt')
         self.comments = comments
 
         if not OPENAI_API_KEY:

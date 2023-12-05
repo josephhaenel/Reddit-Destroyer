@@ -5,8 +5,8 @@ It provides a method `getCommentsText` that can retrieve comments either from a 
 or from a JSON file named after the last part of a given URL, limited to a specified number of comments.
 
 Attributes:
-    base_dir (str): The base directory where the JSON files are stored.
-    sub_dir (str): The subdirectory within base_dir where processed JSON files are located.
+    baseDir (str): The base directory where the JSON files are stored.
+    subDir (str): The subdirectory within baseDir where processed JSON files are located.
 
 Methods:
     getCommentsText(file=None, url=None, limit=50):
@@ -22,31 +22,31 @@ import json
 import re
 
 class GetComments:
-    def __init__(self, base_dir='Data', sub_dir='processed'):
-        self.base_dir = base_dir
-        self.sub_dir = sub_dir
+    def __init__(self, baseDir='Data', subDir='processed'):
+        self.baseDir = baseDir
+        self.subDir = subDir
 
     def getCommentsText(self, file=None, url=None, limit=50):  # limit parameter with default value of 50
         if file is None and url is not None:
-            base_name = [part for part in url.split('/') if part][-1].split('?')[0]
-            base_name = re.sub(r'[^\w\s-]', '', base_name).strip()
-            in_file = os.path.join(self.base_dir, self.sub_dir, base_name + '_output.txt')
+            baseName = [part for part in url.split('/') if part][-1].split('?')[0]
+            baseName = re.sub(r'[^\w\s-]', '', baseName).strip()
+            inFile = os.path.join(self.baseDir, self.subDir, baseName + '_output.txt')
             
         elif file is not None:
-            in_file = os.path.join(self.base_dir, self.sub_dir, file)
+            inFile = os.path.join(self.baseDir, self.subDir, file)
         else:
             raise ValueError("Either file or url must be provided")
 
         comments_text = []
         try:
-            with open(in_file, 'r', encoding='utf-8') as f:
+            with open(inFile, 'r', encoding='utf-8') as f:
                 data = json.load(f)  # Parse the JSON data from the file
                 # Limit the number of comments processed to the limit parameter
                 for entry in data[:limit]:  # Slice the data to only include up to `limit` entries
                     comments_text.append(entry['Text'])  # Extract the text field
         except FileNotFoundError:
-            print(f"The file {in_file} was not found.")
+            print(f"The file {inFile} was not found.")
         except json.JSONDecodeError:
-            print(f"There was an error decoding the JSON data from the file {in_file}.")
+            print(f"There was an error decoding the JSON data from the file {inFile}.")
 
         return comments_text

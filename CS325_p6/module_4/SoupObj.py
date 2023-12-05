@@ -84,13 +84,13 @@ class SoupObject:
             lastHeight = newHeight  # Update scroll height
         
         # Get base name of reddit thread from URL    
-        base_name = [part for part in url.split('/') if part][-1].split('?')[0]
-        base_name = re.sub(r'[^\w\s-]', '', base_name).strip()
-        raw_html_filename = os.path.join("Data", "raw", f"{base_name}_raw.txt")
+        baseName = [part for part in url.split('/') if part][-1].split('?')[0]
+        baseName = re.sub(r'[^\w\s-]', '', baseName).strip()
+        rawHtmlFilename = os.path.join("Data", "raw", f"{baseName}_raw.txt")
         os.makedirs(os.path.join("Data", "raw"), exist_ok=True)
         # Write the raw html to raw/<RedditThread>_raw.txt
-        with open(raw_html_filename, "w", encoding="utf-8") as raw_html_file:
-            raw_html_file.write(driver.page_source)
+        with open(rawHtmlFilename, "w", encoding="utf-8") as rawHtmlFile:
+            rawHtmlFile.write(driver.page_source)
         # Convert the loaded page source into a BeautifulSoup object
         soup = BeautifulSoup(driver.page_source, 'html.parser')
         driver.quit()  # Close the browser
