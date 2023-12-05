@@ -6,7 +6,7 @@ The APICalls class takes a list of comments and a URL as inputs. It extracts the
 
 Attributes:
     comments (list[str]): A list of comments for sentiment analysis.
-    outFile (str): File path to store the analysis results.
+    outFile (str): File path to store the analysis results. # Deprecated in new version
 
 Methods:
     analyzeSentiment(comment: str) -> str:
